@@ -115,14 +115,14 @@
         <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon60.png">
             <Visible>false</Visible>
         </ImageAsset>
-        <ImageAsset Include="Assets.xcassets\Pantry.imageset\Contents.json" />
-        <ImageAsset Include="Assets.xcassets\Pantry.imageset\pantry.png" />
         <ImageAsset Include="Assets.xcassets\PickIngredients.imageset\Contents.json" />
         <ImageAsset Include="Assets.xcassets\DietNeeds.imageset\Contents.json" />
         <ImageAsset Include="Assets.xcassets\About.imageset\Contents.json" />
         <ImageAsset Include="Assets.xcassets\About.imageset\abouticon.png" />
         <ImageAsset Include="Assets.xcassets\DietNeeds.imageset\dietaryneeds.png" />
         <ImageAsset Include="Assets.xcassets\PickIngredients.imageset\pickingredients.png" />
+        <ImageAsset Include="Assets.xcassets\Pantry2.imageset\Contents.json" />
+        <ImageAsset Include="Assets.xcassets\Pantry2.imageset\pantry2.png" />
     </ItemGroup>
     <ItemGroup>
         <Folder Include="Resources\" />
@@ -130,6 +130,7 @@
         <Folder Include="Assets.xcassets\PickIngredients.imageset\" />
         <Folder Include="Assets.xcassets\DietNeeds.imageset\" />
         <Folder Include="Assets.xcassets\About.imageset\" />
+        <Folder Include="Assets.xcassets\Pantry2.imageset\" />
     </ItemGroup>
     <ItemGroup>
         <InterfaceDefinition Include="LaunchScreen.storyboard" />

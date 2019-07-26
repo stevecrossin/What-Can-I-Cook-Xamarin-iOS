@@ -16,28 +16,10 @@ namespace WhatCanICook
     {
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UIButton DietNeeds { get; set; }
-
-        [Outlet]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UIButton Pantry { get; set; }
-
-        [Outlet]
-        [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UIButton PickIngredients { get; set; }
 
         void ReleaseDesignerOutlets ()
         {
-            if (DietNeeds != null) {
-                DietNeeds.Dispose ();
-                DietNeeds = null;
-            }
-
-            if (Pantry != null) {
-                Pantry.Dispose ();
-                Pantry = null;
-            }
-
             if (PickIngredients != null) {
                 PickIngredients.Dispose ();
                 PickIngredients = null;
