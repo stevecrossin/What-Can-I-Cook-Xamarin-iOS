@@ -14,5 +14,8 @@ namespace WhatCanICook
     [Register ("PantryViewController")]
     partial class PantryViewController
     {
+        void ReleaseDesignerOutlets ()
+        {
+        }
     }
 }

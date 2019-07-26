@@ -14,5 +14,8 @@ namespace WhatCanICook
     [Register ("IngredientPickViewController")]
     partial class IngredientPickViewController
     {
+        void ReleaseDesignerOutlets ()
+        {
+        }
     }
 }
