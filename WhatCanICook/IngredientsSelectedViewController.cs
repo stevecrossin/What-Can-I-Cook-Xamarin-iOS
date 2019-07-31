@@ -1,13 +1,39 @@
-using Foundation;
 using System;
+using Foundation;
 using UIKit;
-
+using System.Collections.Generic;
 namespace WhatCanICook
 {
-    public partial class IngredientsSelectedViewController : UIViewController
+    public partial class ShowAllInfoController : UITableViewController
     {
-        public IngredientsSelectedViewController (IntPtr handle) : base (handle)
+        public List<IngredientsList> allStudents { get; set; }
+        ///---------
+        static NSString allStudentCellId = new NSString("allIngredientsCell");
+        public ShowAllInfoController(IntPtr handle) : base(handle)
         {
+            TableView.RegisterClassForCellReuse(typeof(UITableViewCell), allStudentCellId);
+            TableView.Source = new AllStudentDataSource(this);
+            allStudents = new List<IngredientsList>();
+        }
+        class AllStudentDataSource : UITableViewSource
+        {
+            ShowAllInfoController controller;
+            public AllStudentDataSource(ShowAllInfoController controller)
+            {
+                this.controller = controller;
+            }
+            public override nint RowsInSection(UITableView tableview, nint section)
+            {
+                return controller.allStudents.Count;
+            }
+            public override UITableViewCell GetCell(UITableView tableView, NSIndexPath indexPath)
+            {
+                var cell =
+                tableView.DequeueReusableCell(ShowAllInfoController.allStudentCellId);
+                int row = indexPath.Row;
+                cell.TextLabel.Text = controller.allStudents[row].ingredientName;
+                return cell;
+            }
         }
     }
 }
