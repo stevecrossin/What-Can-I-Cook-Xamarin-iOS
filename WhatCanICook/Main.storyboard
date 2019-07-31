@@ -129,7 +129,7 @@
                         <color key="backgroundColor" red="0.99952954053878795" green="0.96083790063857999" blue="0.83397465944290206" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <connections>
-                        <outlet property="txtIngredientEntry" destination="4652" id="name-outlet-4652"/>
+                        <outlet property="nameIngredient" destination="4652" id="name-outlet-4652"/>
                         <outlet property="saveButton" destination="4653" id="name-outlet-4653"/>
                     </connections>
                 </viewController>

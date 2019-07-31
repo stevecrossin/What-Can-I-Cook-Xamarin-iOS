@@ -16,22 +16,22 @@ namespace WhatCanICook
     {
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UIButton saveButton { get; set; }
+        UIKit.UITextField nameIngredient { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UITextField txtIngredientEntry { get; set; }
+        UIKit.UIButton saveButton { get; set; }
 
         void ReleaseDesignerOutlets ()
         {
+            if (nameIngredient != null) {
+                nameIngredient.Dispose ();
+                nameIngredient = null;
+            }
+
             if (saveButton != null) {
                 saveButton.Dispose ();
                 saveButton = null;
-            }
-
-            if (txtIngredientEntry != null) {
-                txtIngredientEntry.Dispose ();
-                txtIngredientEntry = null;
             }
         }
     }

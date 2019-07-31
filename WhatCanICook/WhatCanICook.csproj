@@ -169,7 +169,7 @@
         </Compile>
     </ItemGroup>
     <ItemGroup>
-      <BundleResource Include="IngredientsList.cs" />
+      <BundleResource Include="IngredientsListText.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
