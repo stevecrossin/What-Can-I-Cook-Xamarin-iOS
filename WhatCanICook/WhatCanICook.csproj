@@ -143,33 +143,19 @@
     <ItemGroup>
         <Compile Include="Main.cs" />
         <Compile Include="AppDelegate.cs" />
-        <Compile Include="MainViewController.cs" />
+        <Compile Include="ViewController.cs" />
         <Compile Include="ViewController.designer.cs">
-            <DependentUpon>MainViewController.cs</DependentUpon>
+            <DependentUpon>ViewController.cs</DependentUpon>
         </Compile>
         <Compile Include="IngredientPickViewController.cs" />
         <Compile Include="IngredientPickViewController.designer.cs">
           <DependentUpon>IngredientPickViewController.cs</DependentUpon>
         </Compile>
-        <Compile Include="IngredientsSelectedViewController.cs" />
-        <Compile Include="IngredientsSelectedViewController.designer.cs">
-          <DependentUpon>IngredientsSelectedViewController.cs</DependentUpon>
+        <Compile Include="ShowAllInfoController.cs" />
+        <Compile Include="ShowAllInfoController.designer.cs">
+          <DependentUpon>ShowAllInfoController.cs</DependentUpon>
         </Compile>
-        <Compile Include="RecipesViewController.cs" />
-        <Compile Include="RecipesViewController.designer.cs">
-          <DependentUpon>RecipesViewController.cs</DependentUpon>
-        </Compile>
-        <Compile Include="DietNeedsViewController.cs" />
-        <Compile Include="DietNeedsViewController.designer.cs">
-          <DependentUpon>DietNeedsViewController.cs</DependentUpon>
-        </Compile>
-        <Compile Include="PantryViewController.cs" />
-        <Compile Include="PantryViewController.designer.cs">
-          <DependentUpon>PantryViewController.cs</DependentUpon>
-        </Compile>
-    </ItemGroup>
-    <ItemGroup>
-      <BundleResource Include="IngredientsListText.cs" />
+        <Compile Include="AllIngredientsList.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
