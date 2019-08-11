@@ -14,5 +14,8 @@ namespace WhatCanICook
     [Register ("ShowAllInfoController")]
     partial class ShowAllInfoController
     {
+        void ReleaseDesignerOutlets ()
+        {
+        }
     }
 }

@@ -123,6 +123,7 @@
         <ImageAsset Include="Assets.xcassets\PickIngredients.imageset\pickingredients.png" />
         <ImageAsset Include="Assets.xcassets\Pantry2.imageset\Contents.json" />
         <ImageAsset Include="Assets.xcassets\Pantry2.imageset\pantry2.png" />
+        <ImageAsset Include="Assets.xcassets\Pantry2.imageset\pantry2-1.png" />
     </ItemGroup>
     <ItemGroup>
         <Folder Include="Resources\" />

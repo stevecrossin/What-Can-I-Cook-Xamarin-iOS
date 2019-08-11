@@ -6,32 +6,32 @@ namespace WhatCanICook
 {
     public partial class ShowAllInfoController : UITableViewController
     {
-        public List<AllIngredientsList> allStudents { get; set; }
+        public List<AllIngredientsList> allIngredients { get; set; }
         ///---------
-        static NSString allStudentCellId = new NSString("allStudentCell");
+        static NSString allIngredientCells = new NSString("allIngredientsCell");
         public ShowAllInfoController(IntPtr handle) : base(handle)
         {
-            TableView.RegisterClassForCellReuse(typeof(UITableViewCell), allStudentCellId);
-            TableView.Source = new AllStudentDataSource(this);
-            allStudents = new List<AllIngredientsList>();
+            TableView.RegisterClassForCellReuse(typeof(UITableViewCell), allIngredientCells);
+            TableView.Source = new AllIngredientsDataSource(this);
+            allIngredients = new List<AllIngredientsList>();
         }
-        class AllStudentDataSource : UITableViewSource
+        class AllIngredientsDataSource : UITableViewSource
         {
             ShowAllInfoController controller;
-            public AllStudentDataSource(ShowAllInfoController controller)
+            public AllIngredientsDataSource(ShowAllInfoController controller)
             {
                 this.controller = controller;
             }
             public override nint RowsInSection(UITableView tableview, nint section)
             {
-                return controller.allStudents.Count;
+                return controller.allIngredients.Count;
             }
             public override UITableViewCell GetCell(UITableView tableView, NSIndexPath indexPath)
             {
                 var cell =
-                tableView.DequeueReusableCell(ShowAllInfoController.allStudentCellId);
+                tableView.DequeueReusableCell(ShowAllInfoController.allIngredientCells);
                 int row = indexPath.Row;
-                cell.TextLabel.Text = controller.allStudents[row].ingredientName;
+                cell.TextLabel.Text = controller.allIngredients[row].ingredientName;
                 return cell;
             }
         }

@@ -21,7 +21,7 @@ namespace WhatCanICook
             {
                 AllIngredientsList newIngredient = new AllIngredientsList(nameIngredient.Text); AllIngredients.Add(newIngredient);
                 string infoString = "Name: " + newIngredient.ingredientName;
-                var alert = UIAlertController.Create("Saved Ingredient:", infoString, UIAlertControllerStyle.Alert);
+                var alert = UIAlertController.Create("Saved Ingredient", infoString, UIAlertControllerStyle.Alert);
                 alert.AddAction(UIAlertAction.Create("Ok", UIAlertActionStyle.Default, null));
                 PresentViewController(alert, true, null);
             };
@@ -33,7 +33,7 @@ namespace WhatCanICook
             ShowAllInfoController;
             if (allStudentInfoController != null)
             {
-                allStudentInfoController.allStudents = AllIngredients;
+                allStudentInfoController.allIngredients = AllIngredients;
             }
         }
 
