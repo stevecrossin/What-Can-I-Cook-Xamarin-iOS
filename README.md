@@ -1,5 +1,5 @@
 # What-Can-I-Cook-Xamarin-iOS
-What Can I Cook - Xamarin IOS version
+
 
 This is a basic readme for this Xamarin IOS version of What Can I Cook, initially being created for Deakin subject SIT313.
 
@@ -7,7 +7,12 @@ To date, very basic functionality and user interface exists, and this is a fork 
 
 At present, currently the app has several screens:
 
-* Home page - allows navigation to screens to add ingredients, select dietary preferences and view the users pantry. At the moment, only passing of strings via segue exist. No data storage exists in the application at this time. Constraints at present are only partially working, and images have been developed for different screen orientations.
+* Home page - allows navigation to screens to add ingredients, select dietary preferences and view the users pantry. 
+* Dietary preferences - UI only and a few controls, no functionality at present
+* Pantry - UI only
+* Recipes - basic UI only
+
+At the moment, only passing of strings via segue exist. No data storage exists in the application at this time. Constraints at present are only partially working, and images have been developed for different screen orientations.
 
 Developing a full-featured application in Xamarin.IOS will be the objective of Assignment 2, and I will be working on this with two other students - Brendon Binks and Michael Inati.
 
