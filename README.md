@@ -14,7 +14,7 @@ At present, currently the app has several screens:
 
 At the moment, only passing of strings via segue exist. No data storage exists in the application at this time. Constraints at present are only partially working, and images have been developed for different screen orientations.
 
-Developing a full-featured application in Xamarin.IOS will be the objective of Assignment 2, and I will be working on this with two other students - Brendon Binks and Michael Inati.
+Developing a full-featured application in Xamarin.IOS will be the objective of Assignment 2, and I will be working on this with three other students - Brendon Binks, Jess Fitzgerald and Michael Inati.
 
 Images in the app are either under a free license, or has been purchased under commercial license. All details are in licences.txt inside the WhatCanICook folder.
 
