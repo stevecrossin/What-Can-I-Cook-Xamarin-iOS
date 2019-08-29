@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>WhatCanICook</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.companyname.What-Can-I-Cook</string>
+	<string>com.whatcanicook.app</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -42,9 +42,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>XSAppIconAssets</key>
-	<string>Assets.xcassets/AppIcon.appiconset</string>
 	<key>CFBundleName</key>
-	<string>WhatCanICook</string>
+	<string>What Can I Cook</string>
+	<key>XSLaunchImageAssets</key>
+	<string>Assets.xcassets/LaunchImage.launchimage</string>
 </dict>
 </plist>
