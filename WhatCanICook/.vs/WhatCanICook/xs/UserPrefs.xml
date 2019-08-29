@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B82AC6A7-75DB-4D64-BA44-34B9AB01290B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Main.storyboard">
+    <Files>
+      <File FileName="Main.storyboard" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WhatCanICook" expanded="True">
+            <Node name="WhatCanICook" expanded="True">
+              <Node name="Main.storyboard" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WhatCanICook PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DC1F31B1-8694-465F-BAFE-87D1DED68863" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

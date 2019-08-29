@@ -1,0 +1,15 @@
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/bin/iPhoneSimulator/Debug/WhatCanICook.exe
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/bin/iPhoneSimulator/Debug/WhatCanICook.pdb
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/obj/iPhoneSimulator/Debug/WhatCanICook.csprojAssemblyReference.cache
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/obj/iPhoneSimulator/Debug/WhatCanICook.csproj.CoreCompileInputs.cache
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/obj/iPhoneSimulator/Debug/WhatCanICook.csproj.CopyComplete
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/obj/iPhoneSimulator/Debug/WhatCanICook.exe
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/obj/iPhoneSimulator/Debug/WhatCanICook.pdb
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/obj/iPhoneSimulator/Debug/device-builds/ipad7.4-12.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/obj/iPhoneSimulator/Debug/device-builds/ipad7.4-12.4/actool/_PartialAppManifest.items
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/obj/iPhoneSimulator/Debug/device-builds/ipad7.4-12.4/actool/_BundleResourceWithLogicalName.items
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/obj/iPhoneSimulator/Debug/device-builds/ipad7.4-12.4/coremlc/_PartialAppManifest.items
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/obj/iPhoneSimulator/Debug/device-builds/ipad7.4-12.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/obj/iPhoneSimulator/Debug/device-builds/ipad7.4-12.4/optimized/
