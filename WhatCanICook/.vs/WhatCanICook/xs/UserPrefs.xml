@@ -1,21 +1,24 @@
-﻿<Properties StartupConfiguration="{B82AC6A7-75DB-4D64-BA44-34B9AB01290B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Main.storyboard">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{B82AC6A7-75DB-4D64-BA44-34B9AB01290B}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="Main.storyboard" />
+      <File FileName="Info.plist" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WhatCanICook" expanded="True">
             <Node name="WhatCanICook" expanded="True">
-              <Node name="Main.storyboard" selected="True" />
+              <Node name="Info.plist" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.WhatCanICook PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DC1F31B1-8694-465F-BAFE-87D1DED68863" />
+  <MonoDevelop.Ide.ItemProperties.WhatCanICook automaticSigning="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.73A55D89-FDF8-419F-85C7-59D8202A4592">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="9BSG547JYG" TeamId="3S22LGX8Y4" />
+  </MonoDevelop.Ide.ItemProperties.WhatCanICook>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

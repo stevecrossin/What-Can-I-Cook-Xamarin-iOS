@@ -205,20 +205,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/Michael/.nuget/packages/": {}
+    "/Users/stevecrossin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/WhatCanICook.csproj",
+      "projectUniqueName": "/Users/stevecrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/WhatCanICook.csproj",
       "projectName": "WhatCanICook",
-      "projectPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/WhatCanICook.csproj",
-      "packagesPath": "/Users/Michael/.nuget/packages/",
-      "outputPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/obj/",
+      "projectPath": "/Users/stevecrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/WhatCanICook.csproj",
+      "packagesPath": "/Users/stevecrossin/.nuget/packages/",
+      "outputPath": "/Users/stevecrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/Michael/.config/NuGet/NuGet.Config"
+        "/Users/stevecrossin/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
