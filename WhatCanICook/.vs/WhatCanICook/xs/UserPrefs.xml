@@ -9,16 +9,14 @@
         <State name="__root__">
           <Node name="WhatCanICook" expanded="True">
             <Node name="WhatCanICook" expanded="True">
-              <Node name="Info.plist" selected="True" />
+              <Node name="Main.storyboard" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.WhatCanICook automaticSigning="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.73A55D89-FDF8-419F-85C7-59D8202A4592">
-    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="9BSG547JYG" TeamId="3S22LGX8Y4" />
-  </MonoDevelop.Ide.ItemProperties.WhatCanICook>
+  <MonoDevelop.Ide.ItemProperties.WhatCanICook PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.73A55D89-FDF8-419F-85C7-59D8202A4592" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
