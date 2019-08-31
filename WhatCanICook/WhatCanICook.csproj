@@ -118,6 +118,7 @@
         <Folder Include="Assets.xcassets\DietNeeds.imageset\" />
         <Folder Include="Assets.xcassets\About.imageset\" />
         <Folder Include="Assets.xcassets\Pantry2.imageset\" />
+        <Folder Include="Entities\" />
     </ItemGroup>
     <ItemGroup>
         <InterfaceDefinition Include="LaunchScreen.storyboard" />
@@ -143,6 +144,13 @@
           <DependentUpon>ShowAllInfoController.cs</DependentUpon>
         </Compile>
         <Compile Include="AllIngredientsList.cs" />
+        <Compile Include="Entities\Ingredient.cs" />
+        <Compile Include="Entities\Intolerance.cs" />
+        <Compile Include="Entities\Pantry.cs" />
+        <Compile Include="Entities\Recipe.cs" />
+        <Compile Include="Entities\RecipeIngredients.cs" />
+        <Compile Include="Entities\RecipeIngredientsTotal.cs" />
+        <Compile Include="Entities\User.cs" />
     </ItemGroup>
     <ItemGroup>
       <ITunesArtwork Include="iTunesArtwork" />
