@@ -86,8 +86,6 @@
         <ImageAsset Include="Assets.xcassets\DietNeeds.imageset\dietaryneeds.png" />
         <ImageAsset Include="Assets.xcassets\PickIngredients.imageset\pickingredients.png" />
         <ImageAsset Include="Assets.xcassets\Pantry2.imageset\Contents.json" />
-        <ImageAsset Include="Assets.xcassets\Pantry2.imageset\pantry2.png" />
-        <ImageAsset Include="Assets.xcassets\Pantry2.imageset\pantry2-1.png" />
         <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\Contents.json" />
         <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-76x76%402x.png" />
         <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-29x29%401x.png" />
@@ -110,6 +108,8 @@
         <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\splash320x480.png" />
         <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\iPhone640-1.png" />
         <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\splash2x-1.png" />
+        <ImageAsset Include="Assets.xcassets\Pantry2.imageset\pantry.png" />
+        <ImageAsset Include="Assets.xcassets\Pantry2.imageset\pantry-1.png" />
     </ItemGroup>
     <ItemGroup>
         <Folder Include="Resources\" />
@@ -118,6 +118,7 @@
         <Folder Include="Assets.xcassets\DietNeeds.imageset\" />
         <Folder Include="Assets.xcassets\About.imageset\" />
         <Folder Include="Assets.xcassets\Pantry2.imageset\" />
+        <Folder Include="Entities\" />
     </ItemGroup>
     <ItemGroup>
         <InterfaceDefinition Include="LaunchScreen.storyboard" />
@@ -143,6 +144,13 @@
           <DependentUpon>ShowAllInfoController.cs</DependentUpon>
         </Compile>
         <Compile Include="AllIngredientsList.cs" />
+        <Compile Include="Entities\Ingredient.cs" />
+        <Compile Include="Entities\Intolerance.cs" />
+        <Compile Include="Entities\Pantry.cs" />
+        <Compile Include="Entities\Recipe.cs" />
+        <Compile Include="Entities\RecipeIngredients.cs" />
+        <Compile Include="Entities\RecipeIngredientsTotal.cs" />
+        <Compile Include="Entities\User.cs" />
     </ItemGroup>
     <ItemGroup>
       <ITunesArtwork Include="iTunesArtwork" />
