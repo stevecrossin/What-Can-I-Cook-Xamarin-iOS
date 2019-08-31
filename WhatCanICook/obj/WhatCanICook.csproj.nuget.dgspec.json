@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/WhatCanICook.csproj": {}
+    "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICook/WhatCanICook.csproj": {}
   },
   "projects": {
-    "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/WhatCanICook.csproj": {
+    "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICook/WhatCanICook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/WhatCanICook.csproj",
+        "projectUniqueName": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICook/WhatCanICook.csproj",
         "projectName": "WhatCanICook",
-        "projectPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/WhatCanICook.csproj",
-        "packagesPath": "/Users/Michael/.nuget/packages/",
-        "outputPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/obj/",
+        "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICook/WhatCanICook.csproj",
+        "packagesPath": "/Users/brendonbinks/.nuget/packages/",
+        "outputPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICook/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/Michael/.config/NuGet/NuGet.Config"
+          "/Users/brendonbinks/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
