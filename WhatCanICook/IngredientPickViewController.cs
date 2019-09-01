@@ -17,14 +17,14 @@ namespace WhatCanICook
         {
             base.ViewDidLoad();
             // Perform any additional setup after loading the view, typically from a nib.
-            saveButton.TouchUpInside += (object sender, EventArgs e) =>
+            /*saveButton.TouchUpInside += (object sender, EventArgs e) =>
             {
                 AllIngredientsList newIngredient = new AllIngredientsList(nameIngredient.Text); AllIngredients.Add(newIngredient);
                 string infoString = "Name: " + newIngredient.ingredientName;
                 var alert = UIAlertController.Create("Saved Ingredient", infoString, UIAlertControllerStyle.Alert);
                 alert.AddAction(UIAlertAction.Create("Ok", UIAlertActionStyle.Default, null));
                 PresentViewController(alert, true, null);
-            };
+            };*/
         }
         public override void PrepareForSegue(UIStoryboardSegue segue, NSObject sender)
         {

@@ -123,6 +123,7 @@
     <ItemGroup>
         <InterfaceDefinition Include="LaunchScreen.storyboard" />
         <InterfaceDefinition Include="Main.storyboard" />
+        <InterfaceDefinition Include="LoginViewController.xib" />
     </ItemGroup>
     <ItemGroup>
         <None Include="Info.plist" />
@@ -151,6 +152,8 @@
         <Compile Include="Entities\RecipeIngredients.cs" />
         <Compile Include="Entities\RecipeIngredientsTotal.cs" />
         <Compile Include="Entities\User.cs" />
+        <Compile Include="LoginViewController.cs" />
+        <Compile Include="LoginViewController.designer.cs" />
     </ItemGroup>
     <ItemGroup>
       <ITunesArtwork Include="iTunesArtwork" />
