@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stevecrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/WhatCanICook.csproj": {}
+    "/Users/jessicafitzgerald/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/WhatCanICook.csproj": {}
   },
   "projects": {
-    "/Users/stevecrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/WhatCanICook.csproj": {
+    "/Users/jessicafitzgerald/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/WhatCanICook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stevecrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/WhatCanICook.csproj",
+        "projectUniqueName": "/Users/jessicafitzgerald/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/WhatCanICook.csproj",
         "projectName": "WhatCanICook",
-        "projectPath": "/Users/stevecrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/WhatCanICook.csproj",
-        "packagesPath": "/Users/stevecrossin/.nuget/packages/",
-        "outputPath": "/Users/stevecrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/obj/",
+        "projectPath": "/Users/jessicafitzgerald/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/WhatCanICook.csproj",
+        "packagesPath": "/Users/jessicafitzgerald/.nuget/packages/",
+        "outputPath": "/Users/jessicafitzgerald/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICook/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/stevecrossin/.config/NuGet/NuGet.Config"
+          "/Users/jessicafitzgerald/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"

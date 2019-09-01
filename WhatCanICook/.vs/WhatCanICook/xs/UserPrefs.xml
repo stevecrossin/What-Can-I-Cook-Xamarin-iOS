@@ -2,23 +2,21 @@
   <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="Main.storyboard" />
-      <File FileName="Info.plist" />
+      <File FileName="LaunchScreen.storyboard" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WhatCanICook" expanded="True">
             <Node name="WhatCanICook" expanded="True">
-              <Node name="Info.plist" selected="True" />
+              <Node name="LaunchScreen.storyboard" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.WhatCanICook automaticSigning="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.73A55D89-FDF8-419F-85C7-59D8202A4592">
-    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="9BSG547JYG" TeamId="3S22LGX8Y4" />
-  </MonoDevelop.Ide.ItemProperties.WhatCanICook>
+  <MonoDevelop.Ide.ItemProperties.WhatCanICook automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.40C81363-BF0A-465D-B05E-D86D065997B1" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
