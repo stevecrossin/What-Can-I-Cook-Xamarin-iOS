@@ -10,7 +10,10 @@
         <State name="__root__">
           <Node name="WhatCanICook" expanded="True">
             <Node name="WhatCanICook" expanded="True">
-              <Node name="LaunchScreen.storyboard" selected="True" />
+              <Node name="IngredientPickViewController.cs" expanded="True" />
+              <Node name="Main.storyboard" selected="True" />
+              <Node name="ShowAllInfoController.cs" expanded="True" />
+              <Node name="ViewController.cs" expanded="True" />
             </Node>
           </Node>
         </State>
