@@ -30,6 +30,7 @@ namespace WhatCanICook
         [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UITextField tfPassword { get; set; }
 
+
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UITextView tvLoginDescription { get; set; }

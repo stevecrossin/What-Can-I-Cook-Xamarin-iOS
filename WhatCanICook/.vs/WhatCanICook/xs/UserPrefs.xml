@@ -1,10 +1,13 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{B82AC6A7-75DB-4D64-BA44-34B9AB01290B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../Library/Frameworks/Mono.framework/Versions/6.0.0/lib/mono/xbuild/Microsoft/NuGet/Microsoft.NuGet.targets">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="Main.storyboard" />
       <File FileName="ViewController.cs" />
       <File FileName="IngredientPickViewController.cs" />
-      <File FileName="../../../../../../Library/Frameworks/Mono.framework/Versions/6.0.0/lib/mono/xbuild/Microsoft/NuGet/Microsoft.NuGet.targets" Line="186" Column="5" />
+      <File FileName="../../../../../Library/Frameworks/Mono.framework/Versions/6.0.0/lib/mono/xbuild/Microsoft/NuGet/Microsoft.NuGet.targets" Line="186" Column="5" />
+      <File FileName="LoginViewController.cs" Line="16" Column="13" />
+      <File FileName="LoginViewController.xib" />
+      <File FileName="LoginViewController.designer.cs" Line="32" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,7 +22,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.WhatCanICook PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.93CC30E2-036A-4D81-BFB7-45465C6BBEBF" />
+  <MonoDevelop.Ide.ItemProperties.WhatCanICook PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.760F6107-CDEA-4D36-8AAC-1C006B6CD55E" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
