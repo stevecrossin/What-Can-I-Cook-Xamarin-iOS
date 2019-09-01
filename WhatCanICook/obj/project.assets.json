@@ -11,7 +11,7 @@
           "lib/xamarinios10/_._": {}
         }
       },
-      "Xamarin.Essentials/1.1.0": {
+      "Xamarin.Essentials/1.3.0": {
         "type": "package",
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
@@ -37,7 +37,7 @@
           "lib/xamarinios10/_._": {}
         }
       },
-      "Xamarin.Essentials/1.1.0": {
+      "Xamarin.Essentials/1.3.0": {
         "type": "package",
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
@@ -63,7 +63,7 @@
           "lib/xamarinios10/_._": {}
         }
       },
-      "Xamarin.Essentials/1.1.0": {
+      "Xamarin.Essentials/1.3.0": {
         "type": "package",
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
@@ -89,7 +89,7 @@
           "lib/xamarinios10/_._": {}
         }
       },
-      "Xamarin.Essentials/1.1.0": {
+      "Xamarin.Essentials/1.3.0": {
         "type": "package",
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
@@ -154,10 +154,10 @@
         "version.txt"
       ]
     },
-    "Xamarin.Essentials/1.1.0": {
-      "sha512": "W0XOt1dNMAE2POcsVotoKDDy5FdAOnR0qULKl6WI4kQEMxQ1sp84DsSU5iacV7oQUMuPhUBAm/3ywks0HO1QrQ==",
+    "Xamarin.Essentials/1.3.0": {
+      "sha512": "AI6NZ7ngolTQmUI2dnsP/t6xxwPNWXuOY1sfol2yNVPSw4RfI8+D/kjz5p7Yabl5vRtoFhI6sWDT40IK9VwlBg==",
       "type": "package",
-      "path": "xamarin.essentials/1.1.0",
+      "path": "xamarin.essentials/1.3.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -177,7 +177,6 @@
         "lib/monoandroid81/Xamarin.Essentials.pdb",
         "lib/monoandroid81/Xamarin.Essentials.xml",
         "lib/monoandroid90/Xamarin.Essentials.dll",
-        "lib/monoandroid90/Xamarin.Essentials.dll.mdb",
         "lib/monoandroid90/Xamarin.Essentials.pdb",
         "lib/monoandroid90/Xamarin.Essentials.xml",
         "lib/netstandard1.0/Xamarin.Essentials.dll",
@@ -186,6 +185,9 @@
         "lib/netstandard2.0/Xamarin.Essentials.dll",
         "lib/netstandard2.0/Xamarin.Essentials.pdb",
         "lib/netstandard2.0/Xamarin.Essentials.xml",
+        "lib/tizen40/Xamarin.Essentials.dll",
+        "lib/tizen40/Xamarin.Essentials.pdb",
+        "lib/tizen40/Xamarin.Essentials.xml",
         "lib/uap10.0.16299/Xamarin.Essentials.dll",
         "lib/uap10.0.16299/Xamarin.Essentials.pdb",
         "lib/uap10.0.16299/Xamarin.Essentials.pri",
@@ -193,15 +195,21 @@
         "lib/xamarinios10/Xamarin.Essentials.dll",
         "lib/xamarinios10/Xamarin.Essentials.pdb",
         "lib/xamarinios10/Xamarin.Essentials.xml",
+        "lib/xamarintvos10/Xamarin.Essentials.dll",
+        "lib/xamarintvos10/Xamarin.Essentials.pdb",
+        "lib/xamarintvos10/Xamarin.Essentials.xml",
+        "lib/xamarinwatchos10/Xamarin.Essentials.dll",
+        "lib/xamarinwatchos10/Xamarin.Essentials.pdb",
+        "lib/xamarinwatchos10/Xamarin.Essentials.xml",
         "readme.txt",
-        "xamarin.essentials.1.1.0.nupkg.sha512",
+        "xamarin.essentials.1.3.0.nupkg.sha512",
         "xamarin.essentials.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
-      "Xamarin.Essentials >= 1.1.0"
+      "Xamarin.Essentials >= 1.3.0"
     ]
   },
   "packageFolders": {
@@ -237,7 +245,7 @@
         "dependencies": {
           "Xamarin.Essentials": {
             "target": "Package",
-            "version": "[1.1.0, )"
+            "version": "[1.3.0, )"
           }
         }
       }

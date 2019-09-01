@@ -3,6 +3,7 @@
     <Files>
       <File FileName="Main.storyboard" />
       <File FileName="LaunchScreen.storyboard" />
+      <File FileName="Info.plist" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
