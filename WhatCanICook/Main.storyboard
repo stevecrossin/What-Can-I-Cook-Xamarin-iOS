@@ -211,12 +211,12 @@
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <connections>
-                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="14997"/>
+                        <segue id="19860" destination="18104" kind="relationship" relationship="rootViewController"/>
                     </connections>
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="13972" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-453" y="-13"/>
+            <point key="canvasLocation" x="-481" y="16"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="16424">
@@ -326,6 +326,73 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="17532" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1544" y="883"/>
+        </scene>
+        <scene sceneID="18103">
+            <objects>
+                <viewController id="18104" sceneMemberID="viewController" customClass="LoginViewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="18101"/>
+                        <viewControllerLayoutGuide type="bottom" id="18102"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="18105">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" colorSpace="custom" customColorSpace="sRGB" red="0.999529540538788" green="0.96083790063858" blue="0.833974659442902" alpha="1"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Login" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="18108" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
+                                <rect key="frame" x="146" y="84" width="121" height="28"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="26"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="18109" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" textAlignment="center">
+                                <rect key="frame" x="20" y="120" width="374" height="67"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" colorSpace="custom" customColorSpace="sRGB" red="0.997494161128998" green="0.96200031042099" blue="0.834595680236816" alpha="1"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <string key="text">If you have not used this application before, please create an account which will let you save pantry ingredients and any dietary needs you have.</string>
+                            </textView>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" id="18111" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" placeholder="Enter email address">
+                                <rect key="frame" x="40" y="215" width="334" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" id="19538" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" placeholder="Enter a password">
+                                <rect key="frame" x="40" y="274" width="334" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" secureTextEntry="YES"/>
+                            </textField>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="19539" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
+                                <rect key="frame" x="40" y="353" width="334" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="0.666666666666667" alpha="1"/>
+                                <state key="normal" title="Sign Up">
+                                    <color key="titleColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="0" alpha="1"/>
+                                </state>
+                                <connections>
+                                    <segue id="21254" destination="BYZ-38-t0r" kind="show"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                    </view>
+                    <connections>
+                        <outlet property="labelLogin" destination="18108" id="name-outlet-18108"/>
+                        <outlet property="tvLoginDescription" destination="18109" id="name-outlet-18109"/>
+                        <outlet property="tfLogin" destination="18111" id="name-outlet-18111"/>
+                        <outlet property="tfPassword" destination="19538" id="name-outlet-19538"/>
+                        <outlet property="btnSignup" destination="19539" id="name-outlet-19539"/>
+                    </connections>
+                    <navigationItem title="Title" id="18715" key="navigationItem" largeTitleDisplayMode="never"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="18106" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-443" y="862"/>
         </scene>
     </scenes>
     <resources>

@@ -8,12 +8,12 @@
 	<dict/>
 	<key>com.apple.ibtool.document.warnings</key>
 	<dict>
-		<key>1557</key>
+		<key>17539</key>
 		<array>
 			<dict>
 				<key>affected-objects</key>
 				<array>
-					<string>1557</string>
+					<string>17539</string>
 				</array>
 				<key>message</key>
 				<string>Prototype table cells must have reuse identifiers</string>
