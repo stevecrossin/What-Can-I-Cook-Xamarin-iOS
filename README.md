@@ -18,4 +18,4 @@ Developing a full-featured application in Xamarin.IOS will be the objective of A
 
 Images in the app are either under a free license, or has been purchased under commercial license. All details are in licences.txt inside the WhatCanICook folder.
 
-Unless explicit permission is given, all source code, images, and other content in this repository may not be reused for any purpose..
+Unless explicit permission is given, all source code, images, and other content in this repository may not be reused for any purpose.
