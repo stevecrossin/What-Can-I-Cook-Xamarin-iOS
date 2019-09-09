@@ -1,0 +1,14 @@
+/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/bin/Debug/netstandard2.0/WhatCanICookForms.deps.json
+/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/bin/Debug/netstandard2.0/WhatCanICookForms.dll
+/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/bin/Debug/netstandard2.0/WhatCanICookForms.pdb
+/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/obj/Debug/netstandard2.0/DietaryPreferences.xaml.g.cs
+/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/obj/Debug/netstandard2.0/Views/IngredientPicker.xaml.g.cs
+/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/obj/Debug/netstandard2.0/Views/Pantry.xaml.g.cs
+/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/obj/Debug/netstandard2.0/Views/RecipeResults.xaml.g.cs
+/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.AssemblyInfoInputs.cache
+/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.AssemblyInfo.cs
+/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.dll
+/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.pdb
