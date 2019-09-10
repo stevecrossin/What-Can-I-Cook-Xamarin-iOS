@@ -1,4 +1,4 @@
-/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms.iOS/bin/iPhoneSimulator/Debug/WhatCanICookForms.iOS.exe
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/bin/iPhoneSimulator/Debug/WhatCanICookForms.iOS.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/mscorlib.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/System.dll
@@ -8,8 +8,8 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/System.Core.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/System.Net.Http.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll
-/Users/stevencrossin/.nuget/packages/xamarin.forms/4.1.0.555618/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll
-/Users/stevencrossin/.nuget/packages/xamarin.forms/4.1.0.555618/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll
+/Users/brendonbinks/.nuget/packages/xamarin.forms/4.1.0.555618/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll
+/Users/brendonbinks/.nuget/packages/xamarin.forms/4.1.0.555618/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/Facades/netstandard.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/System.Data.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/System.Transactions.dll
@@ -20,6 +20,6 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/System.ServiceModel.Internals.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/System.Web.Services.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/System.Xml.Linq.dll
-/Users/stevencrossin/.nuget/packages/xamarin.forms/4.1.0.555618/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
-/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/bin/Debug/netstandard2.0/WhatCanICookForms.dll
-/Users/stevencrossin/.nuget/packages/xamarin.forms/4.1.0.555618/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
+/Users/brendonbinks/.nuget/packages/xamarin.forms/4.1.0.555618/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/bin/Debug/netstandard2.0/WhatCanICookForms.dll
+/Users/brendonbinks/.nuget/packages/xamarin.forms/4.1.0.555618/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll

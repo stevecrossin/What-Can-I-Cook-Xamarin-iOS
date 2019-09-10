@@ -1006,20 +1006,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/stevencrossin/.nuget/packages/": {}
+    "/Users/brendonbinks/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
+      "projectUniqueName": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
       "projectName": "WhatCanICookForms.iOS",
-      "projectPath": "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
-      "packagesPath": "/Users/stevencrossin/.nuget/packages/",
-      "outputPath": "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms.iOS/obj/",
+      "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
+      "packagesPath": "/Users/brendonbinks/.nuget/packages/",
+      "outputPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/stevencrossin/.config/NuGet/NuGet.Config"
+        "/Users/brendonbinks/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -1030,8 +1030,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/WhatCanICookForms.csproj": {
-              "projectPath": "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/WhatCanICookForms.csproj"
+            "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj": {
+              "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj"
             }
           }
         }

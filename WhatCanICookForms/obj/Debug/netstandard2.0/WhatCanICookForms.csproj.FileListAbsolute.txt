@@ -12,3 +12,19 @@
 /Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.dll
 /Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.pdb
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/bin/Debug/netstandard2.0/WhatCanICookForms.deps.json
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/bin/Debug/netstandard2.0/WhatCanICookForms.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/bin/Debug/netstandard2.0/WhatCanICookForms.pdb
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.csprojAssemblyReference.cache
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/Debug/netstandard2.0/Views/IngredientPicker.xaml.g.cs
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/Debug/netstandard2.0/Views/Pantry.xaml.g.cs
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/Debug/netstandard2.0/Views/RecipeResults.xaml.g.cs
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.csproj.CoreCompileInputs.cache
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.AssemblyInfoInputs.cache
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.AssemblyInfo.cs
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.pdb
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/Debug/netstandard2.0/Views/DietaryPreferences.xaml.g.cs

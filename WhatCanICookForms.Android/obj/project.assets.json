@@ -2000,20 +2000,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/stevencrossin/.nuget/packages/": {}
+    "/Users/brendonbinks/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
+      "projectUniqueName": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
       "projectName": "WhatCanICookForms.Android",
-      "projectPath": "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
-      "packagesPath": "/Users/stevencrossin/.nuget/packages/",
-      "outputPath": "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms.Android/obj/",
+      "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
+      "packagesPath": "/Users/brendonbinks/.nuget/packages/",
+      "outputPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/stevencrossin/.config/NuGet/NuGet.Config"
+        "/Users/brendonbinks/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
@@ -2024,8 +2024,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/WhatCanICookForms.csproj": {
-              "projectPath": "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/WhatCanICookForms.csproj"
+            "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj": {
+              "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj"
             }
           }
         }

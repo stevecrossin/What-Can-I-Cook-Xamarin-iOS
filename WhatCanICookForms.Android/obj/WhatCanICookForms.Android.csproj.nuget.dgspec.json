@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj": {}
+    "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj": {}
   },
   "projects": {
-    "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj": {
+    "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
+        "projectUniqueName": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
         "projectName": "WhatCanICookForms.Android",
-        "projectPath": "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
-        "packagesPath": "/Users/stevencrossin/.nuget/packages/",
-        "outputPath": "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms.Android/obj/",
+        "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
+        "packagesPath": "/Users/brendonbinks/.nuget/packages/",
+        "outputPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/stevencrossin/.config/NuGet/NuGet.Config"
+          "/Users/brendonbinks/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid90"
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/WhatCanICookForms.csproj": {
-                "projectPath": "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/WhatCanICookForms.csproj"
+              "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj": {
+                "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj"
               }
             }
           }
@@ -76,20 +76,20 @@
         }
       }
     },
-    "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/WhatCanICookForms.csproj": {
+    "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/WhatCanICookForms.csproj",
+        "projectUniqueName": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj",
         "projectName": "WhatCanICookForms",
-        "projectPath": "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/WhatCanICookForms.csproj",
-        "packagesPath": "/Users/stevencrossin/.nuget/packages/",
-        "outputPath": "/Users/stevencrossin/Projects/WhatCanICookForms/WhatCanICookForms/obj/",
+        "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj",
+        "packagesPath": "/Users/brendonbinks/.nuget/packages/",
+        "outputPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/stevencrossin/.config/NuGet/NuGet.Config"
+          "/Users/brendonbinks/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
