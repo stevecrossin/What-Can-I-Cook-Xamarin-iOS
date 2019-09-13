@@ -1303,20 +1303,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/jessicafitzgerald/.nuget/packages/": {}
+    "/Users/brendonbinks/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
+      "projectUniqueName": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
       "projectName": "WhatCanICookForms.iOS",
-      "projectPath": "/Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
-      "packagesPath": "/Users/jessicafitzgerald/.nuget/packages/",
-      "outputPath": "/Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/obj/",
+      "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
+      "packagesPath": "/Users/brendonbinks/.nuget/packages/",
+      "outputPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/jessicafitzgerald/.config/NuGet/NuGet.Config"
+        "/Users/brendonbinks/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -1327,8 +1327,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
-              "projectPath": "/Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj"
+            "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj": {
+              "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj"
             }
           }
         }

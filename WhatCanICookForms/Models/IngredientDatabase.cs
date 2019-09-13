@@ -5,34 +5,34 @@ using SQLite;
 
 namespace WhatCanICookForms.Models
 {
-    public class CookDatabase
+    public class IngredientDatabase
     {
         readonly SQLiteAsyncConnection database;
 
-        public CookDatabase(string dbPath)
+        public IngredientDatabase(string dbPath)
         {
             database = new SQLiteAsyncConnection(dbPath);
-            database.CreateTableAsync<RecipeItem>().Wait();
+            database.CreateTableAsync<Ingredient>().Wait();
         }
 
-        public Task<List<RecipeItem>> GetItemsAsync()
+        public Task<List<Ingredient>> GetItemsAsync()
         {
-            return database.Table<RecipeItem>().ToListAsync();
+            return database.Table<Ingredient>().ToListAsync();
         }
 
 
         // DATABASE QUERY HERE - uncertain if using correct column heading to show ingredients (using saved; could use selected?)
-        public Task<List<RecipeItem>> GetItemsNotDoneAsync()
+        public Task<List<Ingredient>> GetItemsNotDoneAsync()
         {
-            return database.QueryAsync<RecipeItem>("SELECT * FROM [RecipeItem] WHERE [Saved] = 0");
+            return database.QueryAsync<Ingredient>("SELECT * FROM [RecipeItem] WHERE [Saved] = 0");
         }
 
-        public Task<RecipeItem> GetItemsAsync(int id)
+        public Task<Ingredient> GetItemsAsync(int id)
         {
-            return database.Table<RecipeItem>().Where(i => i.ID == id).FirstOrDefaultAsync();
+            return database.Table<Ingredient>().Where(i => i.ID == id).FirstOrDefaultAsync();
         }
 
-        public Task<int> SaveItemAsync(RecipeItem item)
+        public Task<int> SaveItemAsync(Ingredient item)
         {
             if (item.ID != 0)
             {
@@ -44,7 +44,7 @@ namespace WhatCanICookForms.Models
             }
         }
 
-        public Task<int> DeleteItemAsync(RecipeItem item)
+        public Task<int> DeleteItemAsync(Ingredient item)
         {
             return database.DeleteAsync(item);
         }

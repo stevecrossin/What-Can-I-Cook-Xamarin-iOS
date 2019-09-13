@@ -9,7 +9,7 @@ namespace WhatCanICookForms
 {
     public partial class App : Application
     {
-        static CookDatabase database;
+        static IngredientDatabase database;
 
         public App()
         {
@@ -34,13 +34,13 @@ namespace WhatCanICookForms
         }
 
         
-        public static CookDatabase Database
+        public static IngredientDatabase Database
         {
             get
             {
                 if (Database == null)
                 {
-                    Database = new CookDatabase(
+                    Database = new IngredientDatabase(
                       Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "TodoSQLite.db3"));
                 }
                 return Database;

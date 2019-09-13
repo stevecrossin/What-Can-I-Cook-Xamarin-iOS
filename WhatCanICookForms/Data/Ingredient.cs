@@ -5,7 +5,7 @@ namespace WhatCanICookForms.Models
 {
 
     // THIS IS USED IN THE COOKDATABASE.CS QUERY
-    public class RecipeItem
+    public class Ingredient
     {
         [PrimaryKey, AutoIncrement]
         public int ID { get; set; }
