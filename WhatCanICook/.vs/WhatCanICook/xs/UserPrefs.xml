@@ -1,17 +1,12 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{B82AC6A7-75DB-4D64-BA44-34B9AB01290B}|Default">
   <MonoDevelop.Ide.Workbench>
-    <Files>
-      <File FileName="Main.storyboard" />
-      <File FileName="LaunchScreen.storyboard" />
-      <File FileName="Info.plist" />
-    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WhatCanICook" expanded="True">
             <Node name="WhatCanICook" expanded="True">
+              <Node name="AppDelegate.cs" selected="True" />
               <Node name="IngredientPickViewController.cs" expanded="True" />
-              <Node name="Main.storyboard" selected="True" />
               <Node name="ShowAllInfoController.cs" expanded="True" />
               <Node name="ViewController.cs" expanded="True" />
             </Node>
@@ -20,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.WhatCanICook automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.40C81363-BF0A-465D-B05E-D86D065997B1" />
+  <MonoDevelop.Ide.ItemProperties.WhatCanICook PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.40C81363-BF0A-465D-B05E-D86D065997B1" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
