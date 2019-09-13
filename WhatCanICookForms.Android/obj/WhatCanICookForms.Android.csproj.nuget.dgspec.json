@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj": {}
+    "/Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj": {}
   },
   "projects": {
-    "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj": {
+    "/Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
+        "projectUniqueName": "/Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
         "projectName": "WhatCanICookForms.Android",
-        "projectPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
-        "packagesPath": "/Users/Michael/.nuget/packages/",
-        "outputPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/",
+        "projectPath": "/Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
+        "packagesPath": "/Users/jessicafitzgerald/.nuget/packages/",
+        "outputPath": "/Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/Michael/.config/NuGet/NuGet.Config"
+          "/Users/jessicafitzgerald/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid90"
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
-                "projectPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj"
+              "/Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
+                "projectPath": "/Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj"
               }
             }
           }
@@ -76,20 +76,20 @@
         }
       }
     },
-    "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
+    "/Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj",
+        "projectUniqueName": "/Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj",
         "projectName": "WhatCanICookForms",
-        "projectPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj",
-        "packagesPath": "/Users/Michael/.nuget/packages/",
-        "outputPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/",
+        "projectPath": "/Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj",
+        "packagesPath": "/Users/jessicafitzgerald/.nuget/packages/",
+        "outputPath": "/Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/Michael/.config/NuGet/NuGet.Config"
+          "/Users/jessicafitzgerald/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -124,6 +124,10 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[4.1.0.555618, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.5.231, )"
             }
           },
           "imports": [
