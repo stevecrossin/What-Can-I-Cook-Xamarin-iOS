@@ -2000,20 +2000,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/brendonbinks/.nuget/packages/": {}
+    "/Users/Michael/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
+      "projectUniqueName": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
       "projectName": "WhatCanICookForms.Android",
-      "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
-      "packagesPath": "/Users/brendonbinks/.nuget/packages/",
-      "outputPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/",
+      "projectPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
+      "packagesPath": "/Users/Michael/.nuget/packages/",
+      "outputPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/brendonbinks/.config/NuGet/NuGet.Config"
+        "/Users/Michael/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
@@ -2024,8 +2024,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj": {
-              "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj"
+            "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
+              "projectPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj"
             }
           }
         }

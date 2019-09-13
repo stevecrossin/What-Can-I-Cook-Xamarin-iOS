@@ -11,5 +11,9 @@ namespace WhatCanICookForms.Views
         {
             InitializeComponent();
         }
+        private async void Search_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new RecipeResults());
+        }
     }
 }

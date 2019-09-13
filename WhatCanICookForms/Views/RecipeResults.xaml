@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="WhatCanICookForms.Views.RecipeResults" BackgroundColor="#fff5d5">
-    <StackLayout Margin="20,35,20,20">
-    <Label Text="Ingredients at home" HorizontalTextAlignment="Center" />
-        <ListView BackgroundColor="#fff5d5" SeparatorVisibility="None">
-            <ListView.ItemsSource>
-                <x:Array Type="{x:Type x:String}">
-                  <x:String>Lettuce</x:String>
-                     </x:Array>
-            </ListView.ItemsSource>
-        </ListView>
-   <Button Text="Back to home" BackgroundColor="#d5dfff"/>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WhatCanICookForms.Views.RecipeResults"
+             BackgroundColor="#fff5d5">
+
+    <StackLayout Margin="20,20,20,20">
+        <Label x:Name="LoadingLabel" IsVisible="false"/>
+        <Frame OutlineColor="Black" Margin="5,5,5,5">
+        <WebView x:Name="Browser" HeightRequest="1000" WidthRequest="1000"/>
+            </Frame>
+   <Button x:Name="btnHome_Clicked" Text="Back to home" BackgroundColor="#d5dfff"/>
    </StackLayout>
     </ContentPage>
