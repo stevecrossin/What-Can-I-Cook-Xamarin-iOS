@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{D87CFC53-A682-4453-812C-0D7E55C3F285}|Default">
+  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EEFA18C7-1F7A-4274-BE01-829EC2D1EDCC" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhatCanICookForms/Views/RecipeResults.xaml.cs">
+    <Files>
+      <File FileName="WhatCanICookForms/Views/RecipeResults.xaml" Line="12" Column="23" />
+      <File FileName="WhatCanICookForms/Views/RecipeResults.xaml.cs" Line="15" Column="31" />
+      <File FileName="WhatCanICookForms/Views/MainPage.xaml" Line="3" Column="44" />
+      <File FileName="WhatCanICookForms/Views/MainPage.xaml.cs" Line="16" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WhatCanICookForms" expanded="True">
+            <Node name="WhatCanICookForms" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="IngredientPicker.xaml" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+                <Node name="RecipeResults.xaml" expanded="True">
+                  <Node name="RecipeResults.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
