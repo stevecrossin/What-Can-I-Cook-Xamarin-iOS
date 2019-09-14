@@ -1,11 +1,10 @@
 ﻿<Properties StartupConfiguration="{D87CFC53-A682-4453-812C-0D7E55C3F285}|Default">
   <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.93CC30E2-036A-4D81-BFB7-45465C6BBEBF" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WhatCanICookForms/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhatCanICookForms/Data/Ingredient.cs">
     <Files>
-      <File FileName="WhatCanICookForms/Models/RecipeItem.cs" Line="8" Column="28" />
-      <File FileName="WhatCanICookForms/obj/Debug/netstandard2.0/Views/RecipeResults.xaml.g.cs" Line="33" Column="13" />
       <File FileName="WhatCanICookForms/Models/IngredientDatabase.cs" Line="12" Column="34" />
-      <File FileName="WhatCanICookForms/App.xaml.cs" Line="37" Column="33" />
+      <File FileName="WhatCanICookForms/Data/Ingredient.cs" Line="7" Column="38" />
+      <File FileName="WhatCanICookForms/App.xaml.cs" Line="38" Column="123" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,11 +12,17 @@
           <Node name="WhatCanICookForms" expanded="True">
             <Node name="WhatCanICookForms" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="App.xaml" expanded="True">
-                <Node name="App.xaml.cs" selected="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Ingredient.cs" selected="True" />
               </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="IngredientPicker.xaml" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+                <Node name="Pantry.xaml" expanded="True" />
+                <Node name="RecipeResults.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
             </Node>
             <Node name="WhatCanICookForms.Android" expanded="True" />
             <Node name="WhatCanICookForms.iOS" expanded="True" />
