@@ -24,6 +24,18 @@ namespace WhatCanICookForms.Models
         {
             database = new SQLiteAsyncConnection(dbPath);
             database.CreateTableAsync<Ingredient>().Wait();
+
+            var chicken = new Ingredient();
+            var milk = new Ingredient();
+            var apple = new Ingredient();
+
+            chicken.Name = "Chicken";
+            milk.Name = "Milk";
+            apple.Name = "Apple";
+
+            SaveItemAsync(chicken);
+            SaveItemAsync(milk);
+            SaveItemAsync(apple);
         }
 
         //Method to return list of ingredients
