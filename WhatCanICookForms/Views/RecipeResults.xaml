@@ -9,6 +9,6 @@
         <Frame OutlineColor="Black" Margin="5,5,5,5">
         <WebView x:Name="Browser" HeightRequest="1000" WidthRequest="1000"/>
             </Frame>
-   <Button x:Name="btnHome_Clicked" Text="Back to home" BackgroundColor="#d5dfff"/>
+        <Button Text="Back to Home" Clicked="Home_Clicked" BackgroundColor="#d5dfff"/>
    </StackLayout>
     </ContentPage>

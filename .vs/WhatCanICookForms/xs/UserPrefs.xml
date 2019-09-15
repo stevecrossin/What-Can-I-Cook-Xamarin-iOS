@@ -1,11 +1,13 @@
 ﻿<Properties StartupConfiguration="{D87CFC53-A682-4453-812C-0D7E55C3F285}|Default">
-  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.93CC30E2-036A-4D81-BFB7-45465C6BBEBF" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WhatCanICookForms/App.xaml.cs">
+  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.447E006E-DB65-4F38-812B-8791E463CA16" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="WhatCanICookForms/Models/RecipeItem.cs" Line="8" Column="28" />
-      <File FileName="WhatCanICookForms/obj/Debug/netstandard2.0/Views/RecipeResults.xaml.g.cs" Line="33" Column="13" />
-      <File FileName="WhatCanICookForms/Models/IngredientDatabase.cs" Line="12" Column="34" />
-      <File FileName="WhatCanICookForms/App.xaml.cs" Line="37" Column="33" />
+      <File FileName="WhatCanICookForms/obj/Debug/netstandard2.0/Views/RecipeResults.xaml.g.cs" Line="33" Column="1" />
+      <File FileName="WhatCanICookForms/Models/IngredientDatabase.cs" />
+      <File FileName="WhatCanICookForms/App.xaml.cs" Line="12" Column="35" />
+      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml" Line="17" Column="15" />
+      <File FileName="WhatCanICookForms/Views/RecipeResults.xaml" Line="13" Column="1" />
+      <File FileName="WhatCanICookForms/Views/RecipeResults.xaml.cs" Line="21" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,6 +17,10 @@
               <Node name="Dependencies" expanded="True" />
               <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="IngredientPicker.xaml" expanded="True" />
+                <Node name="RecipeResults.xaml" expanded="True" />
+              </Node>
               <Node name="App.xaml" expanded="True">
                 <Node name="App.xaml.cs" selected="True" />
               </Node>

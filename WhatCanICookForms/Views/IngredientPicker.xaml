@@ -11,7 +11,7 @@
                 
             </ListView.ItemsSource>
         </ListView>
-      <Button Text="Search" Clicked="Search_Clicked"/>
+      <Button Text="Search" Clicked="Search_Clicked" BackgroundColor="#d5dfff"/>
     
     </StackLayout>
 </ContentPage>
