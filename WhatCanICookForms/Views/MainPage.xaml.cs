@@ -11,26 +11,17 @@ namespace WhatCanICookForms
 {
     // Learn more about making custom code visible in the Xamarin.Forms previewer
     // by visiting https://aka.ms/xamarinforms-previewer
-    [DesignTimeVisible(false)]
+
     public partial class MainPage : ContentPage
     {
         public MainPage()
         {
             InitializeComponent();
         }
-        private async void Pick_Ingredients_Clicked(object sender, EventArgs e)
+        public void btnLoginClicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new IngredientPicker());
+            Navigation.PushAsync(new LoginPage());
         }
 
-        private async void Dietary_Clicked(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new DietaryPreferences());
-        }
-
-        private async void Pantry_Clicked(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new Pantry());
-        }
     }
 }

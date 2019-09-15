@@ -11,13 +11,42 @@ namespace WhatCanICookForms
     {
         //Ingredient Database instance
         static IngredientDatabase database;
-
+        static string _Token;
+        public static Page myPage = new MainPage();
+        public static NavigationPage NavPage = new NavigationPage(myPage);
         public App()
         {
             InitializeComponent();
 
             MainPage = new NavigationPage(new MainPage());
         }
+
+        public static Action SuccessfulLoginAction
+        {
+            get
+            {
+                return new Action(() =>
+                {
+                    NavPage.Navigation.PopModalAsync();
+                    NavPage.Navigation.InsertPageBefore(new MainPage(), NavPage.Navigation.NavigationStack.First());
+                    NavPage.Navigation.PopToRootAsync();
+                });
+            }
+        }
+
+        public static Action FailedLoginAction
+        {
+            get
+            {
+                return new Action(() =>
+                {
+                    NavPage.Navigation.PopModalAsync();
+                    NavPage.Navigation.InsertPageBefore(new MainPage(), NavPage.Navigation.NavigationStack.First());
+                    NavPage.Navigation.PopToRootAsync();
+                });
+            }
+        }
+
 
         protected override void OnStart()
         {
@@ -32,6 +61,11 @@ namespace WhatCanICookForms
         protected override void OnResume()
         {
             // Handle when your app resumes
+        }
+
+        public static void SaveToken(string token)
+        {
+            _Token = token;
         }
 
 
@@ -50,3 +84,5 @@ namespace WhatCanICookForms
         }
     }
 }
+
+
