@@ -1,13 +1,14 @@
 ﻿<Properties StartupConfiguration="{D87CFC53-A682-4453-812C-0D7E55C3F285}|Default">
-  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.93CC30E2-036A-4D81-BFB7-45465C6BBEBF" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WhatCanICookForms/App.xaml.cs">
+  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.447E006E-DB65-4F38-812B-8791E463CA16" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="WhatCanICookForms/Models/IngredientDatabase.cs" Line="36" Column="36" />
-      <File FileName="WhatCanICookForms/ViewModels/IngredientPickerViewModel.cs" Line="4" Column="48" />
-      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml" Line="22" Column="1" />
-      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml.cs" Line="17" Column="32" />
-      <File FileName="WhatCanICookForms/Data/Ingredient.cs" Line="16" Column="40" />
-      <File FileName="WhatCanICookForms/App.xaml.cs" Line="50" Column="10" />
+      <File FileName="WhatCanICookForms/Views/MainPage.xaml" Line="11" Column="16" />
+      <File FileName="WhatCanICookForms/Views/HomePage.xaml" Line="6" Column="21" />
+      <File FileName="WhatCanICookForms/Views/LoginPage.xaml" Line="1" Column="1" />
+      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml" Line="7" Column="39" />
+      <File FileName="WhatCanICookForms/Views/HomePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml.cs" Line="1" Column="1" />
+      <File FileName="WhatCanICookForms/Views/MainPage.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,16 +22,17 @@
               <Node name="Models" expanded="True" />
               <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="IngredientPicker.xaml" expanded="True" />
-                <Node name="MainPage.xaml" expanded="True" />
-                <Node name="Pantry.xaml" expanded="True" />
-                <Node name="RecipeResults.xaml" expanded="True" />
-              </Node>
-              <Node name="App.xaml" expanded="True">
-                <Node name="App.xaml.cs" selected="True" />
+                <Node name="HomePage.xaml" expanded="True" />
+                <Node name="LoginPage.xaml" expanded="True" />
+                <Node name="MainPage.xaml" selected="True" />
               </Node>
             </Node>
-            <Node name="WhatCanICookForms.Android" expanded="True" />
+            <Node name="WhatCanICookForms.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
             <Node name="WhatCanICookForms.iOS" expanded="True" />
           </Node>
         </State>
