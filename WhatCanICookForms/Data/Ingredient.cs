@@ -4,7 +4,7 @@ using SQLite;
 namespace WhatCanICookForms.Models
 {
 
-    // THIS IS USED IN THE COOKDATABASE.CS QUERY
+    // THIS IS USED IN THE INGREDIENTDATABASE.CS QUERY
     public class Ingredient
     {
         [PrimaryKey, AutoIncrement]

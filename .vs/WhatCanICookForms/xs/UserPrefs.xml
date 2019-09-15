@@ -1,24 +1,29 @@
 ﻿<Properties StartupConfiguration="{D87CFC53-A682-4453-812C-0D7E55C3F285}|Default">
-  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.447E006E-DB65-4F38-812B-8791E463CA16" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.93CC30E2-036A-4D81-BFB7-45465C6BBEBF" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhatCanICookForms/App.xaml.cs">
     <Files>
-      <File FileName="WhatCanICookForms/obj/Debug/netstandard2.0/Views/RecipeResults.xaml.g.cs" Line="33" Column="1" />
-      <File FileName="WhatCanICookForms/Models/IngredientDatabase.cs" />
-      <File FileName="WhatCanICookForms/App.xaml.cs" Line="12" Column="35" />
-      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml" Line="17" Column="15" />
-      <File FileName="WhatCanICookForms/Views/RecipeResults.xaml" Line="13" Column="1" />
-      <File FileName="WhatCanICookForms/Views/RecipeResults.xaml.cs" Line="21" Column="1" />
+      <File FileName="WhatCanICookForms/Models/IngredientDatabase.cs" Line="36" Column="36" />
+      <File FileName="WhatCanICookForms/ViewModels/IngredientPickerViewModel.cs" Line="4" Column="48" />
+      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml" Line="22" Column="1" />
+      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml.cs" Line="17" Column="32" />
+      <File FileName="WhatCanICookForms/Data/Ingredient.cs" Line="16" Column="40" />
+      <File FileName="WhatCanICookForms/App.xaml.cs" Line="50" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WhatCanICookForms" expanded="True">
             <Node name="WhatCanICookForms" expanded="True">
-              <Node name="Dependencies" expanded="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
               <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="IngredientPicker.xaml" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+                <Node name="Pantry.xaml" expanded="True" />
                 <Node name="RecipeResults.xaml" expanded="True" />
               </Node>
               <Node name="App.xaml" expanded="True">
