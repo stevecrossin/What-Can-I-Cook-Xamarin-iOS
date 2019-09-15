@@ -7,7 +7,7 @@
    <StackLayout Margin="20,20,20,20">
         <Label x:Name="LoadingLabel" IsVisible="false"/>
         <Frame OutlineColor="Black" Margin="5,5,5,5">
-        <WebView x:Name="Browser" HeightRequest="1000" WidthRequest="1000"/>
+        <WebView x:Name="Browser" HeightRequest="1000" WidthRequest="1000" BackgroundColor="#fff5d5"/>
             </Frame>
         <Button Text="Back to Home" Clicked="Home_Clicked" BackgroundColor="#d5dfff"/>
 

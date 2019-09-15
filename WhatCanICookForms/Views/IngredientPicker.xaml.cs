@@ -10,6 +10,7 @@ namespace WhatCanICookForms.Views
         public IngredientPicker()
         {
             InitializeComponent();
+      
         }
 
         //Method to display contents of Ingredients DB on screen appearing

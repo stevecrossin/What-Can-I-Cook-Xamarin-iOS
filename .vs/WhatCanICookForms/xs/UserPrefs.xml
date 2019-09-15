@@ -1,14 +1,18 @@
 ﻿<Properties StartupConfiguration="{D87CFC53-A682-4453-812C-0D7E55C3F285}|Default">
   <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.447E006E-DB65-4F38-812B-8791E463CA16" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhatCanICookForms/Views/RecipeResults.xaml.cs">
     <Files>
       <File FileName="WhatCanICookForms/Views/MainPage.xaml" Line="11" Column="16" />
       <File FileName="WhatCanICookForms/Views/HomePage.xaml" Line="6" Column="21" />
       <File FileName="WhatCanICookForms/Views/LoginPage.xaml" Line="1" Column="1" />
-      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml" Line="7" Column="39" />
-      <File FileName="WhatCanICookForms/Views/HomePage.xaml.cs" Line="1" Column="1" />
-      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml.cs" Line="1" Column="1" />
+      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml" Line="11" Column="43" />
+      <File FileName="WhatCanICookForms/Views/HomePage.xaml.cs" Line="13" Column="13" />
+      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml.cs" Line="13" Column="7" />
       <File FileName="WhatCanICookForms/Views/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="WhatCanICookForms/App.xaml" Line="6" Column="65" />
+      <File FileName="WhatCanICookForms/Views/RecipeResults.xaml" Line="15" Column="15" />
+      <File FileName="WhatCanICookForms/Views/RecipeResults.xaml.cs" Line="14" Column="14" />
+      <File FileName="WhatCanICookForms/Views/LoginPage.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,9 +26,10 @@
               <Node name="Models" expanded="True" />
               <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="HomePage.xaml" expanded="True" />
+                <Node name="HomePage.xaml" expanded="True">
+                  <Node name="RecipeResults.xaml.cs" selected="True" />
+                </Node>
                 <Node name="LoginPage.xaml" expanded="True" />
-                <Node name="MainPage.xaml" selected="True" />
               </Node>
             </Node>
             <Node name="WhatCanICookForms.Android" expanded="True">
