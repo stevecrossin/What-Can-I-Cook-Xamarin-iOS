@@ -174,3 +174,8 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/obj/iPhoneSimulator/Debug/WhatCanICookForms.iOS.csproj.CopyComplete
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/obj/iPhoneSimulator/Debug/WhatCanICookForms.iOS.exe
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/obj/iPhoneSimulator/Debug/WhatCanICookForms.iOS.pdb
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll

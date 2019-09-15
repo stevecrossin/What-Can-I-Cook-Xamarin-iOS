@@ -9,6 +9,7 @@ namespace WhatCanICookForms
 {
     public partial class App : Application
     {
+        //Ingredient Database instance
         static IngredientDatabase database;
 
         public App()
@@ -33,17 +34,18 @@ namespace WhatCanICookForms
             // Handle when your app resumes
         }
 
-        
+
+        //Read-only property to return a local path for storing DB
         public static IngredientDatabase Database
         {
             get
             {
-                if (Database == null)
+                if (database == null)
                 {
-                    Database = new IngredientDatabase(
+                    database = new IngredientDatabase(
                       Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "TodoSQLite.db3"));
                 }
-                return Database;
+                return database;
             }
         }
     }
