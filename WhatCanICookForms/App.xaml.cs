@@ -4,6 +4,8 @@ using System.Diagnostics;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using WhatCanICookForms.Models;
+using WhatCanICookForms.Views;
+using System.Linq;
 
 namespace WhatCanICookForms
 {
@@ -18,7 +20,7 @@ namespace WhatCanICookForms
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new MainPage());
+            MainPage = NavPage;
         }
 
         public static Action SuccessfulLoginAction
@@ -28,7 +30,7 @@ namespace WhatCanICookForms
                 return new Action(() =>
                 {
                     NavPage.Navigation.PopModalAsync();
-                    NavPage.Navigation.InsertPageBefore(new MainPage(), NavPage.Navigation.NavigationStack.First());
+                    NavPage.Navigation.InsertPageBefore(new HomePage(), NavPage.Navigation.NavigationStack.First());
                     NavPage.Navigation.PopToRootAsync();
                 });
             }

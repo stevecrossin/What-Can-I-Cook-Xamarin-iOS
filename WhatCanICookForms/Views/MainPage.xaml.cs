@@ -17,6 +17,7 @@ namespace WhatCanICookForms
         public MainPage()
         {
             InitializeComponent();
+            NavigationPage.SetHasNavigationBar(this, false);
         }
         public void btnLoginClicked(object sender, EventArgs e)
         {

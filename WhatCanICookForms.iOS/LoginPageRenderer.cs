@@ -4,6 +4,8 @@ using Xamarin.Auth;
 using WhatCanICookForms;
 using WhatCanICookForms.iOS;
 using Xamarin.Forms.Platform.iOS;
+using WhatCanICookForms.Views;
+using WhatCanICookForms.ViewModels;
 
 [assembly: ExportRenderer(typeof(LoginPage), typeof(LoginPageRenderer))]
 

@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using WhatCanICookForms.Views;
 using Xamarin.Forms;
 
 namespace WhatCanICookForms
@@ -13,7 +13,7 @@ namespace WhatCanICookForms
         }
         private async void Home_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new MainPage());
+            await Navigation.PushAsync(new HomePage());
         }
     }
 }

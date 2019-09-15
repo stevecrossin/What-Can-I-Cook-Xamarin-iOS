@@ -10,6 +10,7 @@ namespace WhatCanICookForms.Views
         public HomePage()
         {
             InitializeComponent();
+            NavigationPage.SetHasNavigationBar(this, false);
         }
         private async void Pick_Ingredients_Clicked(object sender, EventArgs e)
         {

@@ -56,6 +56,9 @@
 /Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.csproj.CoreCompileInputs.cache
 /Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.AssemblyInfoInputs.cache
 /Users/jessicafitzgerald/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.AssemblyInfo.cs
+/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/bin/Debug/netstandard2.0/WhatCanICookForms.deps.json
+/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/bin/Debug/netstandard2.0/WhatCanICookForms.dll
+/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/bin/Debug/netstandard2.0/WhatCanICookForms.pdb
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/Debug/netstandard2.0/App.xaml.g.cs
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/Debug/netstandard2.0/Views/DietaryPreferences.xaml.g.cs
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/Debug/netstandard2.0/Views/HomePage.xaml.g.cs
@@ -67,3 +70,6 @@
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.csproj.CoreCompileInputs.cache
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.AssemblyInfoInputs.cache
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.AssemblyInfo.cs
+/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.dll
+/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.pdb

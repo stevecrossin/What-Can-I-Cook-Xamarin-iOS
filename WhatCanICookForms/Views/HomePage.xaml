@@ -5,14 +5,17 @@
            <ImageButton Source="pickingredients.png"
                     HorizontalOptions="Center"
                     VerticalOptions="Center"
+                    Margin="20,50,20,30"
                     Clicked="Pick_Ingredients_Clicked"/>
            <ImageButton Source="dietaryneeds.png"
                     HorizontalOptions="Center"
                     VerticalOptions="Center"
+                    Margin="20,0,20,30"
                     Clicked="Dietary_Clicked"/>
            <ImageButton Source="pantry.png"
                     HorizontalOptions="Center"
                     VerticalOptions="Center"
+                    Margin="20,0,20,30"
                     Clicked="Pantry_Clicked"/>
     </StackLayout>
 </ContentPage>
