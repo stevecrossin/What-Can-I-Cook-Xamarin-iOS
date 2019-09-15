@@ -12,9 +12,10 @@ namespace WhatCanICookForms.Views
             Browser.BackgroundColor = Color.Transparent;
             Browser.Source = "https://cse.google.com/cse/publicurl?cx=015236496974186256374:d0qdoev25cg&q=";
         }
-        /*private async void btnHome_Clicked(object sender, EventArgs e)
+        private async void Home_Clicked(object sender, EventArgs e)
+
         {
             await Navigation.PushAsync(new MainPage());
-        }*/
+        }
     }
 }
