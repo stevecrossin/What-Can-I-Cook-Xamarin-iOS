@@ -6,6 +6,9 @@ using WhatCanICookForms.Droid;
 using Xamarin.Forms.Platform.Android;
 using Android.Content;
 using Android.App;
+using WhatCanICookForms.Views;
+using TestFacebookLogin.Droid;
+using WhatCanICookForms.ViewModels;
 
 [assembly: ExportRenderer(typeof(LoginPage), typeof(LoginPageRender))]
 

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using System.Linq;
 using SQLite;
 
 namespace WhatCanICookForms.Models
@@ -13,7 +14,7 @@ namespace WhatCanICookForms.Models
          **********************/
 
         //DB variable - readonly
-        readonly SQLiteAsyncConnection database;
+        readonly SQLiteConnection database;
 
         /***********************
              METHODS/QUERIES
@@ -22,58 +23,77 @@ namespace WhatCanICookForms.Models
         //Constructor
         public IngredientDatabase(string dbPath)
         {
-            database = new SQLiteAsyncConnection(dbPath);
-            database.CreateTableAsync<Ingredient>().Wait();
+            database = new SQLiteConnection(dbPath);
+            //Drop table before recreating to ensure no duplicates everytime app is run
+            database.DropTable<Ingredient>();
+            database.CreateTable<Ingredient>();
 
-            var chicken = new Ingredient();
-            var milk = new Ingredient();
-            var apple = new Ingredient();
-
-            chicken.Name = "Chicken";
-            milk.Name = "Milk";
-            apple.Name = "Apple";
-
-            SaveItemAsync(chicken);
-            SaveItemAsync(milk);
-            SaveItemAsync(apple);
+            CreateIngredients();
         }
 
         //Method to return list of ingredients
-        public Task<List<Ingredient>> GetItemsAsync()
+        public List<Ingredient> GetItems()
         {
-            return database.Table<Ingredient>().ToListAsync();
+            return database.Table<Ingredient>().ToList();
         }
 
 
         // DATABASE QUERY HERE - uncertain if using correct column heading to show ingredients (using saved; could use selected?)
-        public Task<List<Ingredient>> GetItemsNotDoneAsync()
+        public List<Ingredient> GetItemsNotDone()
         {
-            return database.QueryAsync<Ingredient>("SELECT * FROM [Ingredient] WHERE [Saved] = 0");
+            return database.Query<Ingredient>("SELECT * FROM [Ingredient] WHERE [Saved] = 0");
         }
 
         //Method to return ingredient based on ID
-        public Task<Ingredient> GetItemsAsync(int id)
+        public Ingredient GetItems(int id)
         {
-            return database.Table<Ingredient>().Where(i => i.ID == id).FirstOrDefaultAsync();
+            return database.Table<Ingredient>().FirstOrDefault(ingredient => ingredient.ID == id);
         }
 
         //Method to update table with new or modified ingredient
-        public Task<int> SaveItemAsync(Ingredient item)
+        public int SaveItem(Ingredient item)
         {
             if (item.ID != 0)
             {
-                return database.UpdateAsync(item);
+                return database.Update(item);
             }
             else
             {
-                return database.InsertAsync(item);
+                return database.Insert(item);
             }
         }
 
         //Method to remove ingredient from table
-        public Task<int> DeleteItemAsync(Ingredient item)
+        public int DeleteItem(Ingredient item)
         {
-            return database.DeleteAsync(item);
+            return database.Delete(item);
+        }
+
+        //Method to create the ingredients in the DB, called in constructor - very messy
+        public void CreateIngredients()
+        {
+            var apple = new Ingredient();
+            var eggs = new Ingredient();
+            var broccoli = new Ingredient();
+            var chicken = new Ingredient();
+            var onion = new Ingredient();
+            apple.Name = "Apple";
+            eggs.Name = "Eggs";
+            broccoli.Name = "Broccoli";
+            chicken.Name = "Chicken";
+            onion.Name = "Onion";
+
+            List<Ingredient> ingredientsToAdd = new List<Ingredient>();
+            ingredientsToAdd.Add(apple);
+            ingredientsToAdd.Add(eggs);
+            ingredientsToAdd.Add(broccoli);
+            ingredientsToAdd.Add(chicken);
+            ingredientsToAdd.Add(onion);
+
+            foreach (Ingredient ingredient in ingredientsToAdd)
+            {
+                SaveItem(ingredient);
+            }
         }
 
     }
