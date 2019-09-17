@@ -17,7 +17,7 @@ namespace WhatCanICookForms.Views
                 if (e.SelectedItem != null)
                 {
                     Ingredient ingredient = App.Database.GetItems(e.SelectedItemIndex + 1);
-                    ingredient.Selected = true;
+                    ingredient.Selected = 1;
 
                     Console.WriteLine($"{ingredient.Name} selected value is {ingredient.Selected}");
                 }

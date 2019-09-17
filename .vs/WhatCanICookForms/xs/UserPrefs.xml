@@ -1,28 +1,33 @@
-﻿<Properties StartupConfiguration="{8BB66E33-ACCD-4C03-A357-45F04D8F646A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WhatCanICookForms.Android/LoginPageRender.cs">
+﻿<Properties StartupConfiguration="{D87CFC53-A682-4453-812C-0D7E55C3F285}|Default">
+  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.93CC30E2-036A-4D81-BFB7-45465C6BBEBF" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhatCanICookForms/Data/Ingredient.cs">
     <Files>
-      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml.cs" Line="28" Column="10" />
-      <File FileName="WhatCanICookForms.Android/LoginPageRender.cs" Line="11" Column="63" />
+      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml.cs" Line="21" Column="160" />
+      <File FileName="WhatCanICookForms/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="WhatCanICookForms/Data/Ingredient.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WhatCanICookForms" expanded="True">
             <Node name="WhatCanICookForms" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Ingredient.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True">
                 <Node name="IngredientPicker.xaml" expanded="True" />
                 <Node name="LoginPage.xaml" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True" />
               </Node>
+              <Node name="App.xaml" expanded="True" />
             </Node>
-            <Node name="WhatCanICookForms.Android" expanded="True">
-              <Node name="LoginPageRender.cs" selected="True" />
-            </Node>
+            <Node name="WhatCanICookForms.Android" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
