@@ -11,8 +11,8 @@ namespace WhatCanICookForms.Models
         public int ID { get; set; }
         public string Name { get; set; }
         public string Image { get; set; }
-        public bool Excluded { get; set; }
-        public bool Selected { get; set; }
-        public bool Saved { get; set; }
+        public int Excluded { get; set; }
+        public int Selected { get; set; }
+        public int Saved { get; set; }
     }
 }

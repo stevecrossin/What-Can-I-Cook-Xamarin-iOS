@@ -73,3 +73,5 @@
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.dll
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/Debug/netstandard2.0/WhatCanICookForms.pdb
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/Debug/netstandard2.0/Views/HomePage.xaml.g.cs
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
