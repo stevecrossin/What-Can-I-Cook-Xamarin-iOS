@@ -1,19 +1,24 @@
 ﻿<Properties StartupConfiguration="{D87CFC53-A682-4453-812C-0D7E55C3F285}|Default">
   <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.93CC30E2-036A-4D81-BFB7-45465C6BBEBF" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WhatCanICookForms/Data/Ingredient.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhatCanICookForms/Models/IngredientDatabase.cs">
     <Files>
-      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml.cs" Line="21" Column="160" />
-      <File FileName="WhatCanICookForms/App.xaml.cs" Line="1" Column="1" />
-      <File FileName="WhatCanICookForms/Data/Ingredient.cs" Line="1" Column="1" />
+      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml.cs" Line="47" Column="59" />
+      <File FileName="WhatCanICookForms/ViewModels/IngredientPickerViewModel.cs" Line="31" Column="90" />
+      <File FileName="WhatCanICookForms/App.xaml.cs" Line="88" Column="10" />
+      <File FileName="WhatCanICookForms/Data/Ingredient.cs" Line="14" Column="40" />
+      <File FileName="WhatCanICookForms/Views/LoginPage.xaml" Line="1" Column="1" />
+      <File FileName="WhatCanICookForms/Models/IngredientDatabase.cs" Line="72" Column="11" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WhatCanICookForms" expanded="True">
             <Node name="WhatCanICookForms" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="Ingredient.cs" selected="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="IngredientDatabase.cs" selected="True" />
               </Node>
+              <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="IngredientPicker.xaml" expanded="True" />
                 <Node name="LoginPage.xaml" expanded="True" />

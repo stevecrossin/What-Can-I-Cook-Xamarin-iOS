@@ -1,28 +1,34 @@
 ﻿using System;
 using System.Collections.Generic;
 using WhatCanICookForms.Models;
+using WhatCanICookForms.ViewModels;
 using Xamarin.Forms;
 
 namespace WhatCanICookForms.Views
 {
     public partial class IngredientPicker : ContentPage
     {
+        IngredientPickerViewModel ipvm = new IngredientPickerViewModel();
+
         public IngredientPicker()
         {
             InitializeComponent();
 
-            //SECTION FOR TESTING AT THIS STAGE
+            //Update selected ingredient
             listView.ItemSelected += (sender, e) =>
             {
+                //Null check
                 if (e.SelectedItem != null)
                 {
-                    Ingredient ingredient = App.Database.GetItems(e.SelectedItemIndex + 1);
-                    ingredient.Selected = 1;
+                    //Call UpdateSelectedIngredients() from IngredientPickerViewModel
+                    ipvm.UpdateSelectedIngredients(e.SelectedItemIndex + 1);
 
-                    Console.WriteLine($"{ingredient.Name} selected value is {ingredient.Selected}");
+                    //FOR TESTING
+                    Console.WriteLine($"{App.Database.GetItems(e.SelectedItemIndex + 1).Name} selected value is {App.Database.GetItems(e.SelectedItemIndex + 1).Selected}");
                 }
             };
 
+            //FOR TESTING
             Ingredient testIngredient = App.Database.GetItems(3);
             Console.WriteLine($"{testIngredient.Name} selected value is {testIngredient.Selected}");
         }
@@ -37,6 +43,10 @@ namespace WhatCanICookForms.Views
 
         private async void Search_Clicked(object sender, EventArgs e)
         {
+            //FOR TESTING
+            string testString = ipvm.CreateSearchString();
+            Console.WriteLine($"Search string is {testString}");
+
             await Navigation.PushAsync(new RecipeResults());
 
         }

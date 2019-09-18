@@ -5,6 +5,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using WhatCanICookForms.Models;
 using WhatCanICookForms.Views;
+using WhatCanICookForms.ViewModels;
 using System.Linq;
 
 namespace WhatCanICookForms
@@ -13,6 +14,7 @@ namespace WhatCanICookForms
     {
         //Ingredient Database instance
         static IngredientDatabase database;
+        static IngredientPickerViewModel ipvm;
         static string _Token;
         public static Page myPage = new MainPage();
         public static NavigationPage NavPage = new NavigationPage(myPage);

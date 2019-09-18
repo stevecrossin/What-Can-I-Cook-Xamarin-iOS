@@ -69,6 +69,12 @@ namespace WhatCanICookForms.Models
             return database.Delete(item);
         }
 
+        //Method to update the selected value of ingredient in table
+        public void SetIngredientSelected(int id, int isSelected)
+        {
+            database.Execute("UPDATE [Ingredient] SET Selected='" + isSelected + "' WHERE [ID]='" + id + "'");
+        }
+
         //Method to create the ingredients in the DB, called in constructor - very messy
         public void CreateIngredients()
         {
