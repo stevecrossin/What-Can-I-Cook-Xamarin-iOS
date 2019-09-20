@@ -14,7 +14,6 @@ namespace WhatCanICookForms
     {
         //Ingredient Database instance
         static IngredientDatabase database;
-        static IngredientPickerViewModel ipvm;
         static string _Token;
         public static Page myPage = new MainPage();
         public static NavigationPage NavPage = new NavigationPage(myPage);
