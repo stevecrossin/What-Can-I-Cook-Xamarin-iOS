@@ -75,6 +75,12 @@ namespace WhatCanICookForms.Models
             database.Execute("UPDATE [Ingredient] SET Selected='" + isSelected + "' WHERE [ID]='" + id + "'");
         }
 
+        //Method to update the excluded value of ingredient in table
+        public void SetIngredientExcluded(int id, int isExcluded)
+        {
+            database.Execute("UPDATE [Ingredient] SET Excluded='" + isExcluded + "' WHERE [ID]='" + id + "'");
+        }
+
         //Method to create the ingredients in the DB, called in constructor - very messy
         public void CreateIngredients()
         {
