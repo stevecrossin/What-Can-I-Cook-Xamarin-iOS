@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Linq;
 using SQLite;
+using System.Diagnostics;
+using System.Reflection;
+using System.IO;
 
 namespace WhatCanICookForms.Models
 {
@@ -24,11 +27,15 @@ namespace WhatCanICookForms.Models
         public IngredientDatabase(string dbPath)
         {
             database = new SQLiteConnection(dbPath);
-            //Drop table before recreating to ensure no duplicates everytime app is run
-            database.DropTable<Ingredient>();
-            database.CreateTable<Ingredient>();
+            var info = database.GetTableInfo("Ingredient");
+            if (!info.Any())
+            {
+                //Drop table before recreating to ensure no duplicates everytime app is run
+                database.DropTable<Ingredient>();
+                database.CreateTable<Ingredient>();
 
-            CreateIngredients();
+                CreateIngredients();
+            }
         }
 
         //Method to return list of ingredients
@@ -55,6 +62,7 @@ namespace WhatCanICookForms.Models
         {
             if (item.ID != 0)
             {
+                item.IsChanged = false;
                 return database.Update(item);
             }
             else
@@ -84,6 +92,26 @@ namespace WhatCanICookForms.Models
         //Method to create the ingredients in the DB, called in constructor - very messy
         public void CreateIngredients()
         {
+            // note that the prefix includes the trailing period '.' that is required
+            var assembly = IntrospectionExtensions.GetTypeInfo(typeof(IngredientDatabase)).Assembly;
+            var assemblies = assembly.GetManifestResourceNames();
+            Stream stream = assembly.GetManifestResourceStream("WhatCanICookForms.ingredients.csv");
+
+
+            using (var sr = new System.IO.StreamReader(stream))
+            // using (StreamReader sr = new StreamReader(stream))
+            {
+                while (!sr.EndOfStream)
+                {
+                    var csvLine = sr.ReadLine();
+                    var parts = csvLine.Split(',');
+                    var ingredient = new Ingredient();
+                    ingredient.Name = parts[0];
+                    ingredient.Image = parts[1];
+                    SaveItem(ingredient);
+                }
+            }
+            /*
             var apple = new Ingredient();
             var eggs = new Ingredient();
             var broccoli = new Ingredient();
@@ -105,7 +133,7 @@ namespace WhatCanICookForms.Models
             foreach (Ingredient ingredient in ingredientsToAdd)
             {
                 SaveItem(ingredient);
-            }
+            }*/
         }
 
     }

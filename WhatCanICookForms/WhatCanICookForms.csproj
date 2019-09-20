@@ -20,5 +20,13 @@
     <Folder Include="Views\" />
     <Folder Include="ViewModels\" />
     <Folder Include="Data\" />
+    <Folder Include="BaseClasses\" />
+    <Folder Include="Converters\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="ingredients.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ingredients.csv" />
   </ItemGroup>
 </Project>

@@ -720,23 +720,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/brendonbinks/.nuget/packages/": {},
+    "/Users/stevencrossin/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj",
+      "projectUniqueName": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj",
       "projectName": "WhatCanICookForms",
-      "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj",
-      "packagesPath": "/Users/brendonbinks/.nuget/packages/",
-      "outputPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/",
+      "projectPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj",
+      "packagesPath": "/Users/stevencrossin/.nuget/packages/",
+      "outputPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/brendonbinks/.config/NuGet/NuGet.Config"
+        "/Users/stevencrossin/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

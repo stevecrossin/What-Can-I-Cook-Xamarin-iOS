@@ -22,7 +22,8 @@ namespace WhatCanICookForms
         }
         public void btnLoginClicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new LoginPage());
+            Navigation.PushAsync(new HomePage());
+            /*To bypass FB login for Testing, change LoginPage to HomePage*/
         }
 
     }

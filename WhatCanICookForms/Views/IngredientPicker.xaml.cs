@@ -8,12 +8,12 @@ namespace WhatCanICookForms.Views
 {
     public partial class IngredientPicker : ContentPage
     {
-        IngredientPickerViewModel ipvm = new IngredientPickerViewModel();
+        IngredientPickerViewModel ViewModel { get; set; } = new IngredientPickerViewModel();
 
         public IngredientPicker()
         {
             InitializeComponent();
-
+            BindingContext = ViewModel;
             //Update selected ingredient
             listView.ItemSelected += (sender, e) =>
             {
@@ -21,7 +21,7 @@ namespace WhatCanICookForms.Views
                 if (e.SelectedItem != null)
                 {
                     //Call UpdateSelectedIngredients() from IngredientPickerViewModel
-                    ipvm.UpdateSelectedIngredients(e.SelectedItemIndex + 1);
+                    ViewModel.UpdateSelectedIngredients(e.SelectedItemIndex + 1);
 
                     //FOR TESTING
                     Console.WriteLine($"{App.Database.GetItems(e.SelectedItemIndex + 1).Name} selected value is {App.Database.GetItems(e.SelectedItemIndex + 1).Selected}");
@@ -37,19 +37,30 @@ namespace WhatCanICookForms.Views
         protected override async void OnAppearing()
         {
             base.OnAppearing();
+            ViewModel.ApplyFilter();
             //ListView is bound in IngredientPicker.xaml
-            listView.ItemsSource = App.Database.GetItems();
+            // listView.ItemsSource = App.Database.GetItems();
+        }
+        protected override void OnDisappearing()
+        {
+            base.OnDisappearing();
+            ViewModel.ApplyChanges();
         }
 
         private async void Search_Clicked(object sender, EventArgs e)
         {
+            await Navigation.PushAsync(new SelectedIngredients(ViewModel.GetSelectedIngredients()));
+            /*
             //FOR TESTING
-            string testString = ipvm.CreateSearchString();
+            string testString = ViewModel.CreateSearchString();
             Console.WriteLine($"Search string is {testString}");
 
-            await Navigation.PushAsync(new RecipeResults());
+            await Navigation.PushAsync(new RecipeResults(testString));*/
 
         }
-
+        private void sb_TextChanged(object sender, EventArgs e)
+        {
+            ViewModel.ApplyFilter();
+        }
     }
 }
