@@ -245,3 +245,5 @@
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/obj/iPhoneSimulator/Debug/WhatCanICookForms.iOS.csproj.CopyComplete
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/obj/iPhoneSimulator/Debug/WhatCanICookForms.iOS.exe
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/obj/iPhoneSimulator/Debug/WhatCanICookForms.iOS.pdb
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/bin/iPhoneSimulator/Debug/Xamarin.Auth.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/bin/iPhoneSimulator/Debug/Xamarin.Auth.pdb

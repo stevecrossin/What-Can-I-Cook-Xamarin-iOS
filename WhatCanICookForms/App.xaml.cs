@@ -5,6 +5,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using WhatCanICookForms.Models;
 using WhatCanICookForms.Views;
+using WhatCanICookForms.ViewModels;
 using System.Linq;
 
 namespace WhatCanICookForms
