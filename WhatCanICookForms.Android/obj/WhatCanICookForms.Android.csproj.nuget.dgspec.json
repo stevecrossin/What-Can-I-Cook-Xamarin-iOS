@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj": {}
+    "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj": {}
   },
   "projects": {
-    "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj": {
+    "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
+        "projectUniqueName": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
         "projectName": "WhatCanICookForms.Android",
-        "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
-        "packagesPath": "/Users/brendonbinks/.nuget/packages/",
-        "outputPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/",
+        "projectPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
+        "packagesPath": "/Users/stevencrossin/.nuget/packages/",
+        "outputPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/brendonbinks/.config/NuGet/NuGet.Config"
+          "/Users/stevencrossin/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid90"
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj": {
-                "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj"
+              "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
+                "projectPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj"
               }
             }
           }
@@ -76,20 +76,20 @@
         }
       }
     },
-    "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj": {
+    "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj",
+        "projectUniqueName": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj",
         "projectName": "WhatCanICookForms",
-        "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj",
-        "packagesPath": "/Users/brendonbinks/.nuget/packages/",
-        "outputPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/obj/",
+        "projectPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj",
+        "packagesPath": "/Users/stevencrossin/.nuget/packages/",
+        "outputPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/brendonbinks/.config/NuGet/NuGet.Config"
+          "/Users/stevencrossin/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

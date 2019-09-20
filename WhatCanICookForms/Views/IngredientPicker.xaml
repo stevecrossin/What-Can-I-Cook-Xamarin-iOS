@@ -2,27 +2,38 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="WhatCanICookForms.Views.IngredientPicker"
-             BackgroundColor="#fff5d5">
-
+             BackgroundColor="#fff5d5"
+             Title="Pick your ingredients">
     <StackLayout Margin="20,35,20,20">
-        <Label Text="Pick your ingredients"
-               HorizontalTextAlignment="Center" />
+
+       
         <ListView x:Name="listView"
-                  BackgroundColor="#fff5d5"
-                  SeparatorVisibility="None">
+                  BackgroundColor="#fff5d4"
+                  SeparatorVisibility="None"
+                  ItemsSource="{x:Binding FilteredItems}">
             <ListView.ItemTemplate>
-
-                <DataTemplate>
-				    <ViewCell>
-					    <StackLayout Margin="20,0,0,0" Orientation="Horizontal" HorizontalOptions="FillAndExpand">
-						    <Label Text="{Binding Name}" VerticalTextAlignment="Center" HorizontalOptions="StartAndExpand" />
-					    </StackLayout>
-				    </ViewCell>
-			    </DataTemplate>
-
+                  <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Margin="0,0,0,0"
+                                     Orientation="Horizontal"
+                                     HorizontalOptions="FillAndExpand">
+                            <Grid HorizontalOptions="FillAndExpand">
+                                <Label Text="{Binding Name}"
+                                       VerticalTextAlignment="Center"
+                                       HorizontalOptions="StartAndExpand" />
+                                <CheckBox IsChecked="{Binding SelectedBoolean}"
+                                          HorizontalOptions="End"></CheckBox>
+                            </Grid>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
-      <Button Text="Search" Clicked="Search_Clicked" BackgroundColor="#d5dfff"/>
-    
+           
+         <SearchBar Text="{Binding SearchText}"
+                   TextChanged="sb_TextChanged" BackgroundColor="#fff5d4" Placeholder = "Enter ingredients you have"/>
+        <Button Text="Search"
+                Clicked="Search_Clicked"
+                BackgroundColor="#d5dfff" />
     </StackLayout>
 </ContentPage>

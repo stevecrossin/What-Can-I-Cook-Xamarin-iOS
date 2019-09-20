@@ -9,28 +9,26 @@ namespace WhatCanICookForms
 {
     public partial class DietaryPreferences : ContentPage
     {
-        DietaryPreferencesViewModel dpvm = new DietaryPreferencesViewModel();
+        DietaryPreferencesViewModel ViewModel { get; set; } = new DietaryPreferencesViewModel();
 
         public DietaryPreferences()
         {
             InitializeComponent();
+            BindingContext = ViewModel;
 
-            //Update selected ingredient
-            listView.ItemSelected += (sender, e) =>
-            {
-                //Null check
-                if (e.SelectedItem != null)
-                {
-                    dpvm.SetDietaryPreferences(e.SelectedItemIndex);
-
-                    //FOR TESTING
-                    Console.WriteLine($"{App.Database.GetItems(4).Name} excluded value is {App.Database.GetItems(4).Excluded}");
-                }
-            };
         }
         private async void Home_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new HomePage());
+        }
+        private void sb_TextChanged(object sender, EventArgs e)
+        {
+            ViewModel.ApplyFilter();
+        }
+        protected override void OnDisappearing()
+        {
+            base.OnDisappearing();
+            ViewModel.ApplyChanges();
         }
     }
 }

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:converters="clr-namespace:WhatCanICookForms.Converters"
+             x:Class="WhatCanICookForms.Views.SelectedIngredients"
+             BackgroundColor="#fff5d5"
+             Title="Selected ingredients">
+    <ContentPage.Resources>
+        <Style x:Key="RemoveIngredientButtonStyle"
+               TargetType="Button">
+        </Style>
+        <converters:BooleanToIngredientBackgroundColorConverter x:Key="BooleanToIngredientBackgroundColorConverter" />
+    </ContentPage.Resources>
+    <StackLayout Margin="20,35,20,20">
+        <ListView x:Name="listView"
+                  BackgroundColor="#fff5d4"
+                  SeparatorVisibility="None"
+                  ItemsSource="{x:Binding FilteredItems}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Margin="0,0,0,0"
+                                     Orientation="Horizontal"
+                                     HorizontalOptions="FillAndExpand"
+                                     BackgroundColor="{Binding Path=ExcludedBoolean,Converter={StaticResource BooleanToIngredientBackgroundColorConverter}}">
+                            <Grid HorizontalOptions="FillAndExpand">
+                                <Label Text="{Binding Name}"
+                                       VerticalTextAlignment="Center"
+                                       HorizontalOptions="StartAndExpand" />
+                                <Button Text="X"
+                                        Style="{StaticResource RemoveIngredientButtonStyle}"
+                                        TextColor="Red"
+                                        BorderColor="Transparent"
+                                        HorizontalOptions="End"
+                                        Clicked="btnRemove_Clicked"></Button>
+                            </Grid>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Text="Search"
+                Clicked="Search_Clicked"
+                BackgroundColor="#d5dfff" />
+    </StackLayout>
+</ContentPage>
