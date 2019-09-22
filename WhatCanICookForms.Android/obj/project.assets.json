@@ -2,6 +2,30 @@
   "version": 3,
   "targets": {
     "MonoAndroid,Version=v9.0": {
+      "Plugin.CurrentActivity/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid10/Plugin.CurrentActivity.dll": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Plugin.CurrentActivity.dll": {}
+        }
+      },
+      "Plugin.Share/7.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Plugin.CurrentActivity": "1.0.1",
+          "Xamarin.Android.Support.CustomTabs": "25.4.0.2"
+        },
+        "compile": {
+          "lib/MonoAndroid10/Plugin.Share.Abstractions.dll": {},
+          "lib/MonoAndroid10/Plugin.Share.dll": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid10/Plugin.Share.Abstractions.dll": {},
+          "lib/MonoAndroid10/Plugin.Share.dll": {}
+        }
+      },
       "sqlite-net-pcl/1.5.231": {
         "type": "package",
         "dependencies": {
@@ -917,6 +941,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Plugin.Share": "7.1.1",
           "Xamarin.Auth": "1.7.0",
           "Xamarin.Essentials": "1.1.0",
           "Xamarin.Forms": "4.1.0.555618",
@@ -932,6 +957,57 @@
     }
   },
   "libraries": {
+    "Plugin.CurrentActivity/1.0.1": {
+      "sha512": "lzspruFRwQRo5T1K4JNOJVvSNBLE9+jOvX9CGWB6sJ7q2GeXxY76LLTdirkhiq1/yYgBXkXsXIBzlRoCGJDuJA==",
+      "type": "package",
+      "path": "plugin.currentactivity/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/MonoAndroid10/MainApplication.cs.pp",
+        "lib/MonoAndroid10/Plugin.CurrentActivity.dll",
+        "lib/MonoAndroid10/Plugin.CurrentActivity.xml",
+        "plugin.currentactivity.1.0.1.nupkg.sha512",
+        "plugin.currentactivity.nuspec",
+        "readme.txt"
+      ]
+    },
+    "Plugin.Share/7.1.1": {
+      "sha512": "07mFq3H9eeX2TGNKitmByjDKZl/3KXZrT2jv/27mEEnY7me/lHQSX52mI0B1mVTZquCloNmZm12EcV1t4fFSSA==",
+      "type": "package",
+      "path": "plugin.share/7.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10/Plugin.Share.Abstractions.dll",
+        "lib/MonoAndroid10/Plugin.Share.Abstractions.pdb",
+        "lib/MonoAndroid10/Plugin.Share.Abstractions.xml",
+        "lib/MonoAndroid10/Plugin.Share.dll",
+        "lib/MonoAndroid10/Plugin.Share.pdb",
+        "lib/MonoAndroid10/Plugin.Share.xml",
+        "lib/UAP10/Plugin.Share.Abstractions.dll",
+        "lib/UAP10/Plugin.Share.Abstractions.pdb",
+        "lib/UAP10/Plugin.Share.Abstractions.xml",
+        "lib/UAP10/Plugin.Share.XML",
+        "lib/UAP10/Plugin.Share.dll",
+        "lib/UAP10/Plugin.Share.pdb",
+        "lib/UAP10/Plugin.Share.pri",
+        "lib/Xamarin.iOS10/Plugin.Share.Abstractions.dll",
+        "lib/Xamarin.iOS10/Plugin.Share.Abstractions.pdb",
+        "lib/Xamarin.iOS10/Plugin.Share.Abstractions.xml",
+        "lib/Xamarin.iOS10/Plugin.Share.dll",
+        "lib/Xamarin.iOS10/Plugin.Share.xml",
+        "lib/netstandard1.0/Plugin.Share.Abstractions.dll",
+        "lib/netstandard1.0/Plugin.Share.Abstractions.pdb",
+        "lib/netstandard1.0/Plugin.Share.Abstractions.xml",
+        "lib/netstandard1.0/Plugin.Share.deps.json",
+        "lib/netstandard1.0/Plugin.Share.dll",
+        "lib/netstandard1.0/Plugin.Share.pdb",
+        "lib/netstandard1.0/Plugin.Share.xml",
+        "plugin.share.7.1.1.nupkg.sha512",
+        "plugin.share.nuspec"
+      ]
+    },
     "sqlite-net-pcl/1.5.231": {
       "sha512": "B9jScvqkishSMkpa9Mc4Q85LTHxRTzcUXZx9EQqgrvdz7MFEDHfpiPcKdjy1qXHdmHttEXfY4h6gu4FlgWP2Sw==",
       "type": "package",
@@ -2212,20 +2288,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/stevencrossin/.nuget/packages/": {}
+    "/Users/brendonbinks/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
+      "projectUniqueName": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
       "projectName": "WhatCanICookForms.Android",
-      "projectPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
-      "packagesPath": "/Users/stevencrossin/.nuget/packages/",
-      "outputPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/",
+      "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
+      "packagesPath": "/Users/brendonbinks/.nuget/packages/",
+      "outputPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/stevencrossin/.config/NuGet/NuGet.Config"
+        "/Users/brendonbinks/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
@@ -2236,8 +2312,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
-              "projectPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj"
+            "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj": {
+              "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj"
             }
           }
         }

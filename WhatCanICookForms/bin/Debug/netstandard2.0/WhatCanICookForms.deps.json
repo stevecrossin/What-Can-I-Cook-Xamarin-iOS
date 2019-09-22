@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "b69ea0022b30bba57a76f9a53e9b8a8ac41ffa38"
+    "signature": "8e632ccb2f419414bb4b37c6cc23b14b75064bcd"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,6 +10,7 @@
       "WhatCanICookForms/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
+          "Plugin.Share": "7.1.1",
           "Xamarin.Auth": "1.7.0",
           "Xamarin.Essentials": "1.1.0",
           "Xamarin.Forms": "4.1.0.555618",
@@ -23,6 +24,21 @@
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Plugin.Share/7.1.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Plugin.Share.Abstractions.dll": {
+            "assemblyVersion": "7.1.1.0",
+            "fileVersion": "7.1.1.0"
+          },
+          "lib/netstandard1.0/Plugin.Share.dll": {
+            "assemblyVersion": "7.1.1.0",
+            "fileVersion": "7.1.1.0"
+          }
         }
       },
       "sqlite-net-pcl/1.5.231": {
@@ -128,6 +144,13 @@
       "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Plugin.Share/7.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-07mFq3H9eeX2TGNKitmByjDKZl/3KXZrT2jv/27mEEnY7me/lHQSX52mI0B1mVTZquCloNmZm12EcV1t4fFSSA==",
+      "path": "plugin.share/7.1.1",
+      "hashPath": "plugin.share.7.1.1.nupkg.sha512"
     },
     "sqlite-net-pcl/1.5.231": {
       "type": "package",
