@@ -250,3 +250,6 @@
 /Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.dll
 /Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.pdb
 /Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/bin/iPhoneSimulator/Debug/Plugin.Share.dll
+/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.dll
+/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.pdb
+/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/bin/iPhoneSimulator/Debug/Plugin.Share.dll

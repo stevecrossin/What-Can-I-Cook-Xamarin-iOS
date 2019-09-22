@@ -13,10 +13,10 @@
           "lib/Xamarin.iOS10/Plugin.Share.dll": {}
         }
       },
-      "sqlite-net-pcl/1.5.231": {
+      "sqlite-net-pcl/1.6.292": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.bundle_green": "1.1.11"
+          "SQLitePCLRaw.bundle_green": "1.1.13"
         },
         "compile": {
           "lib/netstandard1.1/SQLite-net.dll": {}
@@ -25,11 +25,11 @@
           "lib/netstandard1.1/SQLite-net.dll": {}
         }
       },
-      "SQLitePCLRaw.bundle_green/1.1.11": {
+      "SQLitePCLRaw.bundle_green/1.1.13": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11",
-          "SQLitePCLRaw.provider.sqlite3.ios_unified": "1.1.11"
+          "SQLitePCLRaw.core": "1.1.13",
+          "SQLitePCLRaw.provider.sqlite3.ios_unified": "1.1.13"
         },
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_green.dll": {},
@@ -40,7 +40,7 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll": {}
         }
       },
-      "SQLitePCLRaw.core/1.1.11": {
+      "SQLitePCLRaw.core/1.1.13": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll": {}
@@ -49,10 +49,10 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll": {}
         }
       },
-      "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.11": {
+      "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.13": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11"
+          "SQLitePCLRaw.core": "1.1.13"
         },
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll": {}
@@ -226,9 +226,9 @@
         "dependencies": {
           "Plugin.Share": "7.1.1",
           "Xamarin.Auth": "1.7.0",
-          "Xamarin.Essentials": "1.1.0",
-          "Xamarin.Forms": "4.1.0.555618",
-          "sqlite-net-pcl": "1.5.231"
+          "Xamarin.Essentials": "1.3.1",
+          "Xamarin.Forms": "4.2.0.815419",
+          "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
           "bin/placeholder/WhatCanICookForms.dll": {}
@@ -250,10 +250,10 @@
           "lib/Xamarin.iOS10/Plugin.Share.dll": {}
         }
       },
-      "sqlite-net-pcl/1.5.231": {
+      "sqlite-net-pcl/1.6.292": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.bundle_green": "1.1.11"
+          "SQLitePCLRaw.bundle_green": "1.1.13"
         },
         "compile": {
           "lib/netstandard1.1/SQLite-net.dll": {}
@@ -262,11 +262,11 @@
           "lib/netstandard1.1/SQLite-net.dll": {}
         }
       },
-      "SQLitePCLRaw.bundle_green/1.1.11": {
+      "SQLitePCLRaw.bundle_green/1.1.13": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11",
-          "SQLitePCLRaw.provider.sqlite3.ios_unified": "1.1.11"
+          "SQLitePCLRaw.core": "1.1.13",
+          "SQLitePCLRaw.provider.sqlite3.ios_unified": "1.1.13"
         },
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_green.dll": {},
@@ -277,7 +277,7 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll": {}
         }
       },
-      "SQLitePCLRaw.core/1.1.11": {
+      "SQLitePCLRaw.core/1.1.13": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll": {}
@@ -286,10 +286,10 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll": {}
         }
       },
-      "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.11": {
+      "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.13": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11"
+          "SQLitePCLRaw.core": "1.1.13"
         },
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll": {}
@@ -463,9 +463,9 @@
         "dependencies": {
           "Plugin.Share": "7.1.1",
           "Xamarin.Auth": "1.7.0",
-          "Xamarin.Essentials": "1.1.0",
-          "Xamarin.Forms": "4.1.0.555618",
-          "sqlite-net-pcl": "1.5.231"
+          "Xamarin.Essentials": "1.3.1",
+          "Xamarin.Forms": "4.2.0.815419",
+          "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
           "bin/placeholder/WhatCanICookForms.dll": {}
@@ -487,10 +487,10 @@
           "lib/Xamarin.iOS10/Plugin.Share.dll": {}
         }
       },
-      "sqlite-net-pcl/1.5.231": {
+      "sqlite-net-pcl/1.6.292": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.bundle_green": "1.1.11"
+          "SQLitePCLRaw.bundle_green": "1.1.13"
         },
         "compile": {
           "lib/netstandard1.1/SQLite-net.dll": {}
@@ -499,11 +499,11 @@
           "lib/netstandard1.1/SQLite-net.dll": {}
         }
       },
-      "SQLitePCLRaw.bundle_green/1.1.11": {
+      "SQLitePCLRaw.bundle_green/1.1.13": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11",
-          "SQLitePCLRaw.provider.sqlite3.ios_unified": "1.1.11"
+          "SQLitePCLRaw.core": "1.1.13",
+          "SQLitePCLRaw.provider.sqlite3.ios_unified": "1.1.13"
         },
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_green.dll": {},
@@ -514,7 +514,7 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll": {}
         }
       },
-      "SQLitePCLRaw.core/1.1.11": {
+      "SQLitePCLRaw.core/1.1.13": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll": {}
@@ -523,10 +523,10 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll": {}
         }
       },
-      "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.11": {
+      "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.13": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11"
+          "SQLitePCLRaw.core": "1.1.13"
         },
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll": {}
@@ -700,9 +700,9 @@
         "dependencies": {
           "Plugin.Share": "7.1.1",
           "Xamarin.Auth": "1.7.0",
-          "Xamarin.Essentials": "1.1.0",
-          "Xamarin.Forms": "4.1.0.555618",
-          "sqlite-net-pcl": "1.5.231"
+          "Xamarin.Essentials": "1.3.1",
+          "Xamarin.Forms": "4.2.0.815419",
+          "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
           "bin/placeholder/WhatCanICookForms.dll": {}
@@ -724,10 +724,10 @@
           "lib/Xamarin.iOS10/Plugin.Share.dll": {}
         }
       },
-      "sqlite-net-pcl/1.5.231": {
+      "sqlite-net-pcl/1.6.292": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.bundle_green": "1.1.11"
+          "SQLitePCLRaw.bundle_green": "1.1.13"
         },
         "compile": {
           "lib/netstandard1.1/SQLite-net.dll": {}
@@ -736,11 +736,11 @@
           "lib/netstandard1.1/SQLite-net.dll": {}
         }
       },
-      "SQLitePCLRaw.bundle_green/1.1.11": {
+      "SQLitePCLRaw.bundle_green/1.1.13": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11",
-          "SQLitePCLRaw.provider.sqlite3.ios_unified": "1.1.11"
+          "SQLitePCLRaw.core": "1.1.13",
+          "SQLitePCLRaw.provider.sqlite3.ios_unified": "1.1.13"
         },
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_green.dll": {},
@@ -751,7 +751,7 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll": {}
         }
       },
-      "SQLitePCLRaw.core/1.1.11": {
+      "SQLitePCLRaw.core/1.1.13": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll": {}
@@ -760,10 +760,10 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll": {}
         }
       },
-      "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.11": {
+      "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.13": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11"
+          "SQLitePCLRaw.core": "1.1.13"
         },
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll": {}
@@ -937,9 +937,9 @@
         "dependencies": {
           "Plugin.Share": "7.1.1",
           "Xamarin.Auth": "1.7.0",
-          "Xamarin.Essentials": "1.1.0",
-          "Xamarin.Forms": "4.1.0.555618",
-          "sqlite-net-pcl": "1.5.231"
+          "Xamarin.Essentials": "1.3.1",
+          "Xamarin.Forms": "4.2.0.815419",
+          "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
           "bin/placeholder/WhatCanICookForms.dll": {}
@@ -987,10 +987,10 @@
         "plugin.share.nuspec"
       ]
     },
-    "sqlite-net-pcl/1.5.231": {
-      "sha512": "B9jScvqkishSMkpa9Mc4Q85LTHxRTzcUXZx9EQqgrvdz7MFEDHfpiPcKdjy1qXHdmHttEXfY4h6gu4FlgWP2Sw==",
+    "sqlite-net-pcl/1.6.292": {
+      "sha512": "TZPs206/ZZXhDAgCzxE5Dmw1enkRmtpd1RKt+dLJA6Kvml4RxwkasRs4js2kijtGxik1SLCs39rh9nl9YFwrYg==",
       "type": "package",
-      "path": "sqlite-net-pcl/1.5.231",
+      "path": "sqlite-net-pcl/1.6.292",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -999,14 +999,14 @@
         "lib/netstandard1.1/SQLite-net.xml",
         "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/SQLite-net.dll",
         "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/SQLite-net.xml",
-        "sqlite-net-pcl.1.5.231.nupkg.sha512",
+        "sqlite-net-pcl.1.6.292.nupkg.sha512",
         "sqlite-net-pcl.nuspec"
       ]
     },
-    "SQLitePCLRaw.bundle_green/1.1.11": {
-      "sha512": "Hqp8IF/RLjbypkLm+t+1RqAX8EKuWEkj7wkLXplfENQoPnE127cvTmaDvaQKtt7a5QsD/HNjFDr1z5f9q2wdPg==",
+    "SQLitePCLRaw.bundle_green/1.1.13": {
+      "sha512": "E0Hm/XTfleE/LlrRZVucB1dQqDlIDPgqvkFymbGqMO7bSaoB6R2X5Cgzq/RDxBFSzHjpzet2Tp5Kar8faLSZ+Q==",
       "type": "package",
-      "path": "sqlitepclraw.bundle_green/1.1.11",
+      "path": "sqlitepclraw.bundle_green/1.1.13",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1046,14 +1046,14 @@
         "lib/wp8/_._",
         "lib/wpa81/SQLitePCLRaw.batteries_green.dll",
         "lib/wpa81/SQLitePCLRaw.batteries_v2.dll",
-        "sqlitepclraw.bundle_green.1.1.11.nupkg.sha512",
+        "sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
         "sqlitepclraw.bundle_green.nuspec"
       ]
     },
-    "SQLitePCLRaw.core/1.1.11": {
-      "sha512": "QT17CyQAQIbTCu6pW5+uVA8BXqRzquiDI1tr5Un6c1YZcQydPmGPuYYng9xMs2UHUDYHbTu+JDkp55WR+qo9bQ==",
+    "SQLitePCLRaw.core/1.1.13": {
+      "sha512": "I8Q9qL1urPegoyZ5uI32lgqsxl8aPRZAyVBJbO+0T/zlGz/LBc8vhRVyDyCOU9LWWpV8dYpT0nCpuLv1ua6zkA==",
       "type": "package",
-      "path": "sqlitepclraw.core/1.1.11",
+      "path": "sqlitepclraw.core/1.1.13",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1072,19 +1072,19 @@
         "lib/win8/SQLitePCLRaw.core.dll",
         "lib/win81/SQLitePCLRaw.core.dll",
         "lib/wpa81/SQLitePCLRaw.core.dll",
-        "sqlitepclraw.core.1.1.11.nupkg.sha512",
+        "sqlitepclraw.core.1.1.13.nupkg.sha512",
         "sqlitepclraw.core.nuspec"
       ]
     },
-    "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.11": {
-      "sha512": "hWk/vgFthsTedjorVFNErd5xk0x0UtlYr/ndmDUYhAcA9Y9g0IJXBMn1Z2QYsLMlvE6Qj5yVvjfkUOARhXezQw==",
+    "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.13": {
+      "sha512": "8+kMnKUM+BVuRyg1LhVYYQCRR8LAQb9UCvXO+JcS4WMTKPeX+JCWlNPuej9lPw67T8OZqQ3AAlLr1hc4dsyykQ==",
       "type": "package",
-      "path": "sqlitepclraw.provider.sqlite3.ios_unified/1.1.11",
+      "path": "sqlitepclraw.provider.sqlite3.ios_unified/1.1.13",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll",
-        "sqlitepclraw.provider.sqlite3.ios_unified.1.1.11.nupkg.sha512",
+        "sqlitepclraw.provider.sqlite3.ios_unified.1.1.13.nupkg.sha512",
         "sqlitepclraw.provider.sqlite3.ios_unified.nuspec"
       ]
     },
@@ -1463,20 +1463,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/brendonbinks/.nuget/packages/": {}
+    "/Users/stevencrossin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
+      "projectUniqueName": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
       "projectName": "WhatCanICookForms.iOS",
-      "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
-      "packagesPath": "/Users/brendonbinks/.nuget/packages/",
-      "outputPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.iOS/obj/",
+      "projectPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
+      "packagesPath": "/Users/stevencrossin/.nuget/packages/",
+      "outputPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/brendonbinks/.config/NuGet/NuGet.Config"
+        "/Users/stevencrossin/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -1487,8 +1487,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj": {
-              "projectPath": "/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms/WhatCanICookForms.csproj"
+            "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
+              "projectPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj"
             }
           }
         }
@@ -1519,5 +1519,33 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.3.1 to 1.1.0. Reference the package directly from the project to select a different version. \n WhatCanICookForms.iOS -> WhatCanICookForms -> Xamarin.Essentials (>= 1.3.1) \n WhatCanICookForms.iOS -> Xamarin.Essentials (>= 1.1.0)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.2.0.815419 to 4.1.0.555618. Reference the package directly from the project to select a different version. \n WhatCanICookForms.iOS -> WhatCanICookForms -> Xamarin.Forms (>= 4.2.0.815419) \n WhatCanICookForms.iOS -> Xamarin.Forms (>= 4.1.0.555618)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }
