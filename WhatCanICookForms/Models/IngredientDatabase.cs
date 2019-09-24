@@ -45,7 +45,7 @@ namespace WhatCanICookForms.Models
         }
 
 
-        // DATABASE QUERY HERE - uncertain if using correct column heading to show ingredients (using saved; could use selected?)
+        // DATABASE Queries are here.
         public List<Ingredient> GetItemsNotDone()
         {
             return database.Query<Ingredient>("SELECT * FROM [Ingredient] WHERE [Saved] = 0");
@@ -92,48 +92,28 @@ namespace WhatCanICookForms.Models
         //Method to create the ingredients in the DB, called in constructor - very messy
         public void CreateIngredients()
         {
-            // note that the prefix includes the trailing period '.' that is required
+            //load up the shared project assembly 
             var assembly = IntrospectionExtensions.GetTypeInfo(typeof(IngredientDatabase)).Assembly;
+            //debug only list the available resources
             var assemblies = assembly.GetManifestResourceNames();
+            //Load the specified resource from the resources in the assembly into a Stream
             Stream stream = assembly.GetManifestResourceStream("WhatCanICookForms.ingredients.csv");
 
-
-            using (var sr = new System.IO.StreamReader(stream))
-            // using (StreamReader sr = new StreamReader(stream))
+            //read the csv file and read all the lines 
+            using (var sr = new StreamReader(stream))
             {
                 while (!sr.EndOfStream)
                 {
                     var csvLine = sr.ReadLine();
+                    //parse the csvLine and create the ingredient
                     var parts = csvLine.Split(',');
                     var ingredient = new Ingredient();
                     ingredient.Name = parts[0];
                     ingredient.Image = parts[1];
+                    //save the ingredient into database
                     SaveItem(ingredient);
                 }
             }
-            /*
-            var apple = new Ingredient();
-            var eggs = new Ingredient();
-            var broccoli = new Ingredient();
-            var chicken = new Ingredient();
-            var onion = new Ingredient();
-            apple.Name = "Apple";
-            eggs.Name = "Eggs";
-            broccoli.Name = "Broccoli";
-            chicken.Name = "Chicken";
-            onion.Name = "Onion";
-
-            List<Ingredient> ingredientsToAdd = new List<Ingredient>();
-            ingredientsToAdd.Add(apple);
-            ingredientsToAdd.Add(eggs);
-            ingredientsToAdd.Add(broccoli);
-            ingredientsToAdd.Add(chicken);
-            ingredientsToAdd.Add(onion);
-
-            foreach (Ingredient ingredient in ingredientsToAdd)
-            {
-                SaveItem(ingredient);
-            }*/
         }
 
     }
