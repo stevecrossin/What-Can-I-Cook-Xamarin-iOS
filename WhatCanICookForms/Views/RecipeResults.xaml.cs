@@ -15,6 +15,7 @@ namespace WhatCanICookForms.Views
         {
             InitializeComponent();
             Browser.BackgroundColor = Color.FromHex("#fff5d5");
+            //use HttpUtility to encode url query string
             Browser.Source = "https://cse.google.com/cse?cx=009486592663190426124:huyqrjp4vty&q=" + HttpUtility.UrlEncode(query);
 
             //Get URL of selected recipe
@@ -25,9 +26,9 @@ namespace WhatCanICookForms.Views
                 {
                     url = e.Url;
                 }
-
             };
         }
+        //Navigate to HomePage activity if Home is clicked.
         private async void Home_Clicked(object sender, EventArgs e)
 
         {

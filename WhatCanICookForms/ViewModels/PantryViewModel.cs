@@ -11,21 +11,15 @@ namespace WhatCanICookForms.ViewModels
     {
         public PantryViewModel() : base()
         {
+            //Setting the AdditionalFilter to be used in the BaseViewModel when applying the filters to the Items.
+            // We need to exclude the "excluded" items in the pantry view.
             base.AdditionalFilter = itm => !itm.ExcludedBoolean;
         }
 
-
-        /* Method to create a search string based on selected ingredients
-         * @returns string representing the search string
-         * - Foreach loop to loop through each selected ingredient in the list
-         * - Concatenate each ingredient name to the search string value before returning
+        /* Method to create a list of selected ingredients 
+         * @returns a List of Ingredient based on ingredients available in the pantry or excluded
+         * - filters the Items list to show only the ingredients that are saved or excluded
          */
-        [Obsolete]
-        public string CreateSearchString()
-        {
-            var items = Items.Where(itm => itm.SavedBoolean || itm.ExcludedBoolean);
-            return GetSearchString(items);
-        }
         public List<Ingredient> GetSelectedIngredients()
         {
             return Items.Where(itm => itm.SavedBoolean || itm.ExcludedBoolean).ToList();

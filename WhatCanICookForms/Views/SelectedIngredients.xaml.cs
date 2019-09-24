@@ -13,30 +13,34 @@ namespace WhatCanICookForms.Views
         public SelectedIngredients(List<Ingredient> selectedIngredients, bool canRemoveSavedItems = false)
         {
             InitializeComponent();
-            ViewModel = new SelectedIngredientsViewModel(selectedIngredients,canRemoveSavedItems);
+            //create the viewmodel with the list of selectedIngredients and canRemoveSavedItems if we arrived here from the Pantry view.
+            ViewModel = new SelectedIngredientsViewModel(selectedIngredients, canRemoveSavedItems);
             BindingContext = ViewModel;
-
-            //FOR TESTING
-            Ingredient testIngredient = App.Database.GetItems(3);
-            Console.WriteLine($"{testIngredient.Name} selected value is {testIngredient.Selected}");
         }
-
+        /*
+         * Search Button Click event handling we create the search string from the selected ingredients.
+         */
         private async void Search_Clicked(object sender, EventArgs e)
         {
-            //Perform search based on string passed and push to results
             string testString = ViewModel.CreateSearchString();
             Console.WriteLine($"Search string is {testString}");
-
             await Navigation.PushAsync(new RecipeResults(testString));
-
         }
+        /*
+         * Remove Button Click event handling
+         * -Take the ingredient from the BindingContext on the button 
+         * -Clear it's status by calling ViewModel ClearIngredientStatus
+         */
         private void btnRemove_Clicked(object sender, EventArgs e)
         {
             Button btn = (Button)sender;
             Ingredient ingredient = (Ingredient)btn.BindingContext;
             ViewModel.ClearIngredientStatus(ingredient);
         }
-
+        /*
+            SearchBox textchanged event handling
+            - Call to ApplyFilter which will update the visible items in the list based on the SearchText in the ViewModel.
+            */
         private void sb_TextChanged(object sender, EventArgs e)
         {
             ViewModel.ApplyFilter();

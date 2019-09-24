@@ -12,37 +12,16 @@ namespace WhatCanICookForms.ViewModels
     //MANIPULATE DATA IN INGREDIENT PICKER HERE
     public class IngredientPickerViewModel : BaseViewModel
     {
-        //List<Ingredient> selectedIngredients = new List<Ingredient>();
-
-
-
         public IngredientPickerViewModel() : base()
         {
+            //additional filter to hide the excluded items when applying filtering
             base.AdditionalFilter = itm => !itm.ExcludedBoolean;
         }
 
-        /*Method to update ingredients user has selected
-         * @param - selectedID, type int representing the ingredient ID of the selected ingredient
-         * - Call SetIngredientSelected() as part of Ingredient Database to update selected value
-         * - Add selected ingredient to list (used to create search string)
+        /* Method to create a list of selected ingredients 
+         * @returns a List of Ingredient based on ingredients selection or exclusion
+         * - filters the Items list to show only the ingredients that are selected or excluded
          */
-        public void UpdateSelectedIngredients(int selectedID)
-        {
-            App.Database.SetIngredientSelected(App.Database.GetItems(selectedID).ID, 1);
-            //selectedIngredients.Add(App.Database.GetItems(selectedID));
-        }
-
-        /* Method to create a search string based on selected ingredients
-         * @returns string representing the search string
-         * - Foreach loop to loop through each selected ingredient in the list
-         * - Concatenate each ingredient name to the search string value before returning
-         */
-        [Obsolete]
-        public string CreateSearchString()
-        {
-            var items = Items.Where(itm => itm.SelectedBoolean || itm.ExcludedBoolean);
-            return GetSearchString(items);
-        }
         public List<Ingredient> GetSelectedIngredients()
         {
             return Items.Where(itm => itm.SelectedBoolean || itm.ExcludedBoolean).ToList();

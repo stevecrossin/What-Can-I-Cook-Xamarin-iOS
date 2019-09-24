@@ -31,18 +31,27 @@ namespace WhatCanICookForms.ViewModels
                 OnPropertyChanged();
             }
         }
-       protected Func<Ingredient, bool> AdditionalFilter = itm => true;
+        /*
+         * AdditionalFilter is used to apply additional/custom filtering on the ingredients to be shown in the views.
+         */
+        protected Func<Ingredient, bool> AdditionalFilter = itm => true;
 
         public BaseViewModel()
         {
             Items = App.Database.GetItems();
             FilteredItems = Items;
         }
+        /*
+         Constructor to enable viewmodels to handle a list of ingredients without loading it from database
+             */
         public BaseViewModel(List<Ingredient> ingredients)
         {
             Items = ingredients;
             FilteredItems = Items;
         }
+        /*
+         Filters the items based on SearchText and AdditionalFilter that may be specified by the ViewModel
+             */
         internal void ApplyFilter()
         {
             var items = Items.Where(AdditionalFilter);
@@ -51,6 +60,9 @@ namespace WhatCanICookForms.ViewModels
             else
                 FilteredItems = items.ToList();
         }
+        /*
+         Persists to database the changes made on the ingredients
+             */
         public void ApplyChanges()
         {
             foreach (var item in Items.Where(itm => itm.IsChanged))
@@ -58,11 +70,16 @@ namespace WhatCanICookForms.ViewModels
                 App.Database.SaveItem(item);
             }
         }
+        /*
+         Save changes made on the specific ingredient
+             */
         public void ApplyChanges(Ingredient ingredient)
         {
             App.Database.SaveItem(ingredient);
         }
-
+        /*
+         Create Search string from ingredients ordered by excluded items
+             */
         public string GetSearchString(IEnumerable<Ingredient> items)
         {
             String searchString = "";

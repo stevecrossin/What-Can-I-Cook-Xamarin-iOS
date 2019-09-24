@@ -14,50 +14,37 @@ namespace WhatCanICookForms.Views
         {
             InitializeComponent();
             BindingContext = ViewModel;
-            //Update selected ingredient
-            listView.ItemSelected += (sender, e) =>
-            {
-                //Null check
-                if (e.SelectedItem != null)
-                {
-                    //Call UpdateSelectedIngredients() from IngredientPickerViewModel
-                    ViewModel.UpdateSelectedIngredients(e.SelectedItemIndex + 1);
-
-                    //FOR TESTING
-                    Console.WriteLine($"{App.Database.GetItems(e.SelectedItemIndex + 1).Name} selected value is {App.Database.GetItems(e.SelectedItemIndex + 1).Selected}");
-                }
-            };
-
-            //FOR TESTING
-            Ingredient testIngredient = App.Database.GetItems(3);
-            Console.WriteLine($"{testIngredient.Name} selected value is {testIngredient.Selected}");
         }
 
-        //Method to display contents of Ingredients DB on screen appearing
+        /*
+            OnAppearing override to apply the filters on the ingredients when the view is about to be shown.
+            */
         protected override async void OnAppearing()
         {
             base.OnAppearing();
             ViewModel.ApplyFilter();
-            //ListView is bound in IngredientPicker.xaml
-            // listView.ItemsSource = App.Database.GetItems();
         }
+        /*
+            OnDisappearing override to apply the changes on the ingredients when navigating away.
+            */
         protected override void OnDisappearing()
         {
             base.OnDisappearing();
             ViewModel.ApplyChanges();
         }
-
+        /*
+            Search button Click event handling
+            - Navigate to SelectedIngredients view with the ingredients provided by ViewModel.GetSelectedIngredients method
+             */
         private async void Search_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new SelectedIngredients(ViewModel.GetSelectedIngredients()));
-            /*
-            //FOR TESTING
-            string testString = ViewModel.CreateSearchString();
-            Console.WriteLine($"Search string is {testString}");
-
-            await Navigation.PushAsync(new RecipeResults(testString));*/
-
         }
+
+        /*
+            SearchBox textchanged event handling
+            - Call to ApplyFilter which will update the visible items in the list based on the SearchText in the ViewModel.
+            */
         private void sb_TextChanged(object sender, EventArgs e)
         {
             ViewModel.ApplyFilter();
