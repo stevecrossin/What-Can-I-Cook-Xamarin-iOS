@@ -1,14 +1,35 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="WhatCanICookForms.DietaryPreferences" BackgroundColor="#fff5d5">
-   <StackLayout Margin="20,35,20,20" > 
-        <ListView BackgroundColor="#fff5d5" SeparatorVisibility="None">
-            <ListView.ItemsSource>
-                <x:Array Type="{x:Type x:String}">
-                  <x:String>No meat</x:String>
-                  <x:String>No dairy</x:String>
-                  <x:String>No eggs</x:String>
-                </x:Array>
-            </ListView.ItemsSource>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WhatCanICookForms.DietaryPreferences"
+             BackgroundColor="#fff5d5"
+             Title="Dietary needs">
+    <StackLayout Margin="20,35,20,20">
+        <ListView x:Name="listView"
+                  BackgroundColor="#fff5d4"
+                  SeparatorVisibility="None"
+                  ItemsSource="{x:Binding FilteredItems}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Margin="0,0,0,0"
+                                     Orientation="Horizontal"
+                                     HorizontalOptions="FillAndExpand">     
+                            <Grid HorizontalOptions="FillAndExpand">
+                                <Image Source="{Binding Image}" HorizontalOptions="Start"/>
+                                <Label Text="{Binding Name}"
+                                       VerticalTextAlignment="Center"
+                                       HorizontalOptions="StartAndExpand" Margin="50,0,0,0"/>
+                                <CheckBox IsChecked="{Binding ExcludedBoolean}"
+                                          HorizontalOptions="End"></CheckBox>
+                            </Grid>
+                     
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
         </ListView>
+           <SearchBar Text="{Binding SearchText}"
+                   TextChanged="sb_TextChanged" BackgroundColor="#fff5d4" Placeholder="Enter ingredients you cannot eat"/>
     </StackLayout>
 </ContentPage>

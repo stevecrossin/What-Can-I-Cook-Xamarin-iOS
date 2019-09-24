@@ -3,16 +3,19 @@
 
 This is a basic readme for this Xamarin IOS version of What Can I Cook, initially being created for Deakin subject SIT313.
 
-To date, very basic functionality and user interface exists, and this is a fork of the original Android app that is in active development and has been published already: https://github.com/stevecrossin/What-Can-I-Cook-Android
+This is a fork of the original Android app that is in active development and has been published already.: https://github.com/stevecrossin/What-Can-I-Cook-Android
+
+This app is now fully functional.
 
 At present, currently the app has several screens:
 
 * Home page - allows navigation to screens to add ingredients, select dietary preferences and view the users pantry. 
-* Dietary preferences - UI only and a few controls, no functionality at present
-* Pantry - UI only
-* Recipes - basic UI only
+* Dietary preferences - fully functional
+* Pantry - fully functional.
+* Facebook Login - Fully functional
+* Recipes - webview, custom Google Search. Fully functional.
 
-At the moment, only passing of strings via segue exist. No data storage exists in the application at this time. Constraints at present are only partially working, and images have been developed for different screen orientations.
+App fully functional!
 
 Developing a full-featured application in Xamarin.IOS will be the objective of Assignment 2, and I will be working on this with three other students - Brendon Binks, Jess Fitzgerald and Michael Inati.
 

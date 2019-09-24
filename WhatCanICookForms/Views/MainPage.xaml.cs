@@ -6,31 +6,25 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 using WhatCanICookForms.Views;
+using WhatCanICookForms.Models;
 
 namespace WhatCanICookForms
 {
     // Learn more about making custom code visible in the Xamarin.Forms previewer
     // by visiting https://aka.ms/xamarinforms-previewer
-    [DesignTimeVisible(false)]
+
     public partial class MainPage : ContentPage
     {
         public MainPage()
         {
             InitializeComponent();
+            NavigationPage.SetHasNavigationBar(this, false);
         }
-        private async void Pick_Ingredients_Clicked(object sender, EventArgs e)
+        public void btnLoginClicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new IngredientPicker());
+            Navigation.PushAsync(new HomePage());
+            /*To bypass FB login for Testing, change LoginPage to HomePage*/
         }
 
-        private async void Dietary_Clicked(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new DietaryPreferences());
-        }
-
-        private async void Pantry_Clicked(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new Pantry());
-        }
     }
 }
