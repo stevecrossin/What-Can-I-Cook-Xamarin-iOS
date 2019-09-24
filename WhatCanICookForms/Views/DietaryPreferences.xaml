@@ -14,12 +14,12 @@
                     <ViewCell>
                         <StackLayout Margin="0,0,0,0"
                                      Orientation="Horizontal"
-                                     HorizontalOptions="FillAndExpand">
-                                    
+                                     HorizontalOptions="FillAndExpand">     
                             <Grid HorizontalOptions="FillAndExpand">
+                                <Image Source="{Binding Image}" HorizontalOptions="Start"/>
                                 <Label Text="{Binding Name}"
                                        VerticalTextAlignment="Center"
-                                       HorizontalOptions="StartAndExpand" />
+                                       HorizontalOptions="StartAndExpand" Margin="50,0,0,0"/>
                                 <CheckBox IsChecked="{Binding ExcludedBoolean}"
                                           HorizontalOptions="End"></CheckBox>
                             </Grid>

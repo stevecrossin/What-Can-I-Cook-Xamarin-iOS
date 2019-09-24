@@ -100,6 +100,8 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-83.5x83.5%402x.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-76x76%402x.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-76x76%401x.png" />
+    <ImageAsset Include="Assets.xcassets\bread.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\bread.imageset\bread.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -126,5 +128,6 @@
     <Folder Include="Assets.xcassets\pickingredients.imageset\" />
     <Folder Include="Assets.xcassets\facebooklogin.imageset\" />
     <Folder Include="Assets.xcassets\launchimage.imageset\" />
+    <Folder Include="Assets.xcassets\bread.imageset\" />
   </ItemGroup>
 </Project>
