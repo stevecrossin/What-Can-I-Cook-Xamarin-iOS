@@ -1,29 +1,40 @@
 ﻿using System;
 using System.IO;
-using System.Diagnostics;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 using WhatCanICookForms.Models;
 using WhatCanICookForms.Views;
-using WhatCanICookForms.ViewModels;
 using System.Linq;
 
 namespace WhatCanICookForms
 {
     public partial class App : Application
     {
+        /***********************
+                VARIABLES
+         **********************/
+
         //Ingredient Database instance
         static IngredientDatabase database;
+        //Authentication token
         static string _Token;
+        //Declare pages
         public static Page myPage = new MainPage();
         public static NavigationPage NavPage = new NavigationPage(myPage);
+
+        /***********************
+                METHODS
+         **********************/
+
+        //Constructor
         public App()
         {
             InitializeComponent();
-
             MainPage = NavPage;
         }
 
+        /*
+         * Method to determine successful authentication. Allows user to proceed to main menu by inserting the HomePage at the top of the nav stack
+         */
         public static Action SuccessfulLoginAction
         {
             get
@@ -37,6 +48,9 @@ namespace WhatCanICookForms
             }
         }
 
+        /*
+         * Method to determine successful authentication. Returns user to login page by inserting the MainPage at the top of the nav stack
+         */
         public static Action FailedLoginAction
         {
             get
@@ -66,13 +80,15 @@ namespace WhatCanICookForms
             // Handle when your app resumes
         }
 
+        /*
+         * Method to save the authentication token provided by facebook login
+         */
         public static void SaveToken(string token)
         {
             _Token = token;
         }
 
-
-        //Read-only property to return a local path for storing DB
+        //Method to return a local path for storing DB
         public static IngredientDatabase Database
         {
             get

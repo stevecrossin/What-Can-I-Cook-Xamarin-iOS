@@ -1,12 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xamarin.Forms;
 using WhatCanICookForms.Views;
-using WhatCanICookForms.Models;
 
 namespace WhatCanICookForms
 {
@@ -15,11 +9,21 @@ namespace WhatCanICookForms
 
     public partial class MainPage : ContentPage
     {
+
+        /***********************
+                METHODS
+         **********************/
+
+        //Constructor
         public MainPage()
         {
             InitializeComponent();
             NavigationPage.SetHasNavigationBar(this, false);
         }
+
+        /*
+         * Login button click event handling to take users to Login page for authentication
+         */
         public void btnLoginClicked(object sender, EventArgs e)
         {
             Navigation.PushAsync(new HomePage());

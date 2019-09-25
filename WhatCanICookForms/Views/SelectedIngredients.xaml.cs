@@ -8,8 +8,18 @@ namespace WhatCanICookForms.Views
 {
     public partial class SelectedIngredients : ContentPage
     {
+
+        /***********************
+                VARIABLES
+         **********************/
+
         SelectedIngredientsViewModel ViewModel { get; set; }
 
+        /***********************
+                METHODS
+         **********************/
+
+        //Constructor
         public SelectedIngredients(List<Ingredient> selectedIngredients, bool canRemoveSavedItems = false)
         {
             InitializeComponent();
@@ -17,15 +27,16 @@ namespace WhatCanICookForms.Views
             ViewModel = new SelectedIngredientsViewModel(selectedIngredients, canRemoveSavedItems);
             BindingContext = ViewModel;
         }
+
         /*
          * Search Button Click event handling we create the search string from the selected ingredients.
          */
         private async void Search_Clicked(object sender, EventArgs e)
         {
-            string testString = ViewModel.CreateSearchString();
-            Console.WriteLine($"Search string is {testString}");
-            await Navigation.PushAsync(new RecipeResults(testString));
+            string searchString = ViewModel.CreateSearchString();
+            await Navigation.PushAsync(new RecipeResults(searchString));
         }
+
         /*
          * Remove Button Click event handling
          * -Take the ingredient from the BindingContext on the button 
@@ -37,6 +48,7 @@ namespace WhatCanICookForms.Views
             Ingredient ingredient = (Ingredient)btn.BindingContext;
             ViewModel.ClearIngredientStatus(ingredient);
         }
+
         /*
             SearchBox textchanged event handling
             - Call to ApplyFilter which will update the visible items in the list based on the SearchText in the ViewModel.
