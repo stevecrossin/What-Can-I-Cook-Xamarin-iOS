@@ -249,8 +249,6 @@
     <ImageAsset Include="Assets.xcassets\onion.imageset\onion.png" />
     <ImageAsset Include="Assets.xcassets\olives.imageset\olives.png" />
     <ImageAsset Include="Assets.xcassets\nuts.imageset\nuts.png" />
-    <ImageAsset Include="Assets.xcassets\chipsNachos.imageset\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\chipsNachos.imageset\nachos.png" />
     <ImageAsset Include="Assets.xcassets\mushrooms.imageset\mushrooms.png" />
     <ImageAsset Include="Assets.xcassets\milk.imageset\milk.png" />
     <ImageAsset Include="Assets.xcassets\mayo.imageset\mayo.png" />
@@ -264,6 +262,32 @@
     <ImageAsset Include="Assets.xcassets\hotDog.imageset\hotDog.png" />
     <ImageAsset Include="Assets.xcassets\ham.imageset\ham.png" />
     <ImageAsset Include="Assets.xcassets\greens.imageset\greens.png" />
+    <ImageAsset Include="Assets.xcassets\spice.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\spice.imageset\spice.png" />
+    <ImageAsset Include="Assets.xcassets\nachos.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\nachos.imageset\nachos.png" />
+    <ImageAsset Include="Assets.xcassets\bottle.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\bottle.imageset\bottle.png" />
+    <ImageAsset Include="Assets.xcassets\coffeeTea.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\honey.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\cereal.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\cereal.imageset\cereal.png" />
+    <ImageAsset Include="Assets.xcassets\honey.imageset\honey.png" />
+    <ImageAsset Include="Assets.xcassets\coffeeTea.imageset\coffeeTea.png" />
+    <ImageAsset Include="Assets.xcassets\apple.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\apple.imageset\apple.png" />
+    <ImageAsset Include="Assets.xcassets\cracker.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\cracker.imageset\cracker.png" />
+    <ImageAsset Include="Assets.xcassets\burger.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\burger.imageset\burger.png" />
+    <ImageAsset Include="Assets.xcassets\jam.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\jam.imageset\jam.png" />
+    <ImageAsset Include="Assets.xcassets\seafoodOctopus.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\seafoodOctopus.imageset\seafoodOctopus.png" />
+    <ImageAsset Include="Assets.xcassets\noodles.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\noodles.imageset\noodles.png" />
+    <ImageAsset Include="Assets.xcassets\vegan.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\vegan.imageset\vegan.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -274,8 +298,8 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.1.0.555618" />
-    <PackageReference Include="Xamarin.Essentials" Version="1.1.0" />
+    <PackageReference Include="Xamarin.Forms" Version="4.2.0.815419" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
@@ -371,6 +395,18 @@
     <Folder Include="Assets.xcassets\watermelon.imageset\" />
     <Folder Include="Assets.xcassets\yoghurt.imageset\" />
     <Folder Include="Assets.xcassets\zucchini.imageset\" />
-    <Folder Include="Assets.xcassets\chipsNachos.imageset\" />
+    <Folder Include="Assets.xcassets\spice.imageset\" />
+    <Folder Include="Assets.xcassets\nachos.imageset\" />
+    <Folder Include="Assets.xcassets\bottle.imageset\" />
+    <Folder Include="Assets.xcassets\coffeeTea.imageset\" />
+    <Folder Include="Assets.xcassets\honey.imageset\" />
+    <Folder Include="Assets.xcassets\cereal.imageset\" />
+    <Folder Include="Assets.xcassets\apple.imageset\" />
+    <Folder Include="Assets.xcassets\cracker.imageset\" />
+    <Folder Include="Assets.xcassets\burger.imageset\" />
+    <Folder Include="Assets.xcassets\jam.imageset\" />
+    <Folder Include="Assets.xcassets\seafoodOctopus.imageset\" />
+    <Folder Include="Assets.xcassets\noodles.imageset\" />
+    <Folder Include="Assets.xcassets\vegan.imageset\" />
   </ItemGroup>
 </Project>
