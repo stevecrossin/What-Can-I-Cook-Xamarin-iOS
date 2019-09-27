@@ -1,0 +1,22 @@
+License information
+
+For the application icons as depicted in the design, free images have been sourced.
+Below, some images are published under a Pexels License as defined here: (https://www.pexels.com/photo-license/) which explicitly states:
+"All photos on Pexels are free to use. Attribution is not required. Giving credit to the photographer or Pexels is not necessary but always appreciated."
+
+------------
+IMAGES
+
+These are the original source images which have been cropped and modified by the app author.
+
+PickIngredients: https://www.pexels.com/photo/food-salad-healthy-summer-33307/
+
+Pantry2.png, License type: Pexels License (free to use), Author: Mali Maeder, Url: https://www.pexels.com/photo/egg-avocado-cooking-tomato-106877/
+
+Dietary restrictions: https://stock.adobe.com/au/images/allergy-food/72025392 (License purchased)
+
+Facebook Login Button: Sourced from https://developers.facebook.com/docs/facebook-login/web/login-button/ - Copyright of Facebook, used under permission as per their terms.
+
+---------------
+ICONS
+All icons used in the application were created and published by Icons8. Links to these icons have been provided below. They are published under the Creative Commons Attribution-NoDerivs 3.0 Unported license.
