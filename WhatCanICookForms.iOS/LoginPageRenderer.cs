@@ -13,6 +13,13 @@ namespace WhatCanICookForms.iOS
 {
     public class LoginPageRenderer : PageRenderer
     {
+        /***********************
+                METHODS
+         **********************/
+
+        /*
+         * Method to setup the login page
+         */
         public override void ViewDidAppear(bool animated)
         {
             base.ViewDidAppear(animated);
@@ -23,6 +30,7 @@ namespace WhatCanICookForms.iOS
                 new Uri(Configuration.AuthorizeUrl), // the auth URL for the service
                 new Uri(Configuration.RedirectUrl)); // the redirect URL for the service
 
+            //Handling the Completed event
             auth.Completed += (sender, eventArgs) => {
                 // We presented the UI, so it's up to us to dimiss it on iOS.
                 DismissViewController(true, null);
@@ -39,6 +47,7 @@ namespace WhatCanICookForms.iOS
                 }
             };
 
+            //Proceed to next screen
             PresentViewController(auth.GetUI(), true, null);
         }
     }

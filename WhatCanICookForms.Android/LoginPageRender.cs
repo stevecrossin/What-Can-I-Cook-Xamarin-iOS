@@ -16,10 +16,18 @@ namespace TestFacebookLogin.Droid
 {
     public class LoginPageRender : PageRenderer
     {
+        /***********************
+                METHODS
+         **********************/
+
+        //Constructor
         public LoginPageRender(Context context) : base(context)
         {
 
         }
+        /*
+         * Method to setup the login page
+         */
         protected override void OnElementChanged(ElementChangedEventArgs<Page> e)
         {
             base.OnElementChanged(e);
@@ -31,6 +39,7 @@ namespace TestFacebookLogin.Droid
                 new Uri(Configuration.AuthorizeUrl), // the auth URL for the service
                 new Uri(Configuration.RedirectUrl)); // the redirect URL for the service
 
+            //Handling of Completed event
             auth.Completed += (sender, eventArgs) => {
                 if (eventArgs.IsAuthenticated)
                 {
@@ -43,6 +52,7 @@ namespace TestFacebookLogin.Droid
                 }
             };
 
+            //Proceed to next screen
             activity.StartActivity(auth.GetUI(activity));
         }
     }

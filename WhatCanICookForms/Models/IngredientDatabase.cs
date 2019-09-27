@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using System.Linq;
 using SQLite;
-using System.Diagnostics;
 using System.Reflection;
 using System.IO;
 
@@ -94,8 +91,10 @@ namespace WhatCanICookForms.Models
         {
             //load up the shared project assembly 
             var assembly = IntrospectionExtensions.GetTypeInfo(typeof(IngredientDatabase)).Assembly;
-            //debug only list the available resources
-            var assemblies = assembly.GetManifestResourceNames();
+
+            /*debug only list the available resources
+            var assemblies = assembly.GetManifestResourceNames();*/
+
             //Load the specified resource from the resources in the assembly into a Stream
             Stream stream = assembly.GetManifestResourceStream("WhatCanICookForms.ingredients.csv");
 

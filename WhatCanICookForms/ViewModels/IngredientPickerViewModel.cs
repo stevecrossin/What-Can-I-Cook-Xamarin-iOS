@@ -1,17 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.CompilerServices;
-using WhatCanICookForms.BaseClasses;
 using WhatCanICookForms.Models;
-using Xamarin.Forms;
 
 namespace WhatCanICookForms.ViewModels
 {
-    //MANIPULATE DATA IN INGREDIENT PICKER HERE
     public class IngredientPickerViewModel : BaseViewModel
     {
+
+        /***********************
+                METHODS
+         **********************/
+
+        //Constructor
         public IngredientPickerViewModel() : base()
         {
             //additional filter to hide the excluded items when applying filtering
@@ -19,7 +19,7 @@ namespace WhatCanICookForms.ViewModels
         }
 
         /* Method to create a list of selected ingredients 
-         * @returns a List of Ingredient based on ingredients selection or exclusion
+         * @returns - List of Ingredient based on ingredients selection or exclusion
          * - filters the Items list to show only the ingredients that are selected or excluded
          */
         public List<Ingredient> GetSelectedIngredients()

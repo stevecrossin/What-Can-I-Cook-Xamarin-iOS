@@ -8,6 +8,12 @@ namespace WhatCanICookForms.ViewModels
 {
     public class DietaryPreferencesViewModel : BaseViewModel
     {
+
+        /***********************
+                METHODS
+         **********************/
+
+        //Constructor
         public DietaryPreferencesViewModel() : base()
         {
         }
