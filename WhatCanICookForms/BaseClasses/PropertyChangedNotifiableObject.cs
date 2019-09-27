@@ -11,8 +11,15 @@ namespace WhatCanICookForms.BaseClasses
     */
     public class PropertyChangedNotifiableObject : INotifyPropertyChanged
     {
+        /***********************
+                VARIABLES
+         **********************/
 
         public event PropertyChangedEventHandler PropertyChanged;
+
+        /***********************
+                METHODS
+         **********************/
 
         //Method to facilitate the triggering of PropertyChanged event
         public void OnPropertyChanged([CallerMemberName]string propertyName = "")

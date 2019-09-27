@@ -1,13 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-
-using Xamarin.Forms;
+﻿using Xamarin.Forms;
 
 namespace WhatCanICookForms.Views
 {
     public partial class LoginPage : ContentPage
 
     {
+        /***********************
+                METHODS
+         **********************/
+
+        //Constructor
         public LoginPage()
         {
             InitializeComponent();

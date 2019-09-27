@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Web;
-using WhatCanICookForms.ViewModels;
 using Xamarin.Forms;
 using Plugin.Share;
 
@@ -9,8 +7,19 @@ namespace WhatCanICookForms.Views
 {
     public partial class RecipeResults : ContentPage
     {
+
+        /***********************
+                VARIABLES
+         **********************/
+
+        //For storing selected URL in search results
         string url;
 
+        /***********************
+                METHODS
+         **********************/
+
+        //Constructor
         public RecipeResults(string query)
         {
             InitializeComponent();
@@ -28,7 +37,8 @@ namespace WhatCanICookForms.Views
                 }
             };
         }
-        //Navigate to HomePage activity if Home is clicked.
+
+        //Button to Navigate to HomePage activity if Home is clicked.
         private async void Home_Clicked(object sender, EventArgs e)
 
         {
@@ -38,6 +48,7 @@ namespace WhatCanICookForms.Views
         //Button to share recipe using methods available to device (messaging, email etc...)
         private async void Share_Clicked(object sender, EventArgs e)
         {
+            //Utilise Plugin.Share
             await CrossShare.Current.Share(new Plugin.Share.Abstractions.ShareMessage
             {
                 Text = "I want to share this recipe with you!",
