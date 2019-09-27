@@ -1,528 +1,511 @@
-﻿alfalfa,\N,0,0,0
-alfredo sauce,\N,0,0,0
-allspice,\N,0,0,0
-almond meal,\N,0,0,0
-almond milk,\N,0,0,0
-almond oil,\N,0,0,0
-almond paste,\N,0,0,0
-almonds,\N,0,0,0
-american cheese,\N,0,0,0
-anchovies,\N,0,0,0
-angel hair pasta,\N,0,0,0
-aniseed,\N,0,0,0
-apple,\N,0,0,0
-apple cider,\N,0,0,0
-apple cider vinegar,\N,0,0,0
-apple juice,\N,0,0,0
-apple sauce,\N,0,0,0
-apricot,\N,0,0,0
-asparagus,\N,0,0,0
-avocado,\N,0,0,0
-bacon,\N,0,0,0
-bagel,\N,0,0,0
-baguette,\N,0,0,0
-baking chocolate,\N,0,0,0
-baking powder,\N,0,0,0
-baking soda,\N,0,0,0
-balsamic glaze,\N,0,0,0
-balsamic vinegar,\N,0,0,0
-banana,\N,0,0,0
-barbecue sauce,\N,0,0,0
-barley,\N,0,0,0
-barramundi,\N,0,0,0
-basil,\N,0,0,0
-batter,\N,0,0,0
-bay leaf,\N,0,0,0
-beef gravy,\N,0,0,0
-beef liver,\N,0,0,0
-beef mince,\N,0,0,0
-beef ribs,\N,0,0,0
-beef roast,\N,0,0,0
-beef sausage,\N,0,0,0
-beef shank,\N,0,0,0
-beef steak,\N,0,0,0
-beef stock,\N,0,0,0
-beef tenderloin,\N,0,0,0
-beetroot,\N,0,0,0
-bell pepper,\N,0,0,0
-berries,\N,0,0,0
-biscuits,\N,0,0,0
-bisquick,\N,0,0,0
-black beans,\N,0,0,0
-black pepper,\N,0,0,0
-blackberries,\N,0,0,0
-blue cheese,\N,0,0,0
-blue cheese dressing,\N,0,0,0
-blue grenadier,\N,0,0,0
-blueberries,\N,0,0,0
-bologna,\N,0,0,0
-bouillon,\N,0,0,0
-boysenberry,\N,0,0,0
-bratwurst,\N,0,0,0
+﻿alfalfa,greens.png,0,0,0
+alfredo sauce,condiments.png,0,0,0
+allspice,cinnamon.png,0,0,0
+almond meal,baking.png,0,0,0
+almond milk,milk.png,0,0,0
+almond oil,condiments.png,0,0,0
+almonds,nuts.png,0,0,0
+american cheese,cheese.png,0,0,0
+anchovies,seafood.png,0,0,0
+angel hair pasta,noodles.png,0,0,0
+aniseed,cinnamon.png,0,0,0
+apple,apple.png,0,0,0
+apple cider,apple.png,0,0,0
+apple cider vinegar,apple.png,0,0,0
+apple juice,juice.png,0,0,0
+apple sauce,apple.png,0,0,0
+apricot,apricot.png,0,0,0
+asparagus,asparagus.png,0,0,0
+avocado,avocado.png,0,0,0
+bacon,bacon.png,0,0,0
+bagel,baguette.png,0,0,0
+baguette,baguette.png,0,0,0
+baking chocolate,chocolate.png,0,0,0
+baking powder,bakingFlour.png,0,0,0
+baking soda,bakingFlour.png,0,0,0
+balsamic vinegar,condiments.png,0,0,0
+banana,banana.png,0,0,0
+barbecue sauce,condiments.png,0,0,0
+barramundi,seafood.png,0,0,0
+basil,greens.png,0,0,0
+bay leaf,greens.png,0,0,0
+beef gravy,gravy.png,0,0,0
+beef liver,cowBeef.png,0,0,0
+beef mince,cowBeef.png,0,0,0
+beef ribs,cowBeef.png,0,0,0
+beef roast,cowBeef.png,0,0,0
+beef sausage,sausage.png,0,0,0
+beef shank,cowBeef.png,0,0,0
+beef steak,steak.png,0,0,0
+beef stock,cowBeef.png,0,0,0
+beef tenderloin,steak.png,0,0,0
+beetroot,beetroot.png,0,0,0
+bell pepper,capsicum.png,0,0,0
+berries,raspberry.png,0,0,0
+biscuits,biscuitsCookies.png,0,0,0
+black beans,tinCan.png,0,0,0
+black pepper,spice.png,0,0,0
+blackberries,raspberry.png,0,0,0
+blue cheese,cheese.png,0,0,0
+blueberries,raspberry.png,0,0,0
+bologna,salami.png,0,0,0
+bouillon,spice.png,0,0,0
+boysenberry,raspberry.png,0,0,0
+bratwurst,salami.png,0,0,0
 bread,bread.png,0,0,0
-bread dough,\N,0,0,0
-bread flour,\N,0,0,0
-breadcrumbs,\N,0,0,0
-breadsticks,\N,0,0,0
-brie,\N,0,0,0
-broccoli,\N,0,0,0
-brown rice,\N,0,0,0
-brown sugar,\N,0,0,0
-bulgur,\N,0,0,0
-burger buns,\N,0,0,0
-butter,\N,0,0,0
-butter beans,\N,0,0,0
-buttermilk,\N,0,0,0
-cabbage,\N,0,0,0
-cacao,\N,0,0,0
-cajun seasoning,\N,0,0,0
-calamari,\N,0,0,0
-canned tomatoes,\N,0,0,0
-cannellini beans,\N,0,0,0
-canola oil,\N,0,0,0
-cantaloupe,\N,0,0,0
-caraway,\N,0,0,0
-cardamom,\N,0,0,0
-carrots,\N,0,0,0
-cashew,\N,0,0,0
-castor sugar,\N,0,0,0
-cauliflower,\N,0,0,0
-cayenne,\N,0,0,0
-celery,\N,0,0,0
-celery salt,\N,0,0,0
-celery seed,\N,0,0,0
-celery soup,\N,0,0,0
-cereal,\N,0,0,0
-champagne vinegar,\N,0,0,0
-cheddar cheese,\N,0,0,0
-cheese,\N,0,0,0
-cheese soup,\N,0,0,0
-cherry,\N,0,0,0
-cherry tomatoes,\N,0,0,0
-chervil,\N,0,0,0
-chestnut,\N,0,0,0
-chicken breast,\N,0,0,0
-chicken drumsticks,\N,0,0,0
-chicken giblets,\N,0,0,0
-chicken gravy,\N,0,0,0
-chicken mince,\N,0,0,0
-chicken roast,\N,0,0,0
-chicken seasoning,\N,0,0,0
-chicken soup,\N,0,0,0
-chicken stock,\N,0,0,0
-chicken thighs,\N,0,0,0
-chicken wings,\N,0,0,0
-chickpea,\N,0,0,0
-chili pepper,\N,0,0,0
-chili powder,\N,0,0,0
-chili sauce,\N,0,0,0
-chilli powder,\N,0,0,0
-chinese five spice,\N,0,0,0
-chips,\N,0,0,0
-chives,\N,0,0,0
-chocolate,\N,0,0,0
-chocolate chips,\N,0,0,0
-chocolate frosting,\N,0,0,0
-chocolate morsels,\N,0,0,0
-chocolate syrup,\N,0,0,0
-chorizo,\N,0,0,0
-ciabatta,\N,0,0,0
-cider vinegar,\N,0,0,0
-cilantro,\N,0,0,0
-cinnamon,\N,0,0,0
-clam,\N,0,0,0
-cloves,\N,0,0,0
-club soda,\N,0,0,0
-cockle,\N,0,0,0
-cocoa,\N,0,0,0
-coconut,\N,0,0,0
-coconut milk,\N,0,0,0
-coconut oil,\N,0,0,0
-cod,\N,0,0,0
-coffee,\N,0,0,0
-coke,\N,0,0,0
-colby cheese,\N,0,0,0
-condensed milk,\N,0,0,0
-cooked chicken,\N,0,0,0
-cooked rice,\N,0,0,0
-cookie dough,\N,0,0,0
-cooking spray,\N,0,0,0
-coriander,\N,0,0,0
-corn,\N,0,0,0
-corn flake crumbs,\N,0,0,0
-corn syrup,\N,0,0,0
-corn tortillas,\N,0,0,0
-corned beef,\N,0,0,0
-cornmeal,\N,0,0,0
-cornstarch,\N,0,0,0
-cottage cheese,\N,0,0,0
-couscous,\N,0,0,0
-crab,\N,0,0,0
-crab meat,\N,0,0,0
-crackers,\N,0,0,0
-craisins,\N,0,0,0
-cranberries,\N,0,0,0
-cranberry juice,\N,0,0,0
-cream cheese,\N,0,0,0
-cream of tartar,\N,0,0,0
-cream of wheat,\N,0,0,0
-creme fraiche,\N,0,0,0
-crescent roll dough,\N,0,0,0
-croissants,\N,0,0,0
-croutons,\N,0,0,0
-cucumber,\N,0,0,0
-cumin,\N,0,0,0
-currant,\N,0,0,0
-curry paste,\N,0,0,0
-curry powder,\N,0,0,0
-custard,\N,0,0,0
-dashi,\N,0,0,0
-date,\N,0,0,0
-dessicated coconut,\N,0,0,0
-dill,\N,0,0,0
-dill seed,\N,0,0,0
-dry mustard,\N,0,0,0
-duck,\N,0,0,0
-eel,\N,0,0,0
-egg,\N,0,0,0
-egg white,\N,0,0,0
-egg yolk,\N,0,0,0
-espresso,\N,0,0,0
-evaporated milk,\N,0,0,0
-feta,\N,0,0,0
-fig,\N,0,0,0
-filo pastry,\N,0,0,0
-fish fillets,\N,0,0,0
-flake,\N,0,0,0
-flax,\N,0,0,0
-flour,\N,0,0,0
-flour tortillas,\N,0,0,0
-food colouring,\N,0,0,0
-french beans,\N,0,0,0
-french dressing,\N,0,0,0
-frosting,\N,0,0,0
-frozen peas,\N,0,0,0
-frozen vegetables,\N,0,0,0
-fruit juice,\N,0,0,0
-garam masala,\N,0,0,0
-garbanzo beans,\N,0,0,0
-garlic,\N,0,0,0
-garlic powder,\N,0,0,0
-garlic salt,\N,0,0,0
-ghee,\N,0,0,0
-ginger,\N,0,0,0
-ginger ale,\N,0,0,0
-gnocchi,\N,0,0,0
-goat cheese,\N,0,0,0
-gouda,\N,0,0,0
-graham crackers,\N,0,0,0
-grape,\N,0,0,0
-grape seed oil,\N,0,0,0
-green beans,\N,0,0,0
-green peppers,\N,0,0,0
-green tea,\N,0,0,0
-grenadine,\N,0,0,0
-ground coriander,\N,0,0,0
-ground ginger,\N,0,0,0
-ground nutmeg,\N,0,0,0
-gruyere,\N,0,0,0
-guava,\N,0,0,0
-haddock,\N,0,0,0
-ham,\N,0,0,0
-hamburgers,\N,0,0,0
-hard cheese,\N,0,0,0
-hash browns,\N,0,0,0
-havarti cheese,\N,0,0,0
-hazelnut,\N,0,0,0
-hemp milk,\N,0,0,0
-herbes de provence,\N,0,0,0
-herbs,\N,0,0,0
-hoisin sauce,\N,0,0,0
-honey,\N,0,0,0
-horseradish,\N,0,0,0
-hot dog,\N,0,0,0
-hot dog bun,\N,0,0,0
-hummus,\N,0,0,0
-ice cream,\N,0,0,0
-italian cheese,\N,0,0,0
-italian herbs,\N,0,0,0
-italian seasoning,\N,0,0,0
-italian spice,\N,0,0,0
-john dory,\N,0,0,0
-kale,\N,0,0,0
-ketchup,\N,0,0,0
-kidney beans,\N,0,0,0
-kiwi,\N,0,0,0
-lamb,\N,0,0,0
-lamb chops,\N,0,0,0
-lamb mince,\N,0,0,0
-lamb rack,\N,0,0,0
-lamb shank,\N,0,0,0
-lamb shoulder,\N,0,0,0
-lard,\N,0,0,0
-lasagne,\N,0,0,0
-leg of lamb,\N,0,0,0
-lemon,\N,0,0,0
-lemon juice,\N,0,0,0
-lemon peel,\N,0,0,0
-lemon zest,\N,0,0,0
-lemonade,\N,0,0,0
-lentil,\N,0,0,0
-lettuce,\N,0,0,0
-lima beans,\N,0,0,0
-lime,\N,0,0,0
-lime juice,\N,0,0,0
-liquid smoke,\N,0,0,0
-lobster,\N,0,0,0
-lychee,\N,0,0,0
-macadamia,\N,0,0,0
-macaroni,\N,0,0,0
-macaroni cheese mix,\N,0,0,0
-macaroon,\N,0,0,0
-mackerel,\N,0,0,0
-mandarin,\N,0,0,0
-mango,\N,0,0,0
-maple extract,\N,0,0,0
-maple syrup,\N,0,0,0
-margarine,\N,0,0,0
-margarita mix,\N,0,0,0
-marjoram,\N,0,0,0
-marshmallow,\N,0,0,0
-mascarpone,\N,0,0,0
-matzo meal,\N,0,0,0
-mayonnaise,\N,0,0,0
-meat sauce,\N,0,0,0
-meat stock,\N,0,0,0
-milk,\N,0,0,0
-mint,\N,0,0,0
-mirin,\N,0,0,0
-mixed dried fruit,\N,0,0,0
-mixed vegetables,\N,0,0,0
-molasses,\N,0,0,0
-monterey jack cheese,\N,0,0,0
-mozzarella cheese,\N,0,0,0
-muffin mix,\N,0,0,0
-mullet,\N,0,0,0
-multigrain bread,\N,0,0,0
-mushroom soup,\N,0,0,0
-mushrooms,\N,0,0,0
-mussel,\N,0,0,0
-mustard,\N,0,0,0
-mustard seed,\N,0,0,0
-navy beans,\N,0,0,0
-nectarine,\N,0,0,0
-noodle,\N,0,0,0
-nutella,\N,0,0,0
-nutmeg,\N,0,0,0
-nuts,\N,0,0,0
-nuttelex,\N,0,0,0
-oat milk,\N,0,0,0
-octopus,\N,0,0,0
-oil,\N,0,0,0
-olive oil,\N,0,0,0
-olives,\N,0,0,0
-onion,\N,0,0,0
-onion powder,\N,0,0,0
-onion soup,\N,0,0,0
-orange,\N,0,0,0
-orange juice,\N,0,0,0
-oregano,\N,0,0,0
-oyster,\N,0,0,0
-pancake mix,\N,0,0,0
-pancetta,\N,0,0,0
-papaya,\N,0,0,0
-paprika,\N,0,0,0
-parmesan cheese,\N,0,0,0
-parsley,\N,0,0,0
-passionfruit,\N,0,0,0
-pasta,\N,0,0,0
-peaches,\N,0,0,0
-peanut,\N,0,0,0
-peanut oil,\N,0,0,0
-pear,\N,0,0,0
-peas,\N,0,0,0
-pecan,\N,0,0,0
-pecorino cheese,\N,0,0,0
-pepper,\N,0,0,0
-pepper jack,\N,0,0,0
-pepper sauce,\N,0,0,0
-peppercorn,\N,0,0,0
-pepperjack cheese,\N,0,0,0
-pepperoni,\N,0,0,0
-persimmons,\N,0,0,0
-pesto,\N,0,0,0
-pickle,\N,0,0,0
-pickle relish,\N,0,0,0
-pie crust,\N,0,0,0
-pierogi,\N,0,0,0
-pine nut,\N,0,0,0
-pineapple,\N,0,0,0
-pineapple juice,\N,0,0,0
-pinto beans,\N,0,0,0
-pistachio,\N,0,0,0
-pita,\N,0,0,0
-pizza cheese,\N,0,0,0
-pizza crust,\N,0,0,0
-plain flour,\N,0,0,0
-plantain,\N,0,0,0
-plum,\N,0,0,0
-pomegranate,\N,0,0,0
-popcorn,\N,0,0,0
-pork,\N,0,0,0
-pork belly,\N,0,0,0
-pork chops,\N,0,0,0
-pork loin,\N,0,0,0
-pork mince,\N,0,0,0
-pork ribs,\N,0,0,0
-pork roast,\N,0,0,0
-pork sausage,\N,0,0,0
-pork shoulder,\N,0,0,0
-potato,\N,0,0,0
-potato chips,\N,0,0,0
-potato flakes,\N,0,0,0
-poultry seasoning,\N,0,0,0
-powdered milk,\N,0,0,0
-praline,\N,0,0,0
-prawns,\N,0,0,0
-pretzel,\N,0,0,0
-prosciutto,\N,0,0,0
-provolone,\N,0,0,0
-prunes,\N,0,0,0
-pudding mix,\N,0,0,0
-puff pastry,\N,0,0,0
-pumpkin,\N,0,0,0
-quince,\N,0,0,0
-quinoa,\N,0,0,0
-radish,\N,0,0,0
-raisins,\N,0,0,0
-ramen,\N,0,0,0
-raspberries,\N,0,0,0
-ravioli,\N,0,0,0
-raw peanuts,\N,0,0,0
-red onion,\N,0,0,0
-red pepper,\N,0,0,0
-red pepper flake,\N,0,0,0
-red wine vinegar,\N,0,0,0
-rhubarb,\N,0,0,0
-rice,\N,0,0,0
-rice cereal,\N,0,0,0
-rice noodles,\N,0,0,0
-rice vinegar,\N,0,0,0
-rice wine,\N,0,0,0
-ricotta,\N,0,0,0
-risotto,\N,0,0,0
-rolled oats,\N,0,0,0
-romano,\N,0,0,0
-rose water,\N,0,0,0
-rosemary,\N,0,0,0
-rye,\N,0,0,0
-saffron,\N,0,0,0
-sage,\N,0,0,0
-salad greens,\N,0,0,0
-salami,\N,0,0,0
-salmon,\N,0,0,0
-salt,\N,0,0,0
-saltines,\N,0,0,0
-scallion,\N,0,0,0
-scallop,\N,0,0,0
-sea bass,\N,0,0,0
-seasoned salt,\N,0,0,0
-self-raising flour,\N,0,0,0
-semolina,\N,0,0,0
-sesame oil,\N,0,0,0
-sesame seed,\N,0,0,0
-shallots,\N,0,0,0
-shortcrust pastry,\N,0,0,0
-shredded coconut,\N,0,0,0
-shrimp,\N,0,0,0
-skim milk,\N,0,0,0
-smoked salmon,\N,0,0,0
-snapper,\N,0,0,0
-soft cheese,\N,0,0,0
-sour cream,\N,0,0,0
-soy beans,\N,0,0,0
-soy milk,\N,0,0,0
-soy sauce,\N,0,0,0
-spaghetti,\N,0,0,0
-spaghetti sauce,\N,0,0,0
-spam,\N,0,0,0
-spelt,\N,0,0,0
-spinach,\N,0,0,0
-spring onions,\N,0,0,0
-sprite,\N,0,0,0
-squash,\N,0,0,0
-squid,\N,0,0,0
-sriracha,\N,0,0,0
-star anise,\N,0,0,0
-starfruit,\N,0,0,0
-steak seasoning,\N,0,0,0
-strawberries,\N,0,0,0
-stuffing mix,\N,0,0,0
-sugar,\N,0,0,0
-sultanas,\N,0,0,0
-sundried tomato,\N,0,0,0
-sunflower oil,\N,0,0,0
-sweet onion,\N,0,0,0
-sweet potato,\N,0,0,0
-swiss cheese,\N,0,0,0
-syrup,\N,0,0,0
-taco seasoning,\N,0,0,0
-tamarind,\N,0,0,0
-tangelos,\N,0,0,0
-tangerine,\N,0,0,0
-tarragon,\N,0,0,0
-tea,\N,0,0,0
-teriyaki sauce,\N,0,0,0
-thickened cream,\N,0,0,0
-thyme,\N,0,0,0
-tilapia,\N,0,0,0
-toffee,\N,0,0,0
-tofu,\N,0,0,0
-tomato juice,\N,0,0,0
-tomato paste,\N,0,0,0
-tomato sauce,\N,0,0,0
-tomato soup,\N,0,0,0
-tomatoes,\N,0,0,0
-tree nuts,\N,0,0,0
-trout,\N,0,0,0
-tuna,\N,0,0,0
-turkey,\N,0,0,0
-turkey breast,\N,0,0,0
-turkey mince,\N,0,0,0
-turmeric,\N,0,0,0
-unsweetened chocolate,\N,0,0,0
-vanilla,\N,0,0,0
-vanilla essence,\N,0,0,0
-vanilla pudding,\N,0,0,0
-veal,\N,0,0,0
-vegan burgers,\N,0,0,0
-vegan cheese,\N,0,0,0
-vegan mince,\N,0,0,0
-vegan nuggets,\N,0,0,0
-vegan parmesan,\N,0,0,0
-vegan sausages,\N,0,0,0
-vegetable bouillon,\N,0,0,0
-vegetable oil,\N,0,0,0
-vegetable soup,\N,0,0,0
-vegetable stock,\N,0,0,0
-velveeta,\N,0,0,0
-venison,\N,0,0,0
-vinegar,\N,0,0,0
-wafers,\N,0,0,0
-walnuts,\N,0,0,0
-water,\N,0,0,0
-water chestnuts,\N,0,0,0
-watercress,\N,0,0,0
-watermelon,\N,0,0,0
-wheat,\N,0,0,0
-wheat germ,\N,0,0,0
-whipped cream,\N,0,0,0
-white chocolate chips,\N,0,0,0
-white pepper,\N,0,0,0
-white wine vinegar,\N,0,0,0
-whiting,\N,0,0,0
-whole chicken,\N,0,0,0
-worcestershire sauce,\N,0,0,0
-yeast,\N,0,0,0
-yogurt,\N,0,0,0
-zucchini,\N,0,0,0
+bread dough,baking.png,0,0,0
+bread flour,bakingFlour.png,0,0,0
+breadcrumbs,bakingSugar.png,0,0,0
+breadsticks,baguette.png,0,0,0
+brie,cheese.png,0,0,0
+broccoli,cauliflower.png,0,0,0
+brown rice,bakingFlour.png,0,0,0
+brown sugar,bakingSugar.png,0,0,0
+burger buns,burger.png,0,0,0
+butter,butter.png,0,0,0
+butter beans,tinCan.png,0,0,0
+buttermilk,milk.png,0,0,0
+cabbage,greens.png,0,0,0
+cacao,chocolate.png,0,0,0
+cajun seasoning,spice.png,0,0,0
+calamari,seafood.png,0,0,0
+canned tomatoes,tinCan.png,0,0,0
+cannellini beans,tinCan.png,0,0,0
+canola oil,bottle.png,0,0,0
+cantaloupe,orange.png,0,0,0
+caraway,spice.png,0,0,0
+cardamom,spice.png,0,0,0
+carrots,carrot.png,0,0,0
+cashew,nuts.png,0,0,0
+castor sugar,bakingSugar.png,0,0,0
+cauliflower,cauliflower.png,0,0,0
+cayenne,spice.png,0,0,0
+celery,greens.png,0,0,0
+celery salt,spice.png,0,0,0
+celery seed,spice.png,0,0,0
+celery soup,tinCan.png,0,0,0
+cereal,cereal.png,0,0,0
+cheddar cheese,cheese.png,0,0,0
+cheese,cheese.png,0,0,0
+cheese soup,tinCan.png,0,0,0
+cherry,cherry.png,0,0,0
+cherry tomatoes,tomato.png,0,0,0
+chestnut,nuts.png,0,0,0
+chicken breast,chicken.png,0,0,0
+chicken drumsticks,chicken.png,0,0,0
+chicken giblets,chicken.png,0,0,0
+chicken gravy,gravy.png,0,0,0
+chicken mince,chicken.png,0,0,0
+chicken roast,chicken.png,0,0,0
+chicken seasoning,spice.png,0,0,0
+chicken soup,tinCan.png,0,0,0
+chicken stock,chicken.png,0,0,0
+chicken thighs,chicken.png,0,0,0
+chicken wings,chicken.png,0,0,0
+chickpea,tinCan.png,0,0,0
+chili pepper,spice.png,0,0,0
+chili powder,spice.png,0,0,0
+chili sauce,condiments.png,0,0,0
+chilli powder,spice.png,0,0,0
+chinese five spice,spice.png,0,0,0
+chips,chips.png,0,0,0
+chives,spice.png,0,0,0
+chocolate,chocolate.png,0,0,0
+chocolate chips,chocolate.png,0,0,0
+chocolate frosting,chocolate.png,0,0,0
+chocolate syrup,chocolate.png,0,0,0
+chorizo,salami.png,0,0,0
+ciabatta,bread.png,0,0,0
+cider vinegar,bottle.png,0,0,0
+cilantro,spice.png,0,0,0
+cinnamon,cinnamon.png,0,0,0
+clam,seafood.png,0,0,0
+cloves,spice.png,0,0,0
+club soda,softDrinkSoda.png,0,0,0
+cockle,seafood.png,0,0,0
+cocoa,chocolate.png,0,0,0
+coconut,coconut.png,0,0,0
+coconut milk,coconut.png,0,0,0
+coconut oil,coconut.png,0,0,0
+cod,seafood.png,0,0,0
+coffee,coffeeTea.png,0,0,0
+coke,softDrink.png,0,0,0
+colby cheese,cheese.png,0,0,0
+condensed milk,milk.png,0,0,0
+cooked chicken,chicken.png,0,0,0
+cooked rice,bakingFlour.png,0,0,0
+cookie dough,baking.png,0,0,0
+cooking spray,baking.png,0,0,0
+coriander,greens.png,0,0,0
+corn,corn.png,0,0,0
+corn syrup,bottle.png,0,0,0
+corn tortillas,corn.png,0,0,0
+corned beef,cowBeef.png,0,0,0
+cornmeal,corn.png,0,0,0
+cornstarch,bakingSugar.png,0,0,0
+cottage cheese,cheese.png,0,0,0
+couscous,bakingFlour.png,0,0,0
+crab,seafood.png,0,0,0
+crab meat,seafood.png,0,0,0
+crackers,biscuitsCookies.png,0,0,0
+craisins,grapes.png,0,0,0
+cranberries,raspberry.png,0,0,0
+cranberry juice,raspberry.png,0,0,0
+cream cheese,cheese.png,0,0,0
+cream of tartar,baking.png,0,0,0
+cream of wheat,baking.png,0,0,0
+creme fraiche,cream.png,0,0,0
+crescent roll dough,croissant.png,0,0,0
+croissants,croissant.png,0,0,0
+croutons,bread.png,0,0,0
+cucumber,cucumber.png,0,0,0
+cumin,spice.png,0,0,0
+currant,grapes.png,0,0,0
+curry paste,spice.png,0,0,0
+curry powder,spice.png,0,0,0
+custard,cream.png,0,0,0
+date,grapes.png,0,0,0
+dessicated coconut,coconut.png,0,0,0
+dill,greens.png,0,0,0
+dill seed,spice.png,0,0,0
+dry mustard,condiments.png,0,0,0
+duck,chicken.png,0,0,0
+egg,eggs.png,0,0,0
+egg white,eggs.png,0,0,0
+egg yolk,eggs.png,0,0,0
+evaporated milk,milk.png,0,0,0
+feta,cheese.png,0,0,0
+fig,grapes.png,0,0,0
+filo pastry,baking.png,0,0,0
+fish fillets,seafood.png,0,0,0
+flake,seafood.png,0,0,0
+flax,greens.png,0,0,0
+flour,bakingFlour.png,0,0,0
+flour tortillas,bakingFlour.png,0,0,0
+food colouring,baking.png,0,0,0
+french beans,tinCan.png,0,0,0
+french dressing,condiments.png,0,0,0
+frosting,baking.png,0,0,0
+frozen peas,peas.png,0,0,0
+frozen vegetables,peas.png,0,0,0
+fruit juice,juice.png,0,0,0
+garam masala,spice.png,0,0,0
+garbanzo beans,tinCan.png,0,0,0
+garlic,garlic.png,0,0,0
+garlic powder,garlic.png,0,0,0
+garlic salt,garlic.png,0,0,0
+ghee,butter.png,0,0,0
+ginger,garlic.png,0,0,0
+ginger ale,softDrinkSoda.png,0,0,0
+gnocchi,potatoes.png,0,0,0
+goat cheese,cheese.png,0,0,0
+gouda,cheese.png,0,0,0
+graham crackers,cracker.png,0,0,0
+grape,grapes.png,0,0,0
+grape seed oil,bottle.png,0,0,0
+green beans,peas.png,0,0,0
+green peppers,capsicum.png,0,0,0
+green tea,coffeeTea.png,0,0,0
+grenadine,alcohol.png,0,0,0
+ground coriander,spice.png,0,0,0
+ground ginger,spice.png,0,0,0
+ground nutmeg,spice.png,0,0,0
+gruyere,cheese.png,0,0,0
+haddock,seafood.png,0,0,0
+ham,pigPork.png,0,0,0
+hamburgers,burger.png,0,0,0
+hard cheese,cheese.png,0,0,0
+hash browns,potatoes.png,0,0,0
+havarti cheese,cheese.png,0,0,0
+hazelnut,nuts.png,0,0,0
+hemp milk,milk.png,0,0,0
+herbes de provence,spice.png,0,0,0
+herbs,spice.png,0,0,0
+hoisin sauce,condiments.png,0,0,0
+honey,bottle.png,0,0,0
+horseradish,radish.png,0,0,0
+hot dog,hotDog.png,0,0,0
+hot dog bun,hotDog.png,0,0,0
+hummus,cream.png,0,0,0
+ice cream,iceCream.png,0,0,0
+italian cheese,cheese.png,0,0,0
+italian herbs,spice.png,0,0,0
+italian seasoning,spice.png,0,0,0
+italian spice,spice.png,0,0,0
+jam,jam.png,0,0,0
+john dory,seafood.png,0,0,0
+kale,greens.png,0,0,0
+ketchup,condiments.png,0,0,0
+kidney beans,tinCan.png,0,0,0
+kiwi,kiwi.png,0,0,0
+lamb,lamb.png,0,0,0
+lamb chops,lamb.png,0,0,0
+lamb mince,lamb.png,0,0,0
+lamb rack,lambRack.png,0,0,0
+lamb shank,lamb.png,0,0,0
+lamb shoulder,lamb.png,0,0,0
+lard,butter.png,0,0,0
+lasagne,pizza.png,0,0,0
+leg of lamb,lamb.png,0,0,0
+lemon,lemon.png,0,0,0
+lemon juice,lemon.png,0,0,0
+lemon peel,lemon.png,0,0,0
+lemon zest,lemon.png,0,0,0
+lemonade,softDrinkSoda.png,0,0,0
+lentil,tinCan.png,0,0,0
+lettuce,lettuce.png,0,0,0
+lima beans,tinCan.png,0,0,0
+lime,lemon.png,0,0,0
+lime juice,lemon.png,0,0,0
+liquid smoke,bottle.png,0,0,0
+lobster,seafood.png,0,0,0
+lychee,apple.png,0,0,0
+macadamia,nuts.png,0,0,0
+macaroni,noodles.png,0,0,0
+macaroni cheese mix,noodles.png,0,0,0
+macaroon,biscuitsCookies.png,0,0,0
+mackerel,seafood.png,0,0,0
+mandarin,orange.png,0,0,0
+mango,orange.png,0,0,0
+maple extract,bottle.png,0,0,0
+maple syrup,bottle.png,0,0,0
+margarine,butter.png,0,0,0
+margarita mix,alcohol.png,0,0,0
+marjoram,greens.png,0,0,0
+marshmallow,chocolate.png,0,0,0
+mascarpone,baking.png,0,0,0
+matzo meal,bread.png,0,0,0
+mayonnaise,condiments.png,0,0,0
+meat stock,gravy.png,0,0,0
+milk,milk.png,0,0,0
+mint,greens.png,0,0,0
+mirin,bottle.png,0,0,0
+mixed dried fruit,apple.png,0,0,0
+mixed vegetables,peas.png,0,0,0
+molasses,baking.png,0,0,0
+monterey jack cheese,cheese.png,0,0,0
+mozzarella cheese,cheese.png,0,0,0
+muffin mix,baking.png,0,0,0
+mullet,seafood.png,0,0,0
+multigrain bread,bread.png,0,0,0
+mushroom soup,tinCan.png,0,0,0
+mushrooms,mushrooms.png,0,0,0
+mussel,seafoodCrab.png,0,0,0
+mustard,condiments.png,0,0,0
+mustard seed,spice.png,0,0,0
+nachos,nachos.png,0,0,0
+navy beans,tinCan.png,0,0,0
+nectarine,apple.png,0,0,0
+noodle,pizza.png,0,0,0
+nutella,jam.png,0,0,0
+nutmeg,spice.png,0,0,0
+nuts,nuts.png,0,0,0
+nuttelex,butter.png,0,0,0
+oat milk,milk.png,0,0,0
+octopus,seafoodOctopus.png,0,0,0
+oil,bottle.png,0,0,0
+olive oil,bottle.png,0,0,0
+olives,olives.png,0,0,0
+onion,onion.png,0,0,0
+onion powder,onion.png,0,0,0
+onion soup,tinCan.png,0,0,0
+orange,orange.png,0,0,0
+orange juice,juice.png,0,0,0
+oregano,spice.png,0,0,0
+oyster,seafood.png,0,0,0
+pancake mix,cereal.png,0,0,0
+pancetta,cheese.png,0,0,0
+papaya,coconut.png,0,0,0
+paprika,spice.png,0,0,0
+parmesan cheese,cheese.png,0,0,0
+parsley,greens.png,0,0,0
+passionfruit,coconut.png,0,0,0
+pasta,noodles.png,0,0,0
+peaches,apple.png,0,0,0
+peanut,nuts.png,0,0,0
+peanut oil,bottle.png,0,0,0
+pear,pear.png,0,0,0
+peas,peas.png,0,0,0
+pecan,nuts.png,0,0,0
+pecorino cheese,cheese.png,0,0,0
+pepper,spice.png,0,0,0
+pepper jack,cheese.png,0,0,0
+pepper sauce,gravy.png,0,0,0
+peppercorn,spice.png,0,0,0
+pepperjack cheese,cheese.png,0,0,0
+pepperoni,salami.png,0,0,0
+persimmons,tomato.png,0,0,0
+pesto,greens.png,0,0,0
+pickle,cucumber.png,0,0,0
+pickle relish,jam.png,0,0,0
+pie crust,baking.png,0,0,0
+pierogi,bakingFlour.png,0,0,0
+pine nut,nuts.png,0,0,0
+pineapple,apple.png,0,0,0
+pineapple juice,juice.png,0,0,0
+pinto beans,tinCan.png,0,0,0
+pistachio,nuts.png,0,0,0
+pita,flourBaking.png,0,0,0
+pizza cheese,cheese.png,0,0,0
+plain flour,bakingFlour.png,0,0,0
+plantain,banana.png,0,0,0
+plum,plum.png,0,0,0
+pomegranate,apple.png,0,0,0
+popcorn,corn.png,0,0,0
+pork,pigPork.png,0,0,0
+pork belly,pigPork.png,0,0,0
+pork chops,pigPork.png,0,0,0
+pork loin,pigPork.png,0,0,0
+pork mince,pigPork.png,0,0,0
+pork ribs,pigPork.png,0,0,0
+pork roast,pigPork.png,0,0,0
+pork sausage,sausage.png,0,0,0
+pork shoulder,pigPork.png,0,0,0
+potato,potato.png,0,0,0
+potato chips,nachos.png,0,0,0
+potato flakes,potato.png,0,0,0
+poultry seasoning,spice.png,0,0,0
+powdered milk,milk.png,0,0,0
+praline,chocolate.png,0,0,0
+prawns,seafoodPrawn.png,0,0,0
+pretzel,pretzel.png,0,0,0
+prosciutto,salami.png,0,0,0
+provolone,cheese.png,0,0,0
+prunes,grapes.png,0,0,0
+pudding mix,cake.png,0,0,0
+puff pastry,cracker.png,0,0,0
+pumpkin,sweetPotato.png,0,0,0
+quince,pear.png,0,0,0
+quinoa,flourBaking.png,0,0,0
+radish,radish.png,0,0,0
+raisins,grapes.png,0,0,0
+ramen,noodles.png,0,0,0
+raspberries,raspberry.png,0,0,0
+ravioli,pizza.png,0,0,0
+raw peanuts,nuts.png,0,0,0
+red onion,onion.png,0,0,0
+red pepper,spice.png,0,0,0
+red pepper flake,spice.png,0,0,0
+red wine vinegar,bottle.png,0,0,0
+rhubarb,radish.png,0,0,0
+rice,bakingFlour.png,0,0,0
+rice cereal,cereal.png,0,0,0
+rice noodles,pizza.png,0,0,0
+rice vinegar,bottle.png,0,0,0
+rice wine,bottle.png,0,0,0
+ricotta,cheese.png,0,0,0
+risotto,bakingFlour.png,0,0,0
+rolled oats,bakingFlour.png,0,0,0
+romano,cheese.pngz,0,0,0
+rosemary,spice.png,0,0,0
+rye,bread.png,0,0,0
+saffron,spice.png,0,0,0
+sage,spice.png,0,0,0
+salad greens,greens.png,0,0,0
+salami,salami.png,0,0,0
+salmon,seafood.png,0,0,0
+salt,spice.png,0,0,0
+saltines,cracker.png,0,0,0
+scallion,onion.png,0,0,0
+scallop,seafood.png,0,0,0
+sea bass,seafood.png,0,0,0
+seasoned salt,spice.png,0,0,0
+self-raising flour,bakingFlour.png,0,0,0
+semolina,corn.png,0,0,0
+sesame oil,bottle.png,0,0,0
+sesame seed,bread.png,0,0,0
+shallots,onion.png,0,0,0
+shortcrust pastry,baking.png,0,0,0
+shredded coconut,coconut.png,0,0,0
+shrimp,seafoodPrawn.png,0,0,0
+skim milk,milk.png,0,0,0
+smoked salmon,seafood.png,0,0,0
+snapper,seafood.png,0,0,0
+soft cheese,cheese.png,0,0,0
+sour cream,cream.png,0,0,0
+soy beans,tinCan.png,0,0,0
+soy milk,milk.png,0,0,0
+soy sauce,condiments.png,0,0,0
+spaghetti,noodles.png,0,0,0
+spaghetti sauce,bottle.png,0,0,0
+spam,tinCan.png,0,0,0
+spelt,baking.png,0,0,0
+spinach,green.png,0,0,0
+spring onions,onion.png,0,0,0
+sprite,softDrinkSoda.png,0,0,0
+squash,softDrinkSoda.png,0,0,0
+squid,seafoodOctopus.png,0,0,0
+sriracha,condiments.png,0,0,0
+star anise,spice.png,0,0,0
+starfruit,apple.png,0,0,0
+steak seasoning,spice.png,0,0,0
+strawberries,strawberry.png,0,0,0
+stuffing mix,cereal.png,0,0,0
+sugar,bakingSugar.png,0,0,0
+sultanas,grapes.png,0,0,0
+sundried tomato,tomato.png,0,0,0
+sunflower oil,bottle.png,0,0,0
+sweet onion,onion.png,0,0,0
+sweet potato,sweetPotato.png,0,0,0
+swiss cheese,cheese.png,0,0,0
+syrup,bottle.png,0,0,0
+taco seasoning,spice.png,0,0,0
+tamarind,peas.png,0,0,0
+tangelos,orange.png,0,0,0
+tangerine,orange.png,0,0,0
+tarragon,spice.png,0,0,0
+tea,coffeeTea.png,0,0,0
+teriyaki sauce,bottle.png,0,0,0
+thickened cream,cream.png,0,0,0
+thyme,spice.png,0,0,0
+tilapia,seafood.png,0,0,0
+toffee,chocolate.png,0,0,0
+tofu,milk.png,0,0,0
+tomato juice,juice.png,0,0,0
+tomato paste,jam.png,0,0,0
+tomato sauce,condiments.png,0,0,0
+tomato soup,tinCan.png,0,0,0
+tomatoes,tomato.png,0,0,0
+tree nuts,nuts.png,0,0,0
+trout,seafood.png,0,0,0
+tuna,seafood.png,0,0,0
+turkey,turkey.png,0,0,0
+turkey breast,turkey.png,0,0,0
+turkey mince,turkey.png,0,0,0
+turmeric,spice.png,0,0,0
+unsweetened chocolate,chocolate.png,0,0,0
+vanilla,cinnamon.png,0,0,0
+vanilla essence,baking.png,0,0,0
+vanilla pudding,cereal.png,0,0,0
+veal,beefCow.png,0,0,0
+vegan burgers,vegan.png,0,0,0
+vegan cheese,vegan.png,0,0,0
+vegan mince,vegan.png,0,0,0
+vegan nuggets,vegan.png,0,0,0
+vegan parmesan,vegan.png,0,0,0
+vegan sausages,vegan.png,0,0,0
+vegetable bouillon,baking.png,0,0,0
+vegetable oil,bottle.png,0,0,0
+vegetable soup,tinCan.png,0,0,0
+vegetable stock,gravy.png,0,0,0
+velveeta,cheese.png,0,0,0
+venison,beefCow.png,0,0,0
+vinegar,bottle.png,0,0,0
+wafers,cracker.png,0,0,0
+walnuts,nuts.png,0,0,0
+water,bottle.png,0,0,0
+water chestnuts,greens.png,0,0,0
+watercress,greens.png,0,0,0
+watermelon,watermelon.png,0,0,0
+wheat,baking.png,0,0,0
+wheat germ,baking.png,0,0,0
+whipped cream,cream.png,0,0,0
+white chocolate chips,chocolate.png,0,0,0
+white pepper,spice.png,0,0,0
+white wine vinegar,bottle.png,0,0,0
+whiting,seafood.png,0,0,0
+whole chicken,chicken.png,0,0,0
+worcestershire sauce,bottle.png,0,0,0
+yeast,baking.png,0,0,0
+yoghurt,yoghurt.png,0,0,0
+zucchini,zucchini.png,0,0,0
