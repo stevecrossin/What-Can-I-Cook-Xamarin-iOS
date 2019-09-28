@@ -171,6 +171,7 @@ dill seed,spice.png,0,0,0
 dry mustard,condiments.png,0,0,0
 duck,chicken.png,0,0,0
 egg,eggs.png,0,0,0
+eggplant,eggplant.png,0,0,0
 egg white,eggs.png,0,0,0
 egg yolk,eggs.png,0,0,0
 evaporated milk,milk.png,0,0,0
@@ -222,7 +223,7 @@ hemp milk,milk.png,0,0,0
 herbes de provence,spice.png,0,0,0
 herbs,spice.png,0,0,0
 hoisin sauce,condiments.png,0,0,0
-honey,bottle.png,0,0,0
+honey,honey.png,0,0,0
 horseradish,radish.png,0,0,0
 hot dog,hotDog.png,0,0,0
 hot dog bun,hotDog.png,0,0,0
@@ -345,7 +346,7 @@ pineapple,apple.png,0,0,0
 pineapple juice,juice.png,0,0,0
 pinto beans,tinCan.png,0,0,0
 pistachio,nuts.png,0,0,0
-pita,flourBaking.png,0,0,0
+pita,bakingFlour.png,0,0,0
 pizza cheese,cheese.png,0,0,0
 plain flour,bakingFlour.png,0,0,0
 plantain,banana.png,0,0,0
@@ -361,9 +362,9 @@ pork ribs,pigPork.png,0,0,0
 pork roast,pigPork.png,0,0,0
 pork sausage,sausage.png,0,0,0
 pork shoulder,pigPork.png,0,0,0
-potato,potato.png,0,0,0
+potato,potatoes.png,0,0,0
 potato chips,nachos.png,0,0,0
-potato flakes,potato.png,0,0,0
+potato flakes,potatoes.png,0,0,0
 poultry seasoning,spice.png,0,0,0
 powdered milk,milk.png,0,0,0
 praline,chocolate.png,0,0,0
@@ -376,7 +377,7 @@ pudding mix,cake.png,0,0,0
 puff pastry,cracker.png,0,0,0
 pumpkin,sweetPotato.png,0,0,0
 quince,pear.png,0,0,0
-quinoa,flourBaking.png,0,0,0
+quinoa,bakingFlour.png,0,0,0
 radish,radish.png,0,0,0
 raisins,grapes.png,0,0,0
 ramen,noodles.png,0,0,0
@@ -396,7 +397,7 @@ rice wine,bottle.png,0,0,0
 ricotta,cheese.png,0,0,0
 risotto,bakingFlour.png,0,0,0
 rolled oats,bakingFlour.png,0,0,0
-romano,cheese.pngz,0,0,0
+romano,cheese.png,0,0,0
 rosemary,spice.png,0,0,0
 rye,bread.png,0,0,0
 saffron,spice.png,0,0,0
@@ -430,7 +431,7 @@ spaghetti,noodles.png,0,0,0
 spaghetti sauce,bottle.png,0,0,0
 spam,tinCan.png,0,0,0
 spelt,baking.png,0,0,0
-spinach,green.png,0,0,0
+spinach,greens.png,0,0,0
 spring onions,onion.png,0,0,0
 sprite,softDrinkSoda.png,0,0,0
 squash,softDrinkSoda.png,0,0,0
@@ -477,7 +478,7 @@ unsweetened chocolate,chocolate.png,0,0,0
 vanilla,cinnamon.png,0,0,0
 vanilla essence,baking.png,0,0,0
 vanilla pudding,cereal.png,0,0,0
-veal,beefCow.png,0,0,0
+veal,cowBeef.png,0,0,0
 vegan burgers,vegan.png,0,0,0
 vegan cheese,vegan.png,0,0,0
 vegan mince,vegan.png,0,0,0
@@ -489,7 +490,7 @@ vegetable oil,bottle.png,0,0,0
 vegetable soup,tinCan.png,0,0,0
 vegetable stock,gravy.png,0,0,0
 velveeta,cheese.png,0,0,0
-venison,beefCow.png,0,0,0
+venison,cowBeef.png,0,0,0
 vinegar,bottle.png,0,0,0
 wafers,cracker.png,0,0,0
 walnuts,nuts.png,0,0,0

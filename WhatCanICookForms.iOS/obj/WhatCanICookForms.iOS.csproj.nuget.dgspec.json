@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj": {}
+    "/Users/jessicafitzgerald/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj": {}
   },
   "projects": {
-    "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj": {
+    "/Users/jessicafitzgerald/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
+        "projectUniqueName": "/Users/jessicafitzgerald/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
         "projectName": "WhatCanICookForms.iOS",
-        "projectPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
-        "packagesPath": "/Users/stevencrossin/.nuget/packages/",
-        "outputPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/obj/",
+        "projectPath": "/Users/jessicafitzgerald/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
+        "packagesPath": "/Users/jessicafitzgerald/.nuget/packages/",
+        "outputPath": "/Users/jessicafitzgerald/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/stevencrossin/.config/NuGet/NuGet.Config"
+          "/Users/jessicafitzgerald/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
@@ -26,8 +26,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
-                "projectPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj"
+              "/Users/jessicafitzgerald/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
+                "projectPath": "/Users/jessicafitzgerald/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj"
               }
             }
           }
@@ -59,20 +59,20 @@
         }
       }
     },
-    "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
+    "/Users/jessicafitzgerald/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj",
+        "projectUniqueName": "/Users/jessicafitzgerald/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj",
         "projectName": "WhatCanICookForms",
-        "projectPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj",
-        "packagesPath": "/Users/stevencrossin/.nuget/packages/",
-        "outputPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/",
+        "projectPath": "/Users/jessicafitzgerald/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj",
+        "packagesPath": "/Users/jessicafitzgerald/.nuget/packages/",
+        "outputPath": "/Users/jessicafitzgerald/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/stevencrossin/.config/NuGet/NuGet.Config"
+          "/Users/jessicafitzgerald/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -131,7 +131,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100-rc1-014190/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
