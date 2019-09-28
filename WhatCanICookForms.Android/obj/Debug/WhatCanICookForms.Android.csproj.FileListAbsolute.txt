@@ -477,6 +477,81 @@
 /Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/res/drawable/dietaryneeds.png
 /Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/res/drawable/pantry.png
 /Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/res/drawable/pickingredients.png
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/49277fcd8f99f6d631db7adb8a9d9d7b38fee4db.stamp
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/c56c04c5b7369760f7cb27fd1a8e1ecc5a1fd1e4.stamp
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/ece4e2b1194dcde2c43e1572863a652c9d7b363e.stamp
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/3a9a71149a385eb69040905591f5d52480812f28.stamp
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/0100b91e8b3264d6bb6d1af1890bef173d52032f.stamp
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/f399b52ee11822f2fad51b469a98418d6a0c6304.stamp
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/7f4ce73fee0179caf26838bfb2fafce8a5c3d650.stamp
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/4f94520797ac0d20ad93fefcaa7d621ade18de10.stamp
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/900cd557548aebf1e79e43c0d6212154e540e9b8.stamp
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/58c7fc36ee1e1c77d9a209092de7c12ff9038dcf.stamp
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/62d8e5a476822b8eccd6ece518bee83c48a1097b.stamp
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/49277fcd8f99f6d631db7adb8a9d9d7b38fee4db.flata
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/c56c04c5b7369760f7cb27fd1a8e1ecc5a1fd1e4.flata
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/ece4e2b1194dcde2c43e1572863a652c9d7b363e.flata
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/3a9a71149a385eb69040905591f5d52480812f28.flata
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/0100b91e8b3264d6bb6d1af1890bef173d52032f.flata
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/f399b52ee11822f2fad51b469a98418d6a0c6304.flata
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/7f4ce73fee0179caf26838bfb2fafce8a5c3d650.flata
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/4f94520797ac0d20ad93fefcaa7d621ade18de10.flata
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/900cd557548aebf1e79e43c0d6212154e540e9b8.flata
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/58c7fc36ee1e1c77d9a209092de7c12ff9038dcf.flata
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/flata/62d8e5a476822b8eccd6ece518bee83c48a1097b.flata
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/SQLite-net.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/SQLitePCLRaw.batteries_green.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/SQLitePCLRaw.batteries_v2.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/SQLitePCLRaw.core.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/SQLitePCLRaw.lib.e_sqlite3.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/System.Json.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Auth.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/System.Collections.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/System.Runtime.Extensions.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/System.Linq.Expressions.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/System.Reflection.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/System.Diagnostics.Debug.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/System.Threading.Tasks.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/System.Linq.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/System.Threading.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/System.Reflection.Extensions.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/System.Globalization.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Auth.dll.mdb
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/Mono.Android.pdb
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/SQLite-net.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/SQLitePCLRaw.batteries_green.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/SQLitePCLRaw.batteries_v2.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/SQLitePCLRaw.core.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/SQLitePCLRaw.lib.e_sqlite3.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/System.Collections.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/System.Diagnostics.Debug.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/System.Globalization.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/System.Json.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/System.Linq.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/System.Linq.Expressions.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/System.Reflection.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/System.Reflection.Extensions.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/System.Runtime.Extensions.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/System.Threading.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/System.Threading.Tasks.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Auth.dll
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Auth.dll.mdb
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/palette/R.java
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/src/md51ecadffdc85c92889fb18c347bb5af96/CustomTabActivityHelper.java
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/src/md51ecadffdc85c92889fb18c347bb5af96/ServiceConnection.java
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/WebAuthenticatorNativeBrowserActivity.java
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/WebAuthenticatorActivity_Client.java
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/AndroidAccountStore_SecretAccount.java
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/WebAuthenticatorActivity.java
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/WebAuthenticatorActivity_State.java
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/WebViewActivity.java
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/FormAuthenticatorActivity.java
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/WebAuthenticatorNativeBrowserActivity_State.java
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/CustomTabsActionsBroadcastReceiver.java
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/FormAuthenticatorActivity_State.java
+/Users/brendonbinks/Desktop/SIT313/What Can I Cook/WhatCanICookForms.Android/obj/Debug/android/src/md5b8712e66f24f0569c7005de2584fc67e/LoginPageRender.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/bin/Debug/WhatCanICookForms.Android.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/bin/Debug/WhatCanICookForms.Android.pdb
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/bin/Debug/com.companyname.whatcanicookforms.apk
@@ -487,33 +562,40 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/build.props
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/adb.props
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/WhatCanICookForms.Android.csprojAssemblyReference.cache
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/_VerifyXamarinAndroidSupportVersions.stamp
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/resourcepaths.cache
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/res.flag
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/0074da614831432af15d9e2751f7c3dbdaad1323.stamp
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/461411956bd39a36f418d303227b8f89b8ff4ae4.stamp
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/4a4a57aa6b6c87e819de787bb97e5bf04d603ab2.stamp
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/0cba3ae8d3246cebebfb215a6be0eb7976e561ba.stamp
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/ff59326ce9b1572e978d4f7e438badb30eed357c.stamp
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/36c9848fdf07e110fafdeac5ca2f305bfe6eb075.stamp
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/8ca621baa64274f326be98be44f2b478d0c6c48d.stamp
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/8ee260ef29556235b13ecb49afdd636a2dd6a093.stamp
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/3684dd0b6ca01ee12cda2534bbbe1e8dbef0ff22.stamp
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/c6be0a8101167c9ea6fb0d47b3d6a862d2134591.stamp
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/33de373b88b3e437a78735033374ca5d5fd02608.stamp
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/6bcf389f6d72b9ff9b5b979029bd9f48b234ab5c.stamp
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/90af3a6bad38d5680e7bc3b9fbcc4720380510c8.stamp
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/2be8e16ab6072ae71c7640389784b39ded76c0ff.stamp
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/dbc7b7006306785a93575e3b1b9f2c4297df1242.stamp
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/1ce6275db281b4db831eb574f5ee8640dd08f8e2.stamp
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/0074da614831432af15d9e2751f7c3dbdaad1323.flata
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/461411956bd39a36f418d303227b8f89b8ff4ae4.flata
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/4a4a57aa6b6c87e819de787bb97e5bf04d603ab2.flata
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/78cffefb263969104d4786ade766040a49183e5e.stamp
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/5c6aac399a8eb9b2c9b2fb3485c47eb6f7d52e40.stamp
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/e2d739ee190721b00f9236f5bf5d6e084b3d194d.stamp
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/e39a02f4d8ead6113fa6a98fc1bb953a511ce4ac.stamp
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/f93b21e19b75880be30d127a53ccab650729e99c.stamp
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/23c41a057df041e4f4fbffc44d3584c462dd599e.stamp
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/0cba3ae8d3246cebebfb215a6be0eb7976e561ba.flata
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/ff59326ce9b1572e978d4f7e438badb30eed357c.flata
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/36c9848fdf07e110fafdeac5ca2f305bfe6eb075.flata
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/8ca621baa64274f326be98be44f2b478d0c6c48d.flata
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/8ee260ef29556235b13ecb49afdd636a2dd6a093.flata
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/3684dd0b6ca01ee12cda2534bbbe1e8dbef0ff22.flata
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/c6be0a8101167c9ea6fb0d47b3d6a862d2134591.flata
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/33de373b88b3e437a78735033374ca5d5fd02608.flata
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/6bcf389f6d72b9ff9b5b979029bd9f48b234ab5c.flata
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/90af3a6bad38d5680e7bc3b9fbcc4720380510c8.flata
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/2be8e16ab6072ae71c7640389784b39ded76c0ff.flata
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/dbc7b7006306785a93575e3b1b9f2c4297df1242.flata
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/1ce6275db281b4db831eb574f5ee8640dd08f8e2.flata
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/78cffefb263969104d4786ade766040a49183e5e.flata
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/5c6aac399a8eb9b2c9b2fb3485c47eb6f7d52e40.flata
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/e2d739ee190721b00f9236f5bf5d6e084b3d194d.flata
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/e39a02f4d8ead6113fa6a98fc1bb953a511ce4ac.flata
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/f93b21e19b75880be30d127a53ccab650729e99c.flata
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/23c41a057df041e4f4fbffc44d3584c462dd599e.flata
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/flata/compiled.flata
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/R.txt
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/R.cs.flag
@@ -542,6 +624,8 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/res/drawable/dietaryneeds.png
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/res/drawable/pantry.png
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/res/drawable/pickingredients.png
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/res/drawable/facebooklogin.png
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/res/drawable/bread.png
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/uploadflags.txt
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/resolvedassemblies.hash
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/WhatCanICookForms.Android.dll
@@ -549,8 +633,18 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Java.Interop.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Mono.Android.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/mscorlib.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Plugin.CurrentActivity.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Plugin.Share.Abstractions.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Plugin.Share.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/SQLite-net.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/SQLitePCLRaw.batteries_green.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/SQLitePCLRaw.batteries_v2.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/SQLitePCLRaw.core.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/SQLitePCLRaw.lib.e_sqlite3.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/SQLitePCLRaw.provider.e_sqlite3.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Core.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Json.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Numerics.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Numerics.Vectors.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Runtime.dll
@@ -596,15 +690,31 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Android.Support.Vector.Drawable.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Android.Support.VersionedParcelable.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Android.Support.ViewPager.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Auth.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Essentials.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Forms.Core.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.GooglePlayServices.Ads.Base.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.GooglePlayServices.Ads.Lite.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.GooglePlayServices.Basement.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.GooglePlayServices.Measurement.Base.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.GooglePlayServices.Measurement.Sdk.Api.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Net.Http.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Drawing.Common.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Runtime.Serialization.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.ServiceModel.Internals.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Threading.Tasks.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Collections.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Runtime.Extensions.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Linq.Expressions.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Reflection.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Diagnostics.Debug.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Linq.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Threading.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Reflection.Extensions.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.Globalization.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Mono.Security.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/System.ComponentModel.Composition.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/netstandard.dll
@@ -616,11 +726,14 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/WhatCanICookForms.Android.pdb
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/FormsViewGroup.pdb
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Mono.Android.pdb
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Plugin.Share.Abstractions.pdb
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/WhatCanICookForms.pdb
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Essentials.pdb
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Forms.Core.pdb
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.pdb
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.pdb
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Essentials.dll.mdb
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Plugin.Share.dll.mdb
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/linksrc/Xamarin.Auth.dll.mdb
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/link.flag
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/FormsViewGroup.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/FormsViewGroup.pdb
@@ -630,19 +743,41 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Mono.Security.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/mscorlib.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/netstandard.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Plugin.CurrentActivity.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Plugin.Share.Abstractions.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Plugin.Share.Abstractions.pdb
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Plugin.Share.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Plugin.Share.dll.mdb
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/SQLite-net.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/SQLitePCLRaw.batteries_green.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/SQLitePCLRaw.batteries_v2.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/SQLitePCLRaw.core.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/SQLitePCLRaw.lib.e_sqlite3.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Collections.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.ComponentModel.Composition.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Core.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Data.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Diagnostics.Debug.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Drawing.Common.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Globalization.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.IO.Compression.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Json.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Linq.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Linq.Expressions.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Net.Http.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Numerics.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Numerics.Vectors.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Reflection.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Reflection.Extensions.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Runtime.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Runtime.Extensions.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Threading.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Threading.Tasks.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Transactions.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Web.Services.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Xml.dll
@@ -690,8 +825,10 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Android.Support.Vector.Drawable.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Android.Support.VersionedParcelable.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Android.Support.ViewPager.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Auth.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Auth.dll.mdb
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Essentials.dll
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Essentials.dll.mdb
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Essentials.pdb
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Forms.Core.pdb
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll
@@ -699,11 +836,40 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.pdb
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.GooglePlayServices.Ads.Base.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.GooglePlayServices.Ads.Lite.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.GooglePlayServices.Basement.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.GooglePlayServices.Measurement.Base.dll
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.GooglePlayServices.Measurement.Sdk.Api.dll
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/MonoRuntimeProvider.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/machine.config
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/bin/mono.android.jar
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/static.flag
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/buildid.txt
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/security/ProviderInstaller_ProviderInstallListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/dynamic/OnDelegateCreatedListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/common/api/internal/BackgroundDetector_BackgroundStateChangeListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/rewarded/OnAdMetadataChangedListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/reward/mediation/MediationRewardedVideoAdListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/reward/RewardedVideoAdListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/mediation/customevent/CustomEventListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/mediation/MediationBannerListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/mediation/MediationInterstitialListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/mediation/OnContextChangedListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/mediation/OnImmersiveModeUpdatedListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/formats/NativeAppInstallAd_OnAppInstallAdLoadedListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/formats/NativeContentAd_OnContentAdLoadedListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/formats/NativeCustomTemplateAd_OnCustomClickListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/formats/NativeCustomTemplateAd_OnCustomTemplateAdLoadedListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/formats/OnPublisherAdViewLoadedListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/formats/UnifiedNativeAd_OnUnifiedNativeAdLoadedListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/formats/UnifiedNativeAd_UnconfirmedClickListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/doubleclick/AppEventListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/doubleclick/OnCustomRenderedAdLoadedListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/android/gms/ads/MuteThisAdListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/ads/mediation/customevent/CustomEventListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/ads/mediation/MediationBannerListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/com/google/ads/mediation/MediationInterstitialListenerImplementor.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/v7/widget/ActionMenuView_OnMenuItemClickListenerImplementor.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/v7/widget/ContentFrameLayout_OnAttachListenerImplementor.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/v7/widget/FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
@@ -740,36 +906,14 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/v4/view/ViewPager_OnPageChangeListenerImplementor.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/v4/view/ViewPropertyAnimatorListenerImplementor.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/v4/view/ViewPropertyAnimatorUpdateListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/widget/Toolbar_NavigationOnClickEventDispatcher.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/v4/os/CancellationSignal_OnCancelListenerImplementor.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/v4/media/session/MediaSessionCompat_OnActiveChangeListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/recyclerview/R.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/mediarouter/R.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/v4/content/Loader_OnLoadCanceledListenerImplementor.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/v4/content/Loader_OnLoadCompleteListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/cardview/R.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/widget/Toolbar_NavigationOnClickEventDispatcher.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/v4/app/FragmentManager_OnBackStackChangedListenerImplementor.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/v4/app/SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/appcompat/R.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/app/AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/app/AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/app/AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/v13/view/inputmethod/InputConnectionCompat_OnCommitContentListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/v13/view/DragStartHelper_OnDragStartListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/transition/R.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/transition/Transition_TransitionListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/mediacompat/R.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/design/widget/AppBarLayout_OnOffsetChangedListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/design/widget/BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/design/widget/BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/design/widget/NavigationView_OnNavigationItemSelectedListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/design/widget/SwipeDismissBehavior_OnDismissListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/design/widget/TabLayout_BaseOnTabSelectedListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/design/widget/Snackbar_SnackbarActionClickImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/design/chip/ChipGroup_OnCheckedChangeListenerImplementor.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/design/R.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/customtabs/CustomTabsClient_CustomTabsCallbackImpl.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/customtabs/R.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/recyclerview/R.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ActionSheetRenderer.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ActivityIndicatorRenderer.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/AHorizontalScrollView.java
@@ -803,7 +947,6 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EditorRenderer.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EditorRendererBase_1.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EmptyViewAdapter.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EmptyViewAdapter_EmptyViewHolder.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EndSingleSnapHelper.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EndSnapHelper.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EntryAccessibilityDelegate.java
@@ -829,6 +972,7 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/GenericAnimatorListener.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/GenericMenuClickListener.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/GestureManager_TapAndPanGestureDetector.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/GridLayoutSpanSizeLookup.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/GroupedListViewAdapter.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ImageButtonRenderer.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ImageCache_CacheEntry.java
@@ -865,6 +1009,7 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PositionalSmoothScroller.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PowerSaveModeBroadcastReceiver.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ProgressBarRenderer.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ScrollHelper.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ScrollViewContainer.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ScrollViewRenderer.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SearchBarRenderer.java
@@ -872,7 +1017,6 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SelectableItemsViewRenderer.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SelectableViewHolder.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellContentFragment.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutContentRenderer.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutRecyclerAdapter.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutRecyclerAdapter_ElementViewHolder.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
@@ -892,6 +1036,7 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellSectionRenderer.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellToolbarTracker.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SimpleViewHolder.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SingleSnapHelper.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SizedItemContentView.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SliderRenderer.java
@@ -918,10 +1063,72 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/VisualElementTracker_AttachTracker.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/WebViewRenderer.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/WebViewRenderer_JavascriptResult.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/coordinatorlayout/R.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/app/ApplicationRegistration.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/v13/view/inputmethod/InputConnectionCompat_OnCommitContentListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/mediarouter/R.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/v13/view/DragStartHelper_OnDragStartListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/cardview/R.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md513d0258903c37fed2a3d17a14e8551a2/AwaitableResultCallback_1.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md513d0258903c37fed2a3d17a14e8551a2/ResultCallback_1.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/appcompat/R.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/transition/Transition_TransitionListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/com/google/android/gms/common/R.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/app/AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/app/AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/v7/app/AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/design/widget/AppBarLayout_OnOffsetChangedListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/design/widget/BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/design/widget/BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/design/widget/NavigationView_OnNavigationItemSelectedListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/design/widget/SwipeDismissBehavior_OnDismissListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/design/widget/TabLayout_BaseOnTabSelectedListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/com/google/android/gms/ads/R.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/transition/R.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/support/design/chip/ChipGroup_OnCheckedChangeListenerImplementor.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/mediacompat/R.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/design/widget/Snackbar_SnackbarActionClickImplementor.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/xamarin/essentials/fileProvider.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/design/R.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/android/app/ApplicationRegistration.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/customtabs/CustomTabsClient_CustomTabsCallbackImpl.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/customtabs/R.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/AndroidAccountStore_SecretAccount.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/CustomTabsActionsBroadcastReceiver.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/FormAuthenticatorActivity.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/FormAuthenticatorActivity_State.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/WebAuthenticatorActivity.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/WebAuthenticatorActivity_Client.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/WebAuthenticatorActivity_State.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/WebAuthenticatorNativeBrowserActivity.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/WebAuthenticatorNativeBrowserActivity_State.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5538102cb7512c6dba0c04fe6c395414e/WebViewActivity.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/AccelerometerListener.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/ActivityLifecycleContextListener.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/BarometerListener.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/BatteryBroadcastReceiver.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/ConnectivityBroadcastReceiver.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/EnergySaverBroadcastReceiver.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/GyroscopeListener.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/Listener.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/MagnetometerListener.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/OrientationSensorListener.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/SensorListener.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/SingleLocationListener.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/TextToSpeechImplementation.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/coordinatorlayout/R.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md55015ef125a83b97e42099759b4f4c93d/MainActivity.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/MonoPackageManager_Resources.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5b8712e66f24f0569c7005de2584fc67e/LoginPageRender.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/android/support/compat/R.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5423e3a95c357eb7d6aad61b4f54abbd4/RecyclerViewScrollListener.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5f92e0daf340890c9667469657ee2ece8/ButtonRenderer.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5f92e0daf340890c9667469657ee2ece8/FrameRenderer.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5f92e0daf340890c9667469657ee2ece8/ImageRenderer.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5f92e0daf340890c9667469657ee2ece8/LabelRenderer.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5a40f95a4f6bea9f02fbc9a9583ec51b2/AdViewRenderer.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51ecadffdc85c92889fb18c347bb5af96/CustomTabActivityHelper.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md51ecadffdc85c92889fb18c347bb5af96/ServiceConnection.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5dcb6eccdc824e0677ffae8ccdde42930/CustomTabsServiceConnectionImpl.java
+/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5dcb6eccdc824e0677ffae8ccdde42930/KeepAliveService.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/ButtonRenderer.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/CarouselPageRenderer.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/FormsFragmentPagerAdapter_1.java
@@ -941,27 +1148,6 @@
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/SwitchRenderer.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/TabbedPageRenderer.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/ViewRenderer_2.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/mono/MonoPackageManager_Resources.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5dcb6eccdc824e0677ffae8ccdde42930/CustomTabsServiceConnectionImpl.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5dcb6eccdc824e0677ffae8ccdde42930/KeepAliveService.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/AccelerometerListener.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/ActivityLifecycleContextListener.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/BarometerListener.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/BatteryBroadcastReceiver.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/ConnectivityBroadcastReceiver.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/EnergySaverBroadcastReceiver.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/GyroscopeListener.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/Listener.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/MagnetometerListener.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/OrientationSensorListener.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/SensorListener.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/SingleLocationListener.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/TextToSpeechImplementation.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5f92e0daf340890c9667469657ee2ece8/ButtonRenderer.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5f92e0daf340890c9667469657ee2ece8/FrameRenderer.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5f92e0daf340890c9667469657ee2ece8/ImageRenderer.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md5f92e0daf340890c9667469657ee2ece8/LabelRenderer.java
-/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/md55015ef125a83b97e42099759b4f4c93d/MainActivity.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/bin/packaged_resources
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/src/com/companyname/whatcanicookforms/R.java
 /Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/bin/classes.dex
