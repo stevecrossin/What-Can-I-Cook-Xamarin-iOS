@@ -1,44 +1,14 @@
-﻿<Properties StartupConfiguration="{D87CFC53-A682-4453-812C-0D7E55C3F285}|Default">
+﻿<Properties StartupConfiguration="{8BB66E33-ACCD-4C03-A357-45F04D8F646A}|Default">
   <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6E5C1FF5-48C7-4855-8460-F2A30E48F74E" />
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="WhatCanICookForms/ingredients.csv" Line="173" Column="18" />
-      <File FileName="WhatCanICookForms/licenses.txt" Line="23" Column="1" />
+      <File FileName="WhatCanICookForms/ingredients.csv" Line="195" Column="11" />
+      <File FileName="WhatCanICookForms/licenses.txt" />
+      <File FileName="WhatCanICookForms/Views/SelectedIngredients.xaml.cs" />
+      <File FileName="WhatCanICookForms.Android/Resources/drawable/splash_screen.xml" Line="7" Column="40" />
+      <File FileName="WhatCanICookForms.Android/Resources/values/styles.xml" Line="29" Column="27" />
+      <File FileName="WhatCanICookForms.Android/MainActivity.cs" Line="12" Column="64" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="WhatCanICookForms" expanded="True">
-            <Node name="WhatCanICookForms" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-              <Node name="BaseClasses" expanded="True" />
-              <Node name="Converters" expanded="True" />
-              <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="IngredientPicker.xaml" expanded="True" />
-                <Node name="LoginPage.xaml" expanded="True" />
-                <Node name="MainPage.xaml" expanded="True" />
-                <Node name="Pantry.xaml" expanded="True" />
-              </Node>
-              <Node name="licenses.txt" selected="True" />
-            </Node>
-            <Node name="WhatCanICookForms.Android" expanded="True">
-              <Node name="Resources" expanded="True">
-                <Node name="drawable" expanded="True" />
-                <Node name="values" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="WhatCanICookForms.iOS" expanded="True">
-              <Node name="Resources" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
