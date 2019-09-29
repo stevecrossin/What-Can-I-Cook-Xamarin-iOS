@@ -1,5 +1,6 @@
 ﻿using System;
 using Xamarin.Forms;
+using WhatCanICookForms.Controls;
 using WhatCanICookForms.Views;
 
 namespace WhatCanICookForms
@@ -19,16 +20,22 @@ namespace WhatCanICookForms
         {
             InitializeComponent();
             NavigationPage.SetHasNavigationBar(this, false);
-            if (Device.RuntimePlatform == Device.iOS)
-                AdUnitId = "iOS Key";
-            else if (Device.RuntimePlatform == Device.Android)
-                AdUnitId = "Android Key";
-        }
+            AdmobControl admobControl = new AdmobControl()
+            {
+                AdUnitId = AppConstants.BannerId
+            };
 
-        /*
-         * Login button click event handling to take users to Login page for authentication
-         */
-        public void btnLoginClicked(object sender, EventArgs e)
+          Content = new StackLayout()
+          {
+            Children = { admobControl }
+           };
+        }
+            
+
+            /*
+             * Login button click event handling to take users to Login page for authentication
+             */
+            public void btnLoginClicked(object sender, EventArgs e)
         {
             Navigation.PushAsync(new LoginPage());
             /*To bypass FB login for Testing, change LoginPage to HomePage*/

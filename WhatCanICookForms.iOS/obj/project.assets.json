@@ -82,6 +82,13 @@
           "lib/Xamarin.iOS10/Xamarin.Auth.dll": {}
         }
       },
+      "Xamarin.Build.Download/0.4.11": {
+        "type": "package",
+        "build": {
+          "build/Xamarin.Build.Download.props": {},
+          "build/Xamarin.Build.Download.targets": {}
+        }
+      },
       "Xamarin.Essentials/1.3.1": {
         "type": "package",
         "dependencies": {
@@ -218,6 +225,21 @@
         "build": {
           "build/Xamarin.Forms.props": {},
           "build/Xamarin.Forms.targets": {}
+        }
+      },
+      "Xamarin.Google.iOS.MobileAds/7.38.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Build.Download": "0.4.11"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Google.MobileAds.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Google.MobileAds.dll": {}
+        },
+        "build": {
+          "build/Xamarin.Google.iOS.MobileAds.targets": {}
         }
       },
       "WhatCanICookForms/1.0.0": {
@@ -319,6 +341,13 @@
           "lib/Xamarin.iOS10/Xamarin.Auth.dll": {}
         }
       },
+      "Xamarin.Build.Download/0.4.11": {
+        "type": "package",
+        "build": {
+          "build/Xamarin.Build.Download.props": {},
+          "build/Xamarin.Build.Download.targets": {}
+        }
+      },
       "Xamarin.Essentials/1.3.1": {
         "type": "package",
         "dependencies": {
@@ -455,6 +484,21 @@
         "build": {
           "build/Xamarin.Forms.props": {},
           "build/Xamarin.Forms.targets": {}
+        }
+      },
+      "Xamarin.Google.iOS.MobileAds/7.38.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Build.Download": "0.4.11"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Google.MobileAds.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Google.MobileAds.dll": {}
+        },
+        "build": {
+          "build/Xamarin.Google.iOS.MobileAds.targets": {}
         }
       },
       "WhatCanICookForms/1.0.0": {
@@ -556,6 +600,13 @@
           "lib/Xamarin.iOS10/Xamarin.Auth.dll": {}
         }
       },
+      "Xamarin.Build.Download/0.4.11": {
+        "type": "package",
+        "build": {
+          "build/Xamarin.Build.Download.props": {},
+          "build/Xamarin.Build.Download.targets": {}
+        }
+      },
       "Xamarin.Essentials/1.3.1": {
         "type": "package",
         "dependencies": {
@@ -692,6 +743,21 @@
         "build": {
           "build/Xamarin.Forms.props": {},
           "build/Xamarin.Forms.targets": {}
+        }
+      },
+      "Xamarin.Google.iOS.MobileAds/7.38.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Build.Download": "0.4.11"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Google.MobileAds.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Google.MobileAds.dll": {}
+        },
+        "build": {
+          "build/Xamarin.Google.iOS.MobileAds.targets": {}
         }
       },
       "WhatCanICookForms/1.0.0": {
@@ -793,6 +859,13 @@
           "lib/Xamarin.iOS10/Xamarin.Auth.dll": {}
         }
       },
+      "Xamarin.Build.Download/0.4.11": {
+        "type": "package",
+        "build": {
+          "build/Xamarin.Build.Download.props": {},
+          "build/Xamarin.Build.Download.targets": {}
+        }
+      },
       "Xamarin.Essentials/1.3.1": {
         "type": "package",
         "dependencies": {
@@ -929,6 +1002,21 @@
         "build": {
           "build/Xamarin.Forms.props": {},
           "build/Xamarin.Forms.targets": {}
+        }
+      },
+      "Xamarin.Google.iOS.MobileAds/7.38.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Build.Download": "0.4.11"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Google.MobileAds.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Google.MobileAds.dll": {}
+        },
+        "build": {
+          "build/Xamarin.Google.iOS.MobileAds.targets": {}
         }
       },
       "WhatCanICookForms/1.0.0": {
@@ -1157,6 +1245,24 @@
         "lib/uap10.0/Xamarin.Auth/Xamarin.Auth.xr.xml",
         "xamarin.auth.1.7.0.nupkg.sha512",
         "xamarin.auth.nuspec"
+      ]
+    },
+    "Xamarin.Build.Download/0.4.11": {
+      "sha512": "svGAoBnMVQwUbIv1+j7vDypY+2R7jruefJRmVsxhuvSFXMP8dV+yZK3UGuZa3zV5ThKimk9eqHuvRcl/JVipbA==",
+      "type": "package",
+      "path": "xamarin.build.download/0.4.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "THIRD-PARTY-NOTICES.txt",
+        "build/Mono.Cecil.dll",
+        "build/Newtonsoft.Json.dll",
+        "build/System.Net.Http.Formatting.dll",
+        "build/Xamarin.Build.Download.dll",
+        "build/Xamarin.Build.Download.props",
+        "build/Xamarin.Build.Download.targets",
+        "xamarin.build.download.0.4.11.nupkg.sha512",
+        "xamarin.build.download.nuspec"
       ]
     },
     "Xamarin.Essentials/1.3.1": {
@@ -1457,6 +1563,20 @@
         "xamarin.forms.nuspec"
       ]
     },
+    "Xamarin.Google.iOS.MobileAds/7.38.0": {
+      "sha512": "IQAINSY8W0i3DzM3xxLT1GRrQcoHPyGLXH3HXpEUw1DdmF36tLPx7X9zzstgQRLpy/Yux0lLXSJlnUB01u+3Zg==",
+      "type": "package",
+      "path": "xamarin.google.ios.mobileads/7.38.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "THIRD-PARTY-NOTICES",
+        "build/Xamarin.Google.iOS.MobileAds.targets",
+        "lib/Xamarin.iOS10/Google.MobileAds.dll",
+        "xamarin.google.ios.mobileads.7.38.0.nupkg.sha512",
+        "xamarin.google.ios.mobileads.nuspec"
+      ]
+    },
     "WhatCanICookForms/1.0.0": {
       "type": "project",
       "path": "../WhatCanICookForms/WhatCanICookForms.csproj",
@@ -1467,7 +1587,8 @@
     "Xamarin.iOS,Version=v1.0": [
       "WhatCanICookForms >= 1.0.0",
       "Xamarin.Essentials >= 1.3.1",
-      "Xamarin.Forms >= 4.2.0.815419"
+      "Xamarin.Forms >= 4.2.0.815419",
+      "Xamarin.Google.iOS.MobileAds >= 7.38.0"
     ]
   },
   "packageFolders": {
@@ -1512,6 +1633,10 @@
           "Xamarin.Forms": {
             "target": "Package",
             "version": "[4.2.0.815419, )"
+          },
+          "Xamarin.Google.iOS.MobileAds": {
+            "target": "Package",
+            "version": "[7.38.0, )"
           }
         }
       }
