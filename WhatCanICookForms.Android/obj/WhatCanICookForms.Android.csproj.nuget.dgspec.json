@@ -72,6 +72,10 @@
               "target": "Package",
               "version": "[4.2.0.815419, )"
             },
+            "Xamarin.Google.iOS.MobileAds": {
+              "target": "Package",
+              "version": "[7.38.0, )"
+            },
             "Xamarin.GooglePlayServices.Ads.Lite": {
               "target": "Package",
               "version": "[71.1720.1, )"

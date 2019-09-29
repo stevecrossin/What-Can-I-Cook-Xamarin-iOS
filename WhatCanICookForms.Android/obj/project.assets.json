@@ -943,6 +943,12 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Google.iOS.MobileAds/7.38.0": {
+        "type": "package",
+        "build": {
+          "build/Xamarin.Google.iOS.MobileAds.targets": {}
+        }
+      },
       "Xamarin.GooglePlayServices.Ads.Base/71.1720.0": {
         "type": "package",
         "dependencies": {
@@ -2407,6 +2413,20 @@
         "xamarin.forms.nuspec"
       ]
     },
+    "Xamarin.Google.iOS.MobileAds/7.38.0": {
+      "sha512": "IQAINSY8W0i3DzM3xxLT1GRrQcoHPyGLXH3HXpEUw1DdmF36tLPx7X9zzstgQRLpy/Yux0lLXSJlnUB01u+3Zg==",
+      "type": "package",
+      "path": "xamarin.google.ios.mobileads/7.38.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "THIRD-PARTY-NOTICES",
+        "build/Xamarin.Google.iOS.MobileAds.targets",
+        "lib/Xamarin.iOS10/Google.MobileAds.dll",
+        "xamarin.google.ios.mobileads.7.38.0.nupkg.sha512",
+        "xamarin.google.ios.mobileads.nuspec"
+      ]
+    },
     "Xamarin.GooglePlayServices.Ads.Base/71.1720.0": {
       "sha512": "YkCFzCna8xMbUgcizFS4g8YHz/Qb6eIK2xzASKk/ISjMJxZmlaojs7E5kuNfK6FsO/oYXMqd9i7+9nS0gsGIAw==",
       "type": "package",
@@ -2495,6 +2515,7 @@
       "Xamarin.Android.Support.v7.MediaRouter >= 28.0.0.3",
       "Xamarin.Essentials >= 1.3.1",
       "Xamarin.Forms >= 4.2.0.815419",
+      "Xamarin.Google.iOS.MobileAds >= 7.38.0",
       "Xamarin.GooglePlayServices.Ads.Lite >= 71.1720.1"
     ]
   },
@@ -2568,6 +2589,10 @@
           "Xamarin.Forms": {
             "target": "Package",
             "version": "[4.2.0.815419, )"
+          },
+          "Xamarin.Google.iOS.MobileAds": {
+            "target": "Package",
+            "version": "[7.38.0, )"
           },
           "Xamarin.GooglePlayServices.Ads.Lite": {
             "target": "Package",
