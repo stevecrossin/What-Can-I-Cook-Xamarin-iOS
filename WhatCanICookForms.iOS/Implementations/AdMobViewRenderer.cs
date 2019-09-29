@@ -31,7 +31,7 @@ namespace WhatCanICookForms.iOS.Implementations
 
         private BannerView CreateBannerView()
         {
-            var bannerView = new BannerView(AdSizeCons.SmartBannerPortrait)
+            var bannerView = new BannerView(AdSizeCons.Banner)
             {
                 AdUnitID = Element.AdUnitId,
                 RootViewController = GetVisibleViewController()
