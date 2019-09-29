@@ -23,6 +23,7 @@
     <Folder Include="Data\" />
     <Folder Include="BaseClasses\" />
     <Folder Include="Converters\" />
+    <Folder Include="Control\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="ingredients.csv" />

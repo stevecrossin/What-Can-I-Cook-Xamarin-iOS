@@ -1,59 +1,29 @@
-﻿<Properties StartupConfiguration="{8BB66E33-ACCD-4C03-A357-45F04D8F646A}|Default">
-  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4D170FD1-6DD5-41C9-964A-3E3B2967F0F6" />
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{D87CFC53-A682-4453-812C-0D7E55C3F285}|Default">
+  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0C0CE06F-3648-4FA5-BD8D-7611E7FEDD08" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhatCanICookForms.Android/Properties/AndroidManifest.xml">
     <Files>
-      <File FileName="WhatCanICookForms/Models/IngredientDatabase.cs" Line="112" Column="32" />
-      <File FileName="WhatCanICookForms/Views/SelectedIngredients.xaml" />
-      <File FileName="WhatCanICookForms/Views/SelectedIngredients.xaml.cs" Line="20" Column="11" />
-      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml.cs" Line="1" Column="1" />
-      <File FileName="WhatCanICookForms/Views/IngredientPicker.xaml" Line="21" Column="53" />
-      <File FileName="WhatCanICookForms/ViewModels/PantryViewModel.cs" Line="1" Column="1" />
-      <File FileName="WhatCanICookForms/Data/Ingredient.cs" Line="1" Column="1" />
-      <File FileName="WhatCanICookForms/ViewModels/BaseViewModel.cs" Line="1" Column="1" />
-      <File FileName="WhatCanICookForms/ViewModels/IngredientPickerViewModel.cs" Line="1" Column="1" />
-      <File FileName="WhatCanICookForms/ViewModels/SelectedIngredientsViewModel.cs" Line="1" Column="1" />
-      <File FileName="WhatCanICookForms/Views/Pantry.xaml.cs" Line="1" Column="1" />
-      <File FileName="WhatCanICookForms/ingredients.csv" Line="110" Column="29" />
-      <File FileName="WhatCanICookForms.Android/Resources/drawable/splash_screen.xml" Line="9" Column="5" />
-      <File FileName="WhatCanICookForms.Android/Resources/values/styles.xml" Line="29" Column="23" />
+      <File FileName="WhatCanICookForms/Views/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="WhatCanICookForms.Android/Helpers/AdViewRenderer.cs" />
+      <File FileName="../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.iOS.Common.targets" />
+      <File FileName="WhatCanICookForms.Android/Properties/AndroidManifest.xml" Line="7" Column="64" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WhatCanICookForms" expanded="True">
-            <Node name="WhatCanICookForms" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-              <Node name="BaseClasses" expanded="True" />
-              <Node name="Converters" expanded="True" />
-              <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="DietaryPreferences.xaml" expanded="True" />
-                <Node name="HomePage.xaml" expanded="True" />
-                <Node name="IngredientPicker.xaml" expanded="True" />
-                <Node name="Pantry.xaml" expanded="True" />
-                <Node name="SelectedIngredients.xaml" expanded="True" />
-              </Node>
-              <Node name="ingredients.csv" selected="True" />
-            </Node>
+            <Node name="WhatCanICookForms" expanded="True" />
             <Node name="WhatCanICookForms.Android" expanded="True">
-              <Node name="Resources" expanded="True">
-                <Node name="drawable" expanded="True" />
-                <Node name="values" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="AndroidManifest.xml" selected="True" />
               </Node>
             </Node>
-            <Node name="WhatCanICookForms.iOS" expanded="True">
-              <Node name="Resources" expanded="True" />
-            </Node>
+            <Node name="WhatCanICookForms.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.nexus_5x" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
