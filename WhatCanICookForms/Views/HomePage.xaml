@@ -1,21 +1,3 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="WhatCanICookForms.Views.HomePage">
-       <StackLayout BackgroundColor="#fff5d5">
-        <!-- Place new controls here -->
-           <ImageButton Source="pickingredients.png"
-                    HorizontalOptions="Center"
-                    VerticalOptions="Center"
-                    Margin="20,50,20,30"
-                    Clicked="Pick_Ingredients_Clicked"/>
-           <ImageButton Source="dietaryneeds.png"
-                    HorizontalOptions="Center"
-                    VerticalOptions="Center"
-                    Margin="20,0,20,30"
-                    Clicked="Dietary_Clicked"/>
-           <ImageButton Source="pantry.png"
-                    HorizontalOptions="Center"
-                    VerticalOptions="Center"
-                    Margin="20,0,20,30"
-                    Clicked="Pantry_Clicked"/>
-    </StackLayout>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="WhatCanICookForms.Views.HomePage" BackgroundColor="#fff5d5">
 </ContentPage>

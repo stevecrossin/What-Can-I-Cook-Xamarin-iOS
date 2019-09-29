@@ -1,6 +1,5 @@
 ﻿using System;
 using Xamarin.Forms;
-using WhatCanICookForms.Controls;
 using WhatCanICookForms.Views;
 
 namespace WhatCanICookForms
@@ -20,35 +19,7 @@ namespace WhatCanICookForms
         {
             InitializeComponent();
             NavigationPage.SetHasNavigationBar(this, false);
-            Label loginLabel = new Label();
-            loginLabel.Text = "Login to What Can I Cook";
-            loginLabel.HorizontalOptions = LayoutOptions.CenterAndExpand;
-            loginLabel.VerticalOptions = LayoutOptions.Start;
-            loginLabel.Margin = 50;
-            ImageButton fbImage = new ImageButton();
-            fbImage.Source = "facebooklogin.png";
-            fbImage.Clicked += btnLoginClicked;
-            fbImage.Margin = 50;
-            fbImage.HorizontalOptions = LayoutOptions.CenterAndExpand;
-            fbImage.VerticalOptions = LayoutOptions.CenterAndExpand;
-
-            AdmobControl admobControl = new AdmobControl()
-
-            {
-                AdUnitId = AppConstants.BannerId
-            };
-            admobControl.HorizontalOptions = LayoutOptions.CenterAndExpand;
-            admobControl.VerticalOptions = LayoutOptions.EndAndExpand;
            
-
-            Content = new StackLayout()
-            {
-            Children = { loginLabel, fbImage, admobControl } 
-            /* Hasan, comment out admob control if you need to test cancelling an oAuth login request. AdMob for iOS and OAuth 
-            * don't play nicely together, and both being active causes issues with the rendering of the MainPage when request is cancelled.
-            */
-             
-           };
         }
             
 
