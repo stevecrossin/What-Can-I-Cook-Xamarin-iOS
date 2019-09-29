@@ -43,7 +43,10 @@ namespace WhatCanICookForms
 
             Content = new StackLayout()
             {
-            Children = { loginLabel, fbImage, admobControl }
+            Children = { loginLabel, fbImage, admobControl } 
+            /* Hasan, comment out admob control if you need to test cancelling an oAuth login request. AdMob for iOS and OAuth 
+            * don't play nicely together, and both being active causes issues with the rendering of the MainPage when request is cancelled.
+            */
              
            };
         }
