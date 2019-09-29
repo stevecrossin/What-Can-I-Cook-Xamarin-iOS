@@ -1,11 +1,13 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{D87CFC53-A682-4453-812C-0D7E55C3F285}|Default">
-  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0C0CE06F-3648-4FA5-BD8D-7611E7FEDD08" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WhatCanICookForms.Android/Properties/AndroidManifest.xml">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{8BB66E33-ACCD-4C03-A357-45F04D8F646A}|Default">
+  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EEBF5FCA-E9B0-4F24-88F7-388B5AA19B41" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="WhatCanICookForms/Views/MainPage.xaml" Line="1" Column="1" />
-      <File FileName="WhatCanICookForms.Android/Helpers/AdViewRenderer.cs" />
-      <File FileName="../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.iOS.Common.targets" />
-      <File FileName="WhatCanICookForms.Android/Properties/AndroidManifest.xml" Line="7" Column="64" />
+      <File FileName="WhatCanICookForms.Android/Helpers/AdViewRenderer.cs" Line="15" Column="66" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.iOS.Common.targets" />
+      <File FileName="WhatCanICookForms.Android/Properties/AndroidManifest.xml" />
+      <File FileName="WhatCanICookForms.Android/Resources/values/styles.xml" Line="29" Column="3" />
+      <File FileName="WhatCanICookForms.Android/MainActivity.cs" Line="19" Column="53" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,8 +15,12 @@
           <Node name="WhatCanICookForms" expanded="True">
             <Node name="WhatCanICookForms" expanded="True" />
             <Node name="WhatCanICookForms.Android" expanded="True">
-              <Node name="Properties" expanded="True">
-                <Node name="AndroidManifest.xml" selected="True" />
+              <Node name="Helpers" expanded="True">
+                <Node name="AdViewRenderer.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="values" expanded="True" />
               </Node>
             </Node>
             <Node name="WhatCanICookForms.iOS" expanded="True" />
@@ -23,7 +29,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.nexus_5x" />
+  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_x64" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

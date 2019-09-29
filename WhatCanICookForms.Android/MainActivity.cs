@@ -9,12 +9,14 @@ using Android.OS;
 
 namespace WhatCanICookForms.Droid
 {
-    [Activity(Label = "WhatCanICookForms", Icon = "@drawable/icon", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
-
-    public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
+    [Activity(Label = "WhatCanICookForms", Theme = "@style/splashscreen", Icon = "@drawable/icon", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation, LaunchMode = LaunchMode.SingleTop)]
+    public class MainActivity : Xamarin.Forms.Platform.Android.FormsAppCompatActivity
+    
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
+            base.Window.RequestFeature(WindowFeatures.ActionBar);
+            base.SetTheme(Resource.Style.MainTheme);
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
 

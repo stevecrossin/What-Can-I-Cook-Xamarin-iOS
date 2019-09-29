@@ -2499,20 +2499,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/Michael/.nuget/packages/": {}
+    "/Users/stevencrossin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
+      "projectUniqueName": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
       "projectName": "WhatCanICookForms.Android",
-      "projectPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
-      "packagesPath": "/Users/Michael/.nuget/packages/",
-      "outputPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/",
+      "projectPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/WhatCanICookForms.Android.csproj",
+      "packagesPath": "/Users/stevencrossin/.nuget/packages/",
+      "outputPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/Michael/.config/NuGet/NuGet.Config"
+        "/Users/stevencrossin/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
@@ -2523,8 +2523,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
-              "projectPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj"
+            "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
+              "projectPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj"
             }
           }
         }

@@ -2,9 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.whatcanicookforms">
 	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="28" />
 	<application android:label="WhatCanICookForms.Android">
-        <meta-data
-          android:name="com.google.android.gms.ads.APPLICATION_ID"
-          android:value="ca-app-pub-6486258628588307~4051321968"/>
+		<meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-6486258628588307~4051321968" />
 		<activity android:name="com.google.android.gms.ads.AdActivity" android:value="@integer/google_play_services_version" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" android:theme="@android:style/Theme.Translucent" />
 	</application>
 	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
