@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 
 using Foundation;
-using Google.MobileAds;
 using UIKit;
 
 namespace WhatCanICookForms.iOS
@@ -24,7 +23,6 @@ namespace WhatCanICookForms.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
-            MobileAds.Configure("ca-app-pub-6486258628588307~4051321968");
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

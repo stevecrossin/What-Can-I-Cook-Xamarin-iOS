@@ -42,4 +42,3 @@
 /Users/Michael/.nuget/packages/plugin.share/7.1.1/lib/Xamarin.iOS10/Plugin.Share.Abstractions.dll
 /Users/Michael/.nuget/packages/xamarin.auth/1.7.0/lib/Xamarin.iOS10/Xamarin.Auth.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/System.Json.dll
-/Users/Michael/.nuget/packages/xamarin.google.ios.mobileads/7.38.0/lib/Xamarin.iOS10/Google.MobileAds.dll

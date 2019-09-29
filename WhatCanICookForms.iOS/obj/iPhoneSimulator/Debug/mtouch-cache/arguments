@@ -1,4 +1,0 @@
-# Version: 12.14.0.114 (d16-2): c6691164)
-# [first argument, ignore] # @/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/obj/iPhoneSimulator/Debug/response-file.rsp
-/Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mtouch/mtouch.exe \
-	'--gcc_flags=-ObjC -lz -lsqlite3' \
