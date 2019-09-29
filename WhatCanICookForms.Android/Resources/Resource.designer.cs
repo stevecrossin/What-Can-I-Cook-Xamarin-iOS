@@ -8335,13 +8335,34 @@ namespace WhatCanICookForms.Droid
 			public const int path_password_strike_through = 2131558476;
 			
 			// aapt resource value: 0x7F0D004D
-			public const int search_menu_title = 2131558477;
+			public const int s1 = 2131558477;
 			
 			// aapt resource value: 0x7F0D004E
-			public const int status_bar_notification_info_overflow = 2131558478;
+			public const int s2 = 2131558478;
 			
 			// aapt resource value: 0x7F0D004F
-			public const int title_activity_webview = 2131558479;
+			public const int s3 = 2131558479;
+			
+			// aapt resource value: 0x7F0D0050
+			public const int s4 = 2131558480;
+			
+			// aapt resource value: 0x7F0D0051
+			public const int s5 = 2131558481;
+			
+			// aapt resource value: 0x7F0D0052
+			public const int s6 = 2131558482;
+			
+			// aapt resource value: 0x7F0D0053
+			public const int s7 = 2131558483;
+			
+			// aapt resource value: 0x7F0D0054
+			public const int search_menu_title = 2131558484;
+			
+			// aapt resource value: 0x7F0D0055
+			public const int status_bar_notification_info_overflow = 2131558485;
+			
+			// aapt resource value: 0x7F0D0056
+			public const int title_activity_webview = 2131558486;
 			
 			static String()
 			{

@@ -23,7 +23,8 @@ namespace WhatCanICookForms.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
-            Google.MobileAds.MobileAds.Configure("ca-app-pub-6486258628588307~8040330879");
+            Google.MobileAds.MobileAds.Configure("ca-app-pub-6486258628588307~7640875628");
+
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

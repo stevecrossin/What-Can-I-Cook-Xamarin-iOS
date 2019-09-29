@@ -1,24 +1,8 @@
-# Keep implementations of the AdMob mediation adapter interfaces. Adapters for
-# third party ad networks implement these interfaces and are invoked by the
-# AdMob SDK via reflection.
-
--keep class * implements com.google.android.gms.ads.mediation.MediationAdapter {
-  public *;
+-keep public class com.google.android.gms.ads.internal.ClientApi {
+  <init>();
 }
--keep class * implements com.google.ads.mediation.MediationAdapter {
-  public *;
-}
--keep class * implements com.google.android.gms.ads.mediation.customevent.CustomEvent {
-  public *;
-}
--keep class * implements com.google.ads.mediation.customevent.CustomEvent {
-  public *;
-}
--keep class * extends com.google.android.gms.ads.mediation.MediationAdNetworkAdapter {
-  public *;
-}
--keep class * extends com.google.android.gms.ads.mediation.Adapter {
-  public *;
+-keep public class com.google.android.gms.ads.internal.ClientApi2 {
+  <init>();
 }
 
 # We keep all fields for every generated proto file as the runtime uses
@@ -27,3 +11,7 @@
 -keepclassmembers class * extends com.google.android.gms.internal.ads.zzdoa {
   <fields>;
 }
+
+# Auto-generated proguard rule with obfuscated symbol
+-dontwarn com.google.android.gms.internal.ads.zzaxz
+
