@@ -67,8 +67,11 @@
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.dll
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.GooglePlayServices.Ads.Base.dll
+/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.GooglePlayServices.Ads.dll
+/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.GooglePlayServices.Ads.Identifier.dll
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.GooglePlayServices.Ads.Lite.dll
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.GooglePlayServices.Basement.dll
+/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.GooglePlayServices.Gass.dll
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.GooglePlayServices.Measurement.Base.dll
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/Xamarin.GooglePlayServices.Measurement.Sdk.Api.dll
 /Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.Android/obj/Debug/android/assets/System.Net.Http.dll

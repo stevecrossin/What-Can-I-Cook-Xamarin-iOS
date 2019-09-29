@@ -50,7 +50,10 @@ Xamarin.Essentials
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.GooglePlayServices.Ads.Base
+Xamarin.GooglePlayServices.Ads
+Xamarin.GooglePlayServices.Ads.Identifier
 Xamarin.GooglePlayServices.Ads.Lite
 Xamarin.GooglePlayServices.Basement
+Xamarin.GooglePlayServices.Gass
 Xamarin.GooglePlayServices.Measurement.Base
 Xamarin.GooglePlayServices.Measurement.Sdk.Api

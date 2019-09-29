@@ -6,6 +6,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Android.Gms.Ads;
 
 namespace WhatCanICookForms.Droid
 {
@@ -23,8 +24,8 @@ namespace WhatCanICookForms.Droid
             base.OnCreate(savedInstanceState);
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
-            Android.Gms.Ads.MobileAds.Initialize(ApplicationContext, "ca-app-pub-6486258628588307~4051321968");
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+            MobileAds.Initialize(ApplicationContext, AppConstants.AppId);
             LoadApplication(new App());
         }
 

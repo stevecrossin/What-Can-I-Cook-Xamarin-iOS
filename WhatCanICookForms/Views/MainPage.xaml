@@ -5,22 +5,5 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:ads="clr-namespace:WhatCanICookForms.Controls" mc:Ignorable="d" x:Class="WhatCanICookForms.MainPage"
              BackgroundColor="#fff5d5"
              NavigationPage.HasNavigationBar="False">
-    <Grid RowSpacing="0" x:Name="MainGrid">
-        <Grid.RowDefinitions>
-            <RowDefinition Height="*"/>
-            <RowDefinition Height="Auto"/>
-        </Grid.RowDefinitions>
-        <StackLayout x:Name="MainStack" Margin="20,60,20,20">
-            <!-- Place new controls here -->
-            <Label x:Name="LoginLabel" Text="Login to What Can I Cook"
-                    Margin="20,20,20,30"
-                   HorizontalTextAlignment="Center" />
-            <ImageButton x:Name="LoginButton" Source="facebooklogin.png"
-            HorizontalOptions="Center" 
-            VerticalOptions="CenterAndExpand"
-            Margin="20,200,20,30"
-            Clicked="btnLoginClicked" />
-        </StackLayout>
-    </Grid>
 </ContentPage>
 
