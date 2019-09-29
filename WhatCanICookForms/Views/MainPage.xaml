@@ -3,8 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             xmlns:ads="clr-namespace:WhatCanICookForms.Control"
-             mc:Ignorable="d" x:Class="WhatCanICookForms.MainPage"
+             xmlns:ads="clr-namespace:AdMob" xmlns:local="clr-namespace:WhatCanICookForms" mc:Ignorable="d" x:Class="WhatCanICookForms.MainPage"
              BackgroundColor="#fff5d5"
              NavigationPage.HasNavigationBar="False">
     <Grid RowSpacing="0">
@@ -24,7 +23,7 @@
                         Margin="20,200,20,30"
                 Clicked="btnLoginClicked" />
         </StackLayout>
-        <ads:AdControlView BackgroundColor="White" Grid.Row="1"/>
+        <local:AdMobView AdUnitId="{Binding AdUnitId}" Grid.Row="1" />
     </Grid>
 </ContentPage>
 

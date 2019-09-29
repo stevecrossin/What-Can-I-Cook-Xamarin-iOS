@@ -19,6 +19,10 @@ namespace WhatCanICookForms
         {
             InitializeComponent();
             NavigationPage.SetHasNavigationBar(this, false);
+            if (Device.RuntimePlatform == Device.iOS)
+                AdUnitId = "iOS Key";
+            else if (Device.RuntimePlatform == Device.Android)
+                AdUnitId = "Android Key";
         }
 
         /*
@@ -29,6 +33,8 @@ namespace WhatCanICookForms
             Navigation.PushAsync(new LoginPage());
             /*To bypass FB login for Testing, change LoginPage to HomePage*/
         }
+
+
 
     }
 }

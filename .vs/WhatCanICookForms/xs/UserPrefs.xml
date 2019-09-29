@@ -2,22 +2,31 @@
   <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EEBF5FCA-E9B0-4F24-88F7-388B5AA19B41" />
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="WhatCanICookForms/Views/MainPage.xaml" Line="1" Column="1" />
-      <File FileName="WhatCanICookForms.Android/Helpers/AdViewRenderer.cs" Line="15" Column="66" />
+      <File FileName="WhatCanICookForms/Views/MainPage.xaml" Line="16" Column="51" />
       <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.iOS.Common.targets" />
-      <File FileName="WhatCanICookForms.Android/Properties/AndroidManifest.xml" />
-      <File FileName="WhatCanICookForms.Android/Resources/values/styles.xml" Line="29" Column="3" />
-      <File FileName="WhatCanICookForms.Android/MainActivity.cs" Line="19" Column="53" />
+      <File FileName="WhatCanICookForms.Android/Resources/values/styles.xml" />
+      <File FileName="WhatCanICookForms.Android/MainActivity.cs" Line="24" Column="1" />
+      <File FileName="WhatCanICookForms.Android/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="WhatCanICookForms.Android/LoginPageRender.cs" />
+      <File FileName="WhatCanICookForms/Views/LoginPage.xaml" Line="1" Column="1" />
+      <File FileName="WhatCanICookForms/Views/MainPage.xaml.cs" Line="22" Column="54" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WhatCanICookForms" expanded="True">
-            <Node name="WhatCanICookForms" expanded="True" />
-            <Node name="WhatCanICookForms.Android" expanded="True">
-              <Node name="Helpers" expanded="True">
-                <Node name="AdViewRenderer.cs" selected="True" />
+            <Node name="WhatCanICookForms" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="LoginPage.xaml" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True">
+                  <Node name="MainPage.xaml.cs" selected="True" />
+                </Node>
               </Node>
+            </Node>
+            <Node name="WhatCanICookForms.Android" expanded="True">
               <Node name="Properties" expanded="True" />
               <Node name="Resources" expanded="True">
                 <Node name="values" expanded="True" />
@@ -29,7 +38,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_x64" />
+  <MonoDevelop.Ide.ItemProperties.WhatCanICookForms.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_2_pie_9_0_api_28" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -23,6 +23,7 @@ namespace WhatCanICookForms.Droid
             base.OnCreate(savedInstanceState);
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
+            Android.Gms.Ads.MobileAds.Initialize(ApplicationContext, "ca-app-pub-6486258628588307~7640875628");
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());
         }
