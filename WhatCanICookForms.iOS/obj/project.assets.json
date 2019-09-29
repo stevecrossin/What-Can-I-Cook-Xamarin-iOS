@@ -1471,20 +1471,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/Michael/.nuget/packages/": {}
+    "/Users/stevencrossin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
+      "projectUniqueName": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
       "projectName": "WhatCanICookForms.iOS",
-      "projectPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
-      "packagesPath": "/Users/Michael/.nuget/packages/",
-      "outputPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/obj/",
+      "projectPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/WhatCanICookForms.iOS.csproj",
+      "packagesPath": "/Users/stevencrossin/.nuget/packages/",
+      "outputPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/Michael/.config/NuGet/NuGet.Config"
+        "/Users/stevencrossin/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -1495,8 +1495,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
-              "projectPath": "/Users/Michael/Documents/GitHub/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj"
+            "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj": {
+              "projectPath": "/Users/stevencrossin/Projects/What-Can-I-Cook-Xamarin-iOS/WhatCanICookForms/WhatCanICookForms.csproj"
             }
           }
         }

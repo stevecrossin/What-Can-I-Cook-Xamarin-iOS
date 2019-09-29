@@ -8,7 +8,7 @@
   <application android:label="WhatCanICookForms.Android" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
     <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-6486258628588307~4051321968" />
     <activity android:name="com.google.android.gms.ads.AdActivity" android:value="@integer/google_play_services_version" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" android:theme="@android:style/Theme.Translucent" />
-    <activity android:configChanges="orientation|screenSize" android:icon="@mipmap/icon" android:label="WhatCanICookForms" android:theme="@style/MainTheme" android:name="md55015ef125a83b97e42099759b4f4c93d.MainActivity">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="WhatCanICookForms" android:launchMode="singleTop" android:theme="@style/splashscreen" android:name="md55015ef125a83b97e42099759b4f4c93d.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
@@ -35,10 +35,10 @@
         <category android:name="mono.android.intent.category.SEPPUKU.com.companyname.whatcanicookforms" />
       </intent-filter>
     </receiver>
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
     <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
     <activity android:name="com.google.android.gms.ads.AdActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" android:exported="false" android:theme="@android:style/Theme.Translucent" />
     <provider android:name="com.google.android.gms.ads.MobileAdsInitProvider" android:authorities="com.companyname.whatcanicookforms.mobileadsinitprovider" android:exported="false" android:initOrder="100" />
-    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
   </application>
   <uses-permission android:name="android.permission.WAKE_LOCK" />
 </manifest>
